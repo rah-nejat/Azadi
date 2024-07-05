@@ -123,8 +123,7 @@
                 "🏳️XX | ss | @OutlineVpnOfficial | 19",
                 "🏳️XX | ss | @FAKEOFTVC | 9",
                 "🏳️XX | ss | @proxy_mtm | 0",
-                "🏳️XX | ss | @kingofilter | 1",
-                "🏳️XX | ss | @kingofilter | 2"
+                "🏳️XX | ss | @kingofilter | 1"
             ]
         },
         {
@@ -148,8 +147,7 @@
                 "🏳️XX | ss | @OutlineVpnOfficial | 19",
                 "🏳️XX | ss | @FAKEOFTVC | 9",
                 "🏳️XX | ss | @proxy_mtm | 0",
-                "🏳️XX | ss | @kingofilter | 1",
-                "🏳️XX | ss | @kingofilter | 2"
+                "🏳️XX | ss | @kingofilter | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -343,16 +341,6 @@
         },
         {
             "tag": "🏳️XX | ss | @kingofilter | 1",
-            "type": "shadowsocks",
-            "server": "40.172.1.97",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🏳️XX | ss | @kingofilter | 2",
             "type": "shadowsocks",
             "server": "40.172.1.97",
             "server_port": 443,
