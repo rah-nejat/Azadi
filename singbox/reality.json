@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | vless | @ipV2Ray | 0",
+                "🏳️XX | vless | @ipV2Ray | 0",
                 "🏳️XX | vless | @V2pedia | 1",
                 "🏳️XX | vless | @V2pedia | 6",
-                "🇩🇪DE | vless | @ARv2ray | 1",
-                "🇩🇪DE | vless | @ARv2ray | 2",
-                "🇩🇪DE | vless | @ARv2ray | 5",
+                "🏳️XX | vless | @ARv2ray | 1",
+                "🏳️XX | vless | @ARv2ray | 2",
+                "🏳️XX | vless | @ARv2ray | 5",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 9",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 12",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 13",
@@ -124,7 +124,7 @@
                 "🏳️XX | vless | @VmessProtocol | 9",
                 "🏳️XX | vless | @VmessProtocol | 10",
                 "🏳️XX | vless | @sinabigo | 2",
-                "🏳️XX | vless | @Outlinev2rayNG | 8",
+                "🏳️XX | vless | @Outlinev2rayNG | 10",
                 "🏳️XX | vless | @Capital_NET | 31",
                 "🏳️XX | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -161,12 +161,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | vless | @ipV2Ray | 0",
+                "🏳️XX | vless | @ipV2Ray | 0",
                 "🏳️XX | vless | @V2pedia | 1",
                 "🏳️XX | vless | @V2pedia | 6",
-                "🇩🇪DE | vless | @ARv2ray | 1",
-                "🇩🇪DE | vless | @ARv2ray | 2",
-                "🇩🇪DE | vless | @ARv2ray | 5",
+                "🏳️XX | vless | @ARv2ray | 1",
+                "🏳️XX | vless | @ARv2ray | 2",
+                "🏳️XX | vless | @ARv2ray | 5",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 9",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 12",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 13",
@@ -179,7 +179,7 @@
                 "🏳️XX | vless | @VmessProtocol | 9",
                 "🏳️XX | vless | @VmessProtocol | 10",
                 "🏳️XX | vless | @sinabigo | 2",
-                "🏳️XX | vless | @Outlinev2rayNG | 8",
+                "🏳️XX | vless | @Outlinev2rayNG | 10",
                 "🏳️XX | vless | @Capital_NET | 31",
                 "🏳️XX | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -232,7 +232,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | vless | @ipV2Ray | 0",
+            "tag": "🏳️XX | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "188.245.69.77",
             "server_port": 443,
@@ -340,7 +340,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 1",
+            "tag": "🏳️XX | vless | @ARv2ray | 1",
             "type": "vless",
             "server": "188.245.67.193",
             "server_port": 443,
@@ -376,7 +376,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 2",
+            "tag": "🏳️XX | vless | @ARv2ray | 2",
             "type": "vless",
             "server": "188.245.34.226",
             "server_port": 443,
@@ -412,7 +412,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 5",
+            "tag": "🏳️XX | vless | @ARv2ray | 5",
             "type": "vless",
             "server": "188.245.32.88",
             "server_port": 443,
@@ -831,7 +831,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @Outlinev2rayNG | 8",
+            "tag": "🏳️XX | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "panel.karunvps.shop",
             "server_port": 1633,
