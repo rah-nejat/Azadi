@@ -182,9 +182,13 @@ proxies:
   - {"name":"🏳️XX | ss | @OutlineVpnOfficial | 16","type":"ss","server":"103.106.3.170","port":27179,"password":"pM9IbADqbb5tsSTjebQRbc","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🏳️XX | ss | @OutlineVpnOfficial | 18","type":"ss","server":"147.45.51.15","port":1080,"password":"3pURuTUf-lFgg5qWg8euFA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🏳️XX | ss | @OutlineVpnOfficial | 19","type":"ss","server":"52.169.37.198","port":5351,"password":"CXmScWyHfrz8vfwAvd7dJ7","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🏳️XX | vmess | @ConfigsHUB | 4","type":"vmess","server":"104.19.47.148","port":"8443","cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
-  - {"name":"🏳️XX | trojan | @ConfigsHUB | 11","type":"trojan","server":"15.188.227.118","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🏳️XX | trojan | @ConfigsHUB | 12","type":"trojan","server":"3.134.49.66","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 8","type":"vmess","server":"zula.ir","port":"443","cipher":"auto","uuid":"950db6aa-4926-4616-816e-ec0312dcb87b","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"jahfkjha.cfd"}}}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 10","type":"vmess","server":"129.146.113.254","port":43121,"cipher":"aes-128-gcm","uuid":"d53b39e2-925e-45b6-9389-46b9fa95878b","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 11","type":"vmess","server":"cfcdn2.sanfencdn9.com","port":2052,"cipher":"aes-128-gcm","uuid":"d0a3e08a-d26f-45bd-ba3c-6387f9182633","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/c9efxRCi","headers":{"host":"7nAi74jJsg1.yofnhkfc.xyz"}}}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 12","type":"vmess","server":"104.17.25.1","port":80,"cipher":"aes-128-gcm","uuid":"83c19463-f966-4adb-a7d8-b127825ffab2","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"kr.catnipballs.gay"}}}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 14","type":"vmess","server":"cfcdn3.sanfencdn9.com","port":80,"cipher":"aes-128-gcm","uuid":"d0a3e08a-d26f-45bd-ba3c-6387f9182633","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/ibCT6z55","headers":{"host":"agzbjszujp4.yofnhkfc.xyz"}}}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 15","type":"vmess","server":"nb24.ntbq.dynu.net","port":4443,"cipher":"aes-128-gcm","uuid":"1cc969d3-1df8-4794-a5cc-9231fe0e4710","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🏳️XX | vmess | @ConfigsHUB | 16","type":"vmess","server":"183.236.48.169","port":1002,"cipher":"aes-128-gcm","uuid":"229ccd44-c56c-3947-88de-849dd70c180d","alterId":2,"tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🏳️XX | trojan | @proxystore11 | 0","type":"trojan","server":"13.60.113.91","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🏳️XX | vmess | @yaney_01 | 1","type":"vmess","server":"45.199.138.217","port":"41000","cipher":"auto","uuid":"f9fa3a9c-f7d5-414f-88e6-6970585d9949","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/282018252526","headers":{"host":"45.199.138.217"}}}
   - {"name":"🏳️XX | vmess | @yaney_01 | 2","type":"vmess","server":"107.149.119.43","port":"37000","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/040318142507","headers":{"host":"107.149.119.43"}}}
@@ -278,9 +282,13 @@ proxy-groups:
       - '🏳️XX | ss | @OutlineVpnOfficial | 16'
       - '🏳️XX | ss | @OutlineVpnOfficial | 18'
       - '🏳️XX | ss | @OutlineVpnOfficial | 19'
-      - '🏳️XX | vmess | @ConfigsHUB | 4'
-      - '🏳️XX | trojan | @ConfigsHUB | 11'
-      - '🏳️XX | trojan | @ConfigsHUB | 12'
+      - '🏳️XX | vmess | @ConfigsHUB | 8'
+      - '🏳️XX | vmess | @ConfigsHUB | 10'
+      - '🏳️XX | vmess | @ConfigsHUB | 11'
+      - '🏳️XX | vmess | @ConfigsHUB | 12'
+      - '🏳️XX | vmess | @ConfigsHUB | 14'
+      - '🏳️XX | vmess | @ConfigsHUB | 15'
+      - '🏳️XX | vmess | @ConfigsHUB | 16'
       - '🏳️XX | trojan | @proxystore11 | 0'
       - '🏳️XX | vmess | @yaney_01 | 1'
       - '🏳️XX | vmess | @yaney_01 | 2'
@@ -374,9 +382,13 @@ proxy-groups:
       - '🏳️XX | ss | @OutlineVpnOfficial | 16'
       - '🏳️XX | ss | @OutlineVpnOfficial | 18'
       - '🏳️XX | ss | @OutlineVpnOfficial | 19'
-      - '🏳️XX | vmess | @ConfigsHUB | 4'
-      - '🏳️XX | trojan | @ConfigsHUB | 11'
-      - '🏳️XX | trojan | @ConfigsHUB | 12'
+      - '🏳️XX | vmess | @ConfigsHUB | 8'
+      - '🏳️XX | vmess | @ConfigsHUB | 10'
+      - '🏳️XX | vmess | @ConfigsHUB | 11'
+      - '🏳️XX | vmess | @ConfigsHUB | 12'
+      - '🏳️XX | vmess | @ConfigsHUB | 14'
+      - '🏳️XX | vmess | @ConfigsHUB | 15'
+      - '🏳️XX | vmess | @ConfigsHUB | 16'
       - '🏳️XX | trojan | @proxystore11 | 0'
       - '🏳️XX | vmess | @yaney_01 | 1'
       - '🏳️XX | vmess | @yaney_01 | 2'
@@ -469,9 +481,13 @@ proxy-groups:
       - '🏳️XX | ss | @OutlineVpnOfficial | 16'
       - '🏳️XX | ss | @OutlineVpnOfficial | 18'
       - '🏳️XX | ss | @OutlineVpnOfficial | 19'
-      - '🏳️XX | vmess | @ConfigsHUB | 4'
-      - '🏳️XX | trojan | @ConfigsHUB | 11'
-      - '🏳️XX | trojan | @ConfigsHUB | 12'
+      - '🏳️XX | vmess | @ConfigsHUB | 8'
+      - '🏳️XX | vmess | @ConfigsHUB | 10'
+      - '🏳️XX | vmess | @ConfigsHUB | 11'
+      - '🏳️XX | vmess | @ConfigsHUB | 12'
+      - '🏳️XX | vmess | @ConfigsHUB | 14'
+      - '🏳️XX | vmess | @ConfigsHUB | 15'
+      - '🏳️XX | vmess | @ConfigsHUB | 16'
       - '🏳️XX | trojan | @proxystore11 | 0'
       - '🏳️XX | vmess | @yaney_01 | 1'
       - '🏳️XX | vmess | @yaney_01 | 2'
