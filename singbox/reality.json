@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | vless | @ipV2Ray | 0",
+                "🏳️XX | vless | @ipV2Ray | 0",
                 "🏳️XX | vless | @V2pedia | 1",
-                "🇩🇪DE | vless | @ARv2ray | 3",
-                "🇩🇪DE | vless | @ARv2ray | 5",
-                "🇩🇪DE | vless | @ARv2ray | 6",
-                "🇩🇪DE | vless | @ARv2ray | 9",
+                "🏳️XX | vless | @ARv2ray | 3",
+                "🏳️XX | vless | @ARv2ray | 5",
+                "🏳️XX | vless | @ARv2ray | 6",
+                "🏳️XX | vless | @ARv2ray | 9",
                 "🏳️XX | vless | @free_v2rayyy | 0",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 9",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 12",
@@ -156,12 +156,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | vless | @ipV2Ray | 0",
+                "🏳️XX | vless | @ipV2Ray | 0",
                 "🏳️XX | vless | @V2pedia | 1",
-                "🇩🇪DE | vless | @ARv2ray | 3",
-                "🇩🇪DE | vless | @ARv2ray | 5",
-                "🇩🇪DE | vless | @ARv2ray | 6",
-                "🇩🇪DE | vless | @ARv2ray | 9",
+                "🏳️XX | vless | @ARv2ray | 3",
+                "🏳️XX | vless | @ARv2ray | 5",
+                "🏳️XX | vless | @ARv2ray | 6",
+                "🏳️XX | vless | @ARv2ray | 9",
                 "🏳️XX | vless | @free_v2rayyy | 0",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 9",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 12",
@@ -222,7 +222,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | vless | @ipV2Ray | 0",
+            "tag": "🏳️XX | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "188.245.69.77",
             "server_port": 443,
@@ -294,7 +294,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 3",
+            "tag": "🏳️XX | vless | @ARv2ray | 3",
             "type": "vless",
             "server": "188.245.64.60",
             "server_port": 443,
@@ -330,7 +330,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 5",
+            "tag": "🏳️XX | vless | @ARv2ray | 5",
             "type": "vless",
             "server": "188.245.67.193",
             "server_port": 443,
@@ -366,7 +366,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 6",
+            "tag": "🏳️XX | vless | @ARv2ray | 6",
             "type": "vless",
             "server": "188.245.34.226",
             "server_port": 443,
@@ -402,7 +402,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @ARv2ray | 9",
+            "tag": "🏳️XX | vless | @ARv2ray | 9",
             "type": "vless",
             "server": "188.245.32.88",
             "server_port": 443,
