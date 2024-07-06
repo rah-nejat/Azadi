@@ -125,11 +125,12 @@
                 "🏳️XX | vmess | @oneclickvpnkeys | 4",
                 "🏳️XX | vmess | @oneclickvpnkeys | 6",
                 "🏳️XX | vmess | @customv2ray | 12",
-                "🏳️XX | vmess | @ShadowProxy66 | 2",
-                "🏳️XX | vmess | @ShadowProxy66 | 3",
-                "🏳️XX | vmess | @ShadowProxy66 | 7",
-                "🏳️XX | vmess | @DailyV2RY | 76",
-                "🏳️XX | vmess | @ConfigsHUB | 15",
+                "🏳️XX | vmess | @ShadowProxy66 | 12",
+                "🏳️XX | vmess | @ShadowProxy66 | 13",
+                "🏳️XX | vmess | @ShadowProxy66 | 17",
+                "🏳️XX | vmess | @DailyV2RY | 71",
+                "🏳️XX | vmess | @DailyV2RY | 72",
+                "🏳️XX | vmess | @ConfigsHUB | 6",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -174,11 +175,12 @@
                 "🏳️XX | vmess | @oneclickvpnkeys | 4",
                 "🏳️XX | vmess | @oneclickvpnkeys | 6",
                 "🏳️XX | vmess | @customv2ray | 12",
-                "🏳️XX | vmess | @ShadowProxy66 | 2",
-                "🏳️XX | vmess | @ShadowProxy66 | 3",
-                "🏳️XX | vmess | @ShadowProxy66 | 7",
-                "🏳️XX | vmess | @DailyV2RY | 76",
-                "🏳️XX | vmess | @ConfigsHUB | 15",
+                "🏳️XX | vmess | @ShadowProxy66 | 12",
+                "🏳️XX | vmess | @ShadowProxy66 | 13",
+                "🏳️XX | vmess | @ShadowProxy66 | 17",
+                "🏳️XX | vmess | @DailyV2RY | 71",
+                "🏳️XX | vmess | @DailyV2RY | 72",
+                "🏳️XX | vmess | @ConfigsHUB | 6",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -643,7 +645,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ShadowProxy66 | 2",
+            "tag": "🏳️XX | vmess | @ShadowProxy66 | 12",
             "type": "vmess",
             "server": "23.162.152.6",
             "server_port": 22324,
@@ -660,7 +662,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ShadowProxy66 | 3",
+            "tag": "🏳️XX | vmess | @ShadowProxy66 | 13",
             "type": "vmess",
             "server": "23.157.88.35",
             "server_port": 22324,
@@ -677,7 +679,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ShadowProxy66 | 7",
+            "tag": "🏳️XX | vmess | @ShadowProxy66 | 17",
             "type": "vmess",
             "server": "s.marktred.com",
             "server_port": 443,
@@ -711,7 +713,24 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @DailyV2RY | 76",
+            "tag": "🏳️XX | vmess | @DailyV2RY | 71",
+            "type": "vmess",
+            "server": "104.238.145.21",
+            "server_port": 8881,
+            "uuid": "db5afae4-ac23-41a6-8378-f307a9a47436",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @DailyV2RY | 72",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -728,7 +747,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 15",
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 6",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,
