@@ -116,14 +116,13 @@
                 "🏳️XX | vmess | @mftizi | 16",
                 "🏳️XX | vmess | @mftizi | 17",
                 "🏳️XX | vmess | @DeamNet_Proxy | 7",
+                "🏳️XX | vmess | @oneclickvpnkeys | 0",
                 "🏳️XX | vmess | @oneclickvpnkeys | 1",
-                "🏳️XX | vmess | @oneclickvpnkeys | 2",
                 "🏳️XX | vmess | @oneclickvpnkeys | 3",
                 "🏳️XX | vmess | @customv2ray | 12",
                 "🏳️XX | vmess | @ShadowProxy66 | 7",
                 "🏳️XX | vmess | @v2ray1_ng | 9",
-                "🏳️XX | vmess | @DailyV2RY | 94",
-                "🏳️XX | vmess | @ConfigsHUB | 12",
+                "🏳️XX | vmess | @DailyV2RY | 86",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -142,7 +141,6 @@
                 "🏳️XX | vmess | @FreakConfig | 0",
                 "🏳️XX | vmess | @nofiltering2 | 1",
                 "🏳️XX | vmess | @kingofilter | 1",
-                "🏳️XX | vmess | @SINABIGO | 5",
                 "🏳️XX | vmess | @ROMAX_VPN | 0",
                 "🏳️XX | vmess | @ROMAX_VPN | 2",
                 "🏳️XX | vmess | @ROMAX_VPN | 3",
@@ -163,14 +161,13 @@
                 "🏳️XX | vmess | @mftizi | 16",
                 "🏳️XX | vmess | @mftizi | 17",
                 "🏳️XX | vmess | @DeamNet_Proxy | 7",
+                "🏳️XX | vmess | @oneclickvpnkeys | 0",
                 "🏳️XX | vmess | @oneclickvpnkeys | 1",
-                "🏳️XX | vmess | @oneclickvpnkeys | 2",
                 "🏳️XX | vmess | @oneclickvpnkeys | 3",
                 "🏳️XX | vmess | @customv2ray | 12",
                 "🏳️XX | vmess | @ShadowProxy66 | 7",
                 "🏳️XX | vmess | @v2ray1_ng | 9",
-                "🏳️XX | vmess | @DailyV2RY | 94",
-                "🏳️XX | vmess | @ConfigsHUB | 12",
+                "🏳️XX | vmess | @DailyV2RY | 86",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -189,7 +186,6 @@
                 "🏳️XX | vmess | @FreakConfig | 0",
                 "🏳️XX | vmess | @nofiltering2 | 1",
                 "🏳️XX | vmess | @kingofilter | 1",
-                "🏳️XX | vmess | @SINABIGO | 5",
                 "🏳️XX | vmess | @ROMAX_VPN | 0",
                 "🏳️XX | vmess | @ROMAX_VPN | 2",
                 "🏳️XX | vmess | @ROMAX_VPN | 3",
@@ -431,60 +427,9 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 1",
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 0",
             "type": "vmess",
-            "server": "23.162.152.6",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 2",
-            "type": "vmess",
-            "server": "172.67.164.164",
-            "server_port": 443,
-            "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "afrhms07.xfixedfloat.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "afrhms07.xfixedfloat.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 3",
-            "type": "vmess",
-            "server": "172.67.171.43",
+            "server": "188.114.97.3",
             "server_port": 80,
             "uuid": "b79a6959-6feb-43ba-b3c7-f1afae9ea32c",
             "security": "auto",
@@ -499,10 +444,44 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/vmess @hopev2ray , @hopev2ray",
+                "path": "\/",
                 "headers": {
                     "Host": ""
                 }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 1",
+            "type": "vmess",
+            "server": "23.166.88.101",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 3",
+            "type": "vmess",
+            "server": "23.162.152.6",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -598,28 +577,11 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @DailyV2RY | 94",
+            "tag": "🏳️XX | vmess | @DailyV2RY | 86",
             "type": "vmess",
             "server": null,
             "server_port": 0,
             "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 12",
-            "type": "vmess",
-            "server": "66.135.3.168",
-            "server_port": 44990,
-            "uuid": "88623615-0713-497a-9233-755a33cc7080",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1149,40 +1111,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "kingo.hightechservice.ir"
-                }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @SINABIGO | 5",
-            "type": "vmess",
-            "server": "Lousaper.digifashop.ir.",
-            "server_port": 443,
-            "uuid": "28dc623f-3ee7-4969-849b-d4a7af58078c",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Ghazaryan.digifashop.ir.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@RaFaV2ray",
-                "headers": {
-                    "Host": "Ghazaryan.digifashop.ir."
                 }
             }
         },
