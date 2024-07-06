@@ -125,10 +125,11 @@
                 "🏳️XX | vmess | @oneclickvpnkeys | 4",
                 "🏳️XX | vmess | @oneclickvpnkeys | 6",
                 "🏳️XX | vmess | @customv2ray | 12",
+                "🏳️XX | vmess | @ShadowProxy66 | 2",
                 "🏳️XX | vmess | @ShadowProxy66 | 3",
                 "🏳️XX | vmess | @ShadowProxy66 | 7",
-                "🏳️XX | vmess | @DailyV2RY | 81",
-                "🏳️XX | vmess | @DailyV2RY | 82",
+                "🏳️XX | vmess | @DailyV2RY | 76",
+                "🏳️XX | vmess | @ConfigsHUB | 15",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -142,7 +143,7 @@
                 "🏳️XX | vmess | @v2rayng_config_amin | 3",
                 "🏳️XX | vmess | @v2Line | 1",
                 "🏳️XX | vmess | @v2Line | 2",
-                "🏳️XX | vmess | @FreakConfig | 1",
+                "🏳️XX | vmess | @FreakConfig | 2",
                 "🏳️XX | vmess | @kingofilter | 1",
                 "🏳️XX | vmess | @ROMAX_VPN | 0",
                 "🏳️XX | vmess | @ROMAX_VPN | 2",
@@ -173,10 +174,11 @@
                 "🏳️XX | vmess | @oneclickvpnkeys | 4",
                 "🏳️XX | vmess | @oneclickvpnkeys | 6",
                 "🏳️XX | vmess | @customv2ray | 12",
+                "🏳️XX | vmess | @ShadowProxy66 | 2",
                 "🏳️XX | vmess | @ShadowProxy66 | 3",
                 "🏳️XX | vmess | @ShadowProxy66 | 7",
-                "🏳️XX | vmess | @DailyV2RY | 81",
-                "🏳️XX | vmess | @DailyV2RY | 82",
+                "🏳️XX | vmess | @DailyV2RY | 76",
+                "🏳️XX | vmess | @ConfigsHUB | 15",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -190,7 +192,7 @@
                 "🏳️XX | vmess | @v2rayng_config_amin | 3",
                 "🏳️XX | vmess | @v2Line | 1",
                 "🏳️XX | vmess | @v2Line | 2",
-                "🏳️XX | vmess | @FreakConfig | 1",
+                "🏳️XX | vmess | @FreakConfig | 2",
                 "🏳️XX | vmess | @kingofilter | 1",
                 "🏳️XX | vmess | @ROMAX_VPN | 0",
                 "🏳️XX | vmess | @ROMAX_VPN | 2",
@@ -641,6 +643,23 @@
             }
         },
         {
+            "tag": "🏳️XX | vmess | @ShadowProxy66 | 2",
+            "type": "vmess",
+            "server": "23.162.152.6",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🏳️XX | vmess | @ShadowProxy66 | 3",
             "type": "vmess",
             "server": "23.157.88.35",
@@ -692,24 +711,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @DailyV2RY | 81",
-            "type": "vmess",
-            "server": "155.138.247.68",
-            "server_port": 8881,
-            "uuid": "db5afae4-ac23-41a6-8378-f307a9a47436",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @DailyV2RY | 82",
+            "tag": "🏳️XX | vmess | @DailyV2RY | 76",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -723,6 +725,40 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 15",
+            "type": "vmess",
+            "server": "zula.ir",
+            "server_port": 443,
+            "uuid": "950db6aa-4926-4616-816e-ec0312dcb87b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "jahfkjha.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "jahfkjha.cfd"
+                }
             }
         },
         {
@@ -1121,7 +1157,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @FreakConfig | 1",
+            "tag": "🏳️XX | vmess | @FreakConfig | 2",
             "type": "vmess",
             "server": "mysw.mahanocean.ir",
             "server_port": 18667,
