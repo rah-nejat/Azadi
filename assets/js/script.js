@@ -100,27 +100,25 @@ function flushMtproto(item) {
 function setupConnection(type, url, provider, sub) {
   elements.providerName.innerHTML = "Connecting ...";
   elements.image.src = `assets/img/${type}.png`;
-  
+
   if (type === "singbox") {
-    setBackground("rgb(84, 110, 122)"); 
+    setBackground("rgb(84, 110, 122)");
   } else if (type === "clash") {
-    setBackground("rgb(33, 79, 135)"); 
+    setBackground("rgb(33, 79, 135)");
   } else if (type === "meta") {
     setBackground("rgb(43, 188, 211)");
   } else if (type === "surfboard") {
     setBackground("rgb(0, 147, 130)");
   } else {
-    setBackground("rgba(103, 177, 104, 0.37)");  
+    setBackground("rgba(103, 177, 104, 0.37)");
   }
 
   showNextButton(false);
 
-  fetchTextData(url, item => {
-    updateProviderInfo(provider, sub, "", "Copy", () => {
-      navigator.clipboard.writeText(item);
-      elements.connect.innerHTML = "Copied";
-      setTimeout(() => elements.connect.innerHTML = "Copy", 2000);
-    });
+  updateProviderInfo(provider, sub, "", "Copy", () => {
+    navigator.clipboard.writeText(url);
+    elements.connect.innerHTML = "Copied";
+    setTimeout(() => elements.connect.innerHTML = "Copy", 2000);
   });
 }
 
