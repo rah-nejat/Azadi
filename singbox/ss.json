@@ -124,7 +124,8 @@
                 "🏳️XX | ss | @OutlineVpnOfficial | 17",
                 "🏳️XX | ss | @OutlineVpnOfficial | 18",
                 "🏳️XX | ss | @OutlineVpnOfficial | 19",
-                "🏳️XX | ss | @kingofilter | 3"
+                "🏳️XX | ss | @kingofilter | 0",
+                "🏳️XX | ss | @kingofilter | 4"
             ]
         },
         {
@@ -149,7 +150,8 @@
                 "🏳️XX | ss | @OutlineVpnOfficial | 17",
                 "🏳️XX | ss | @OutlineVpnOfficial | 18",
                 "🏳️XX | ss | @OutlineVpnOfficial | 19",
-                "🏳️XX | ss | @kingofilter | 3"
+                "🏳️XX | ss | @kingofilter | 0",
+                "🏳️XX | ss | @kingofilter | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -352,7 +354,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🏳️XX | ss | @kingofilter | 3",
+            "tag": "🏳️XX | ss | @kingofilter | 0",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🏳️XX | ss | @kingofilter | 4",
             "type": "shadowsocks",
             "server": "40.172.1.97",
             "server_port": 443,
