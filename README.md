@@ -1,3 +1,6 @@
+https://rah-nejat.pages.dev/
+https://rah-nejat.vercel.app/
+
 | Core | Mix |
 | --- | --- | 
 | Xray | [Group Mix Link](https://raw.githubusercontent.com/rah-nejat/Azadi/main/xray/normal/mix) |
