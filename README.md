@@ -1,6 +1,8 @@
-https://rah-nejat.pages.dev/
+https://rah-nejat.pages.dev
 
-https://rah-nejat.vercel.app/
+https://rah-nejat.vercel.app
+
+https://rah-nejat.github.io/Azadi
 
 | Core | Mix |
 | --- | --- | 
