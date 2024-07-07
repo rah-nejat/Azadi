@@ -124,6 +124,8 @@
                 "🇩🇪DE | vless | @V2RayTz | 13",
                 "🇸🇪SE | vless | @VmessProtocol | 4",
                 "🇳🇱NL | vless | @sinabigo | 2",
+                "🇸🇬SG | vless | @ConfigsHUB | 16",
+                "🇰🇷KR | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -176,6 +178,8 @@
                 "🇩🇪DE | vless | @V2RayTz | 13",
                 "🇸🇪SE | vless | @VmessProtocol | 4",
                 "🇳🇱NL | vless | @sinabigo | 2",
+                "🇸🇬SG | vless | @ConfigsHUB | 16",
+                "🇰🇷KR | vless | @ConfigsHUB | 17",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -827,6 +831,64 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬SG | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "192.53.112.8",
+            "server_port": 56701,
+            "uuid": "54080d7d-5016-4b23-acfe-c0872844c55c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "addons.mozilla.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8",
+                    "short_id": "792147b8"
+                }
+            }
+        },
+        {
+            "tag": "🇰🇷KR | vless | @ConfigsHUB | 17",
+            "type": "vless",
+            "server": "132.226.172.147",
+            "server_port": 62001,
+            "uuid": "f61e2705-1fa7-4202-9724-d8a9e4d63917",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "swdist.apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc",
                     "short_id": ""
                 }
             }
