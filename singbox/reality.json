@@ -111,7 +111,7 @@
                 "🏳️XX | vless | @V2pedia | 0",
                 "🇩🇪DE | vless | @V2pedia | 3",
                 "🇩🇪DE | vless | @ARv2ray | 14",
-                "🇩🇪DE | vless | @free_v2rayyy | 1",
+                "🇩🇪DE | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 13",
@@ -120,7 +120,7 @@
                 "🇹🇷TR | vless | @Outline_Vpn | 16",
                 "🇸🇪SE | vless | @VmessProtocol | 4",
                 "🇳🇱NL | vless | @sinabigo | 2",
-                "🇩🇪DE | vless | @Outlinev2rayNG | 3",
+                "🇩🇪DE | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -161,7 +161,7 @@
                 "🏳️XX | vless | @V2pedia | 0",
                 "🇩🇪DE | vless | @V2pedia | 3",
                 "🇩🇪DE | vless | @ARv2ray | 14",
-                "🇩🇪DE | vless | @free_v2rayyy | 1",
+                "🇩🇪DE | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 12",
                 "🇫🇮FI | vless | @CUSTOMVPNSERVER | 13",
@@ -170,7 +170,7 @@
                 "🇹🇷TR | vless | @Outline_Vpn | 16",
                 "🇸🇪SE | vless | @VmessProtocol | 4",
                 "🇳🇱NL | vless | @sinabigo | 2",
-                "🇩🇪DE | vless | @Outlinev2rayNG | 3",
+                "🇩🇪DE | vless | @Outlinev2rayNG | 6",
                 "🇩🇪DE | vless | @Capital_NET | 31",
                 "🇬🇧GB | vless | @Capital_NET | 32",
                 "🏳️XX | vless | @Capital_NET | 33",
@@ -402,7 +402,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @free_v2rayyy | 1",
+            "tag": "🇩🇪DE | vless | @free_v2rayyy | 3",
             "type": "vless",
             "server": "49.13.80.84",
             "server_port": 443,
@@ -684,7 +684,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @Outlinev2rayNG | 3",
+            "tag": "🇩🇪DE | vless | @Outlinev2rayNG | 6",
             "type": "vless",
             "server": "141.95.75.212",
             "server_port": 443,
