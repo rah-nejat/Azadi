@@ -123,14 +123,11 @@
                 "🇺🇦UA | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | vmess | @oneclickvpnkeys | 4",
                 "🏳️XX | vmess | @oneclickvpnkeys | 5",
-                "🇺🇸US | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | vmess | @customv2ray | 12",
                 "🇩🇪DE | vmess | @ShadowProxy66 | 14",
                 "🏳️XX | vmess | @ShadowProxy66 | 18",
                 "🏳️XX | vmess | @DailyV2RY | 95",
                 "🇺🇸US | vmess | @DailyV2RY | 101",
-                "🇺🇸US | vmess | @ConfigsHUB | 4",
-                "🇺🇸US | vmess | @ConfigsHUB | 5",
                 "🇳🇱NL | vmess | @yaney_01 | 1",
                 "🇺🇸US | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -172,14 +169,11 @@
                 "🇺🇦UA | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | vmess | @oneclickvpnkeys | 4",
                 "🏳️XX | vmess | @oneclickvpnkeys | 5",
-                "🇺🇸US | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | vmess | @customv2ray | 12",
                 "🇩🇪DE | vmess | @ShadowProxy66 | 14",
                 "🏳️XX | vmess | @ShadowProxy66 | 18",
                 "🏳️XX | vmess | @DailyV2RY | 95",
                 "🇺🇸US | vmess | @DailyV2RY | 101",
-                "🇺🇸US | vmess | @ConfigsHUB | 4",
-                "🇺🇸US | vmess | @ConfigsHUB | 5",
                 "🇳🇱NL | vmess | @yaney_01 | 1",
                 "🇺🇸US | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -585,30 +579,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @oneclickvpnkeys | 6",
-            "type": "vmess",
-            "server": "188.114.97.3",
-            "server_port": 80,
-            "uuid": "b79a6959-6feb-43ba-b3c7-f1afae9ea32c",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | vmess | @customv2ray | 12",
             "type": "vmess",
             "server": "104.16.219.108",
@@ -715,54 +685,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | vmess | @ConfigsHUB | 4",
-            "type": "vmess",
-            "server": "107.173.146.129",
-            "server_port": 80,
-            "uuid": "5820093a-bb7d-4e15-8575-1a529f2d8282",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | vmess | @ConfigsHUB | 5",
-            "type": "vmess",
-            "server": "38.95.233.222",
-            "server_port": 80,
-            "uuid": "41fcf4ae-9266-422f-f730-b1ff57bb0345",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
