@@ -129,8 +129,6 @@
                 "🏳️XX | vmess | @ShadowProxy66 | 14",
                 "🏳️XX | vmess | @ShadowProxy66 | 18",
                 "🏳️XX | vmess | @DailyV2RY | 105",
-                "🏳️XX | vmess | @ConfigsHUB | 14",
-                "🏳️XX | vmess | @ConfigsHUB | 15",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -178,8 +176,6 @@
                 "🏳️XX | vmess | @ShadowProxy66 | 14",
                 "🏳️XX | vmess | @ShadowProxy66 | 18",
                 "🏳️XX | vmess | @DailyV2RY | 105",
-                "🏳️XX | vmess | @ConfigsHUB | 14",
-                "🏳️XX | vmess | @ConfigsHUB | 15",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -725,74 +721,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 14",
-            "type": "vmess",
-            "server": "zula.ir",
-            "server_port": 443,
-            "uuid": "950db6aa-4926-4616-816e-ec0312dcb87b",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "jahfkjha.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "jahfkjha.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 15",
-            "type": "vmess",
-            "server": "www.teletrans.ro",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nezuko.raidenshogun.cloudns.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws\/obdii.cfd",
-                "headers": {
-                    "Host": "nezuko.raidenshogun.cloudns.org"
-                }
             }
         },
         {
