@@ -32,5 +32,4 @@ trojan://telegram-id-directvpn@3.64.64.112:22222?security=tls&alpn=http%2F1.1&he
 trojan://telegram-id-directvpn@3.78.236.50:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️XX%20|%20trojan%20|%20@DirectVPN%20|%2013
 trojan://telegram-id-directvpn@51.21.140.38:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️XX%20|%20trojan%20|%20@DirectVPN%20|%2014
 trojan://telegram-id-directvpn@13.50.149.52:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️XX%20|%20trojan%20|%20@DirectVPN%20|%2015
-trojan://telegram-id-privatevpns@13.39.73.242:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️XX%20|%20trojan%20|%20@ConfigsHUB%20|%208
-trojan://telegram-id-directvpn@18.224.130.30:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️XX%20|%20trojan%20|%20@ConfigsHUB%20|%2010
+trojan://telegram-id-privatevpns@13.39.73.242:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏳️XX%20|%20trojan%20|%20@ConfigsHUB%20|%2018
