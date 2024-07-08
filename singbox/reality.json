@@ -106,18 +106,18 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🏳️XX | vless | @ipV2Ray | 0",
-                "🏳️XX | vless | @ipV2Ray | 2",
+                "🇩🇪DE | vless | @ipV2Ray | 0",
+                "🇩🇪DE | vless | @ipV2Ray | 2",
                 "🏳️XX | vless | @V2pedia | 2",
-                "🏳️XX | vless | @V2pedia | 5",
-                "🏳️XX | vless | @free_v2rayyy | 4",
+                "🇩🇪DE | vless | @V2pedia | 5",
+                "🏳️XX | vless | @free_v2rayyy | 5",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 9",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 12",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 13",
                 "🏳️XX | vless | @v2logy | 1",
                 "🏳️XX | vless | @Watashi_VPN | 0",
                 "🏳️XX | vless | @Outline_Vpn | 16",
-                "🏳️XX | vless | @VmessProtocol | 7",
+                "🏳️XX | vless | @VmessProtocol | 8",
                 "🏳️XX | vless | @sinabigo | 2",
                 "🏳️XX | vless | @Capital_NET | 31",
                 "🏳️XX | vless | @Capital_NET | 32",
@@ -153,18 +153,18 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🏳️XX | vless | @ipV2Ray | 0",
-                "🏳️XX | vless | @ipV2Ray | 2",
+                "🇩🇪DE | vless | @ipV2Ray | 0",
+                "🇩🇪DE | vless | @ipV2Ray | 2",
                 "🏳️XX | vless | @V2pedia | 2",
-                "🏳️XX | vless | @V2pedia | 5",
-                "🏳️XX | vless | @free_v2rayyy | 4",
+                "🇩🇪DE | vless | @V2pedia | 5",
+                "🏳️XX | vless | @free_v2rayyy | 5",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 9",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 12",
                 "🏳️XX | vless | @CUSTOMVPNSERVER | 13",
                 "🏳️XX | vless | @v2logy | 1",
                 "🏳️XX | vless | @Watashi_VPN | 0",
                 "🏳️XX | vless | @Outline_Vpn | 16",
-                "🏳️XX | vless | @VmessProtocol | 7",
+                "🏳️XX | vless | @VmessProtocol | 8",
                 "🏳️XX | vless | @sinabigo | 2",
                 "🏳️XX | vless | @Capital_NET | 31",
                 "🏳️XX | vless | @Capital_NET | 32",
@@ -216,7 +216,7 @@
             "type": "dns"
         },
         {
-            "tag": "🏳️XX | vless | @ipV2Ray | 0",
+            "tag": "🇩🇪DE | vless | @ipV2Ray | 0",
             "type": "vless",
             "server": "188.245.69.77",
             "server_port": 443,
@@ -252,7 +252,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @ipV2Ray | 2",
+            "tag": "🇩🇪DE | vless | @ipV2Ray | 2",
             "type": "vless",
             "server": "188.245.69.77",
             "server_port": 443,
@@ -324,7 +324,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @V2pedia | 5",
+            "tag": "🇩🇪DE | vless | @V2pedia | 5",
             "type": "vless",
             "server": "91.107.251.73",
             "server_port": 443,
@@ -360,7 +360,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @free_v2rayyy | 4",
+            "tag": "🏳️XX | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "49.13.80.84",
             "server_port": 443,
@@ -577,7 +577,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @VmessProtocol | 7",
+            "tag": "🏳️XX | vless | @VmessProtocol | 8",
             "type": "vless",
             "server": "77.221.143.183",
             "server_port": 33000,
