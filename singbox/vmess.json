@@ -125,7 +125,7 @@
                 "🏳️XX | vmess | @ShadowProxy66 | 15",
                 "🏳️XX | vmess | @ShadowProxy66 | 19",
                 "🏳️XX | vmess | @v2ray1_ng | 0",
-                "🏳️XX | vmess | @DailyV2RY | 77",
+                "🏳️XX | vmess | @DailyV2RY | 103",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -173,7 +173,7 @@
                 "🏳️XX | vmess | @ShadowProxy66 | 15",
                 "🏳️XX | vmess | @ShadowProxy66 | 19",
                 "🏳️XX | vmess | @v2ray1_ng | 0",
-                "🏳️XX | vmess | @DailyV2RY | 77",
+                "🏳️XX | vmess | @DailyV2RY | 103",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -641,7 +641,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @DailyV2RY | 77",
+            "tag": "🏳️XX | vmess | @DailyV2RY | 103",
             "type": "vmess",
             "server": null,
             "server_port": 0,
