@@ -130,7 +130,7 @@
                 "🇩🇪DE | vmess | @ShadowProxy66 | 15",
                 "🏳️XX | vmess | @ShadowProxy66 | 19",
                 "🏳️XX | vmess | @DailyV2RY | 99",
-                "🏳️XX | vmess | @ConfigsHUB | 5",
+                "🏳️XX | vmess | @ConfigsHUB | 14",
                 "🇳🇱NL | vmess | @yaney_01 | 1",
                 "🇺🇸US | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -184,7 +184,7 @@
                 "🇩🇪DE | vmess | @ShadowProxy66 | 15",
                 "🏳️XX | vmess | @ShadowProxy66 | 19",
                 "🏳️XX | vmess | @DailyV2RY | 99",
-                "🏳️XX | vmess | @ConfigsHUB | 5",
+                "🏳️XX | vmess | @ConfigsHUB | 14",
                 "🇳🇱NL | vmess | @yaney_01 | 1",
                 "🇺🇸US | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -731,7 +731,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 5",
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 14",
             "type": "vmess",
             "server": "cloudflare.com",
             "server_port": 443,
