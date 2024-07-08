@@ -110,7 +110,6 @@
                 "🇩🇪DE | vless | @ipV2Ray | 2",
                 "🏳️XX | vless | @V2pedia | 0",
                 "🇩🇪DE | vless | @V2pedia | 3",
-                "🏳️XX | vless | @V2pedia | 6",
                 "🇩🇪DE | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 12",
@@ -133,7 +132,6 @@
                 "🇩🇪DE | vless | @Capital_NET | 42",
                 "🏳️XX | vless | @Capital_NET | 44",
                 "🏳️XX | vless | @Capital_NET | 45",
-                "🇩🇪DE | vless | @flyv2ray | 8",
                 "🏳️XX | vless | @vpn_go67 | 7",
                 "🏳️XX | vless | @vpn_go67 | 8",
                 "🏳️XX | vless | @vpn_go67 | 9",
@@ -149,9 +147,7 @@
                 "🏳️XX | vless | @vpn_go67 | 19",
                 "🏳️XX | vless | @vpn_go67 | 20",
                 "🏳️XX | vless | @vpn_go67 | 21",
-                "🏳️XX | vless | @GozargahVPN | 9",
-                "🏳️XX | vless | @GozargahVPN | 10",
-                "🇳🇱NL | vless | @SINABIGO | 2"
+                "🏳️XX | vless | @GozargahVPN | 9"
             ]
         },
         {
@@ -162,7 +158,6 @@
                 "🇩🇪DE | vless | @ipV2Ray | 2",
                 "🏳️XX | vless | @V2pedia | 0",
                 "🇩🇪DE | vless | @V2pedia | 3",
-                "🏳️XX | vless | @V2pedia | 6",
                 "🇩🇪DE | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 9",
                 "🇩🇪DE | vless | @CUSTOMVPNSERVER | 12",
@@ -185,7 +180,6 @@
                 "🇩🇪DE | vless | @Capital_NET | 42",
                 "🏳️XX | vless | @Capital_NET | 44",
                 "🏳️XX | vless | @Capital_NET | 45",
-                "🇩🇪DE | vless | @flyv2ray | 8",
                 "🏳️XX | vless | @vpn_go67 | 7",
                 "🏳️XX | vless | @vpn_go67 | 8",
                 "🏳️XX | vless | @vpn_go67 | 9",
@@ -201,9 +195,7 @@
                 "🏳️XX | vless | @vpn_go67 | 19",
                 "🏳️XX | vless | @vpn_go67 | 20",
                 "🏳️XX | vless | @vpn_go67 | 21",
-                "🏳️XX | vless | @GozargahVPN | 9",
-                "🏳️XX | vless | @GozargahVPN | 10",
-                "🇳🇱NL | vless | @SINABIGO | 2"
+                "🏳️XX | vless | @GozargahVPN | 9"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -364,42 +356,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🏳️XX | vless | @V2pedia | 6",
-            "type": "vless",
-            "server": "[2a0d:5940:48:11::]",
-            "server_port": 25365,
-            "uuid": "bia--ZEDMODEON",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "AmVE-YA8JAYesGpPEX2qXFaN5bQMMGj9WClQs0ZB2QQ",
-                    "short_id": "8b151953"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
@@ -1079,42 +1035,6 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @flyv2ray | 8",
-            "type": "vless",
-            "server": "188.245.69.77",
-            "server_port": 443,
-            "uuid": "Telegram-ipV2Ray-kpj",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "hbXVj1uC8AjgQrJMOPqkL3DqNKByyweB2SrbeRQ_6Xw",
-                    "short_id": "b1c8e3fa"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram-ipV2Ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "🏳️XX | vless | @vpn_go67 | 7",
             "type": "vless",
             "server": "footlo.argha-v2pedia.monster",
@@ -1680,64 +1600,6 @@
                     "enabled": true,
                     "public_key": "iM2Akh6iaoP_wLD1i-tIr6NTUP8HsIrPAB1-h3p-wGo",
                     "short_id": "e0"
-                }
-            }
-        },
-        {
-            "tag": "🏳️XX | vless | @GozargahVPN | 10",
-            "type": "vless",
-            "server": "GozargahVPN.anten.cloud",
-            "server_port": 443,
-            "uuid": "541f5c7b-9f58-4724-f0bc-8d671fb01c29",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speed.cloudflare.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "iM2Akh6iaoP_wLD1i-tIr6NTUP8HsIrPAB1-h3p-wGo",
-                    "short_id": "e0"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | vless | @SINABIGO | 2",
-            "type": "vless",
-            "server": "109.176.207.43",
-            "server_port": 8443,
-            "uuid": "137faa34-3c74-417f-9939-3fa15b621dea",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.discordapp.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": ""
                 }
             }
         }
