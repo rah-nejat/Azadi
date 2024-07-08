@@ -337,31 +337,31 @@
                 "🏳️XX | vmess | @mftizi | 11",
                 "🏳️XX | vmess | @mftizi | 17",
                 "🏳️XX | vmess | @mftizi | 18",
-                "🇺🇸US | vmess | @DeamNet_Proxy | 10",
+                "🇨🇦CA | vmess | @DeamNet_Proxy | 10",
                 "🇨🇦CA | ss | @DeamNet_Proxy | 11",
-                "🇺🇸US | vmess | @oneclickvpnkeys | 0",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 0",
                 "🇫🇷FR | vmess | @oneclickvpnkeys | 1",
-                "🇺🇸US | vless | @Outline_Vpn | 4",
+                "🇨🇦CA | vless | @Outline_Vpn | 4",
                 "🏳️XX | vless | @Outline_Vpn | 5",
-                "🇺🇸US | vless | @Outline_Vpn | 6",
-                "🇺🇸US | vless | @Outline_Vpn | 7",
+                "🇨🇦CA | vless | @Outline_Vpn | 6",
+                "🇨🇦CA | vless | @Outline_Vpn | 7",
                 "🇸🇪SE | vless | @Outline_Vpn | 8",
                 "🇮🇷IR | vless | @Outline_Vpn | 9",
-                "🇺🇸US | vless | @Outline_Vpn | 10",
+                "🇨🇦CA | vless | @Outline_Vpn | 10",
                 "🏳️XX | vless | @Outline_Vpn | 11",
                 "🏳️XX | vless | @Outline_Vpn | 12",
                 "🇨🇷CR | vless | @Outline_Vpn | 13",
-                "🇺🇸US | vless | @Outline_Vpn | 14",
-                "🇺🇸US | vless | @Outline_Vpn | 15",
+                "🇨🇦CA | vless | @Outline_Vpn | 14",
+                "🇨🇦CA | vless | @Outline_Vpn | 15",
                 "🇹🇷TR | vless | @Outline_Vpn | 16",
                 "🇫🇮FI | vless | @Outline_Vpn | 17",
-                "🇺🇸US | vless | @Outline_Vpn | 18",
+                "🇨🇦CA | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | vless | @prrofile_purple | 166",
-                "🇺🇸US | vless | @prrofile_purple | 167",
-                "🇺🇸US | vless | @prrofile_purple | 168",
+                "🇨🇦CA | vless | @prrofile_purple | 167",
+                "🇨🇦CA | vless | @prrofile_purple | 168",
                 "🏳️XX | vless | @prrofile_purple | 169",
                 "🏳️XX | vless | @prrofile_purple | 170",
-                "🇺🇸US | vmess | @prrofile_purple | 173",
+                "🇨🇦CA | vmess | @prrofile_purple | 173",
                 "🏳️XX | vless | @prrofile_purple | 174",
                 "🇸🇪SE | vless | @prrofile_purple | 176",
                 "🏳️XX | vless | @prrofile_purple | 177",
@@ -369,12 +369,12 @@
                 "🇸🇪SE | vless | @prrofile_purple | 179",
                 "🇸🇪SE | vless | @prrofile_purple | 180",
                 "🏳️XX | vless | @customv2ray | 3",
-                "🇺🇸US | vless | @customv2ray | 4",
-                "🇺🇸US | vless | @customv2ray | 5",
-                "🇺🇸US | vless | @customv2ray | 6",
+                "🇨🇦CA | vless | @customv2ray | 4",
+                "🇨🇦CA | vless | @customv2ray | 5",
+                "🇨🇦CA | vless | @customv2ray | 6",
                 "🏳️XX | vless | @customv2ray | 7",
-                "🇺🇸US | vless | @customv2ray | 8",
-                "🇺🇸US | vless | @customv2ray | 9",
+                "🇨🇦CA | vless | @customv2ray | 8",
+                "🇨🇦CA | vless | @customv2ray | 9",
                 "🇺🇸US | vless | @customv2ray | 10",
                 "🇺🇸US | vless | @customv2ray | 11",
                 "🇺🇸US | vless | @customv2ray | 12",
@@ -521,16 +521,15 @@
                 "🇩🇪DE | ss | @OutlineVpnOfficial | 17",
                 "🇨🇦CA | ss | @OutlineVpnOfficial | 18",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 19",
-                "🇺🇸US | vless | @ConfigsHUB | 5",
-                "🇺🇸US | vless | @ConfigsHUB | 6",
-                "🏳️XX | vless | @ConfigsHUB | 7",
-                "🏳️XX | vless | @ConfigsHUB | 8",
-                "🇸🇪SE | vless | @ConfigsHUB | 12",
-                "🇺🇸US | vmess | @ConfigsHUB | 14",
-                "🏳️XX | vless | @ConfigsHUB | 16",
-                "🏳️XX | vless | @ConfigsHUB | 17",
-                "🇺🇸US | vless | @ConfigsHUB | 18",
-                "🇺🇸US | vless | @ConfigsHUB | 19",
+                "🇩🇪DE | vless | @ConfigsHUB | 5",
+                "🇺🇸US | vless | @ConfigsHUB | 7",
+                "🇺🇸US | vless | @ConfigsHUB | 8",
+                "🏳️XX | vless | @ConfigsHUB | 9",
+                "🏳️XX | vless | @ConfigsHUB | 10",
+                "🇸🇪SE | vless | @ConfigsHUB | 14",
+                "🇺🇸US | vmess | @ConfigsHUB | 16",
+                "🏳️XX | vless | @ConfigsHUB | 18",
+                "🏳️XX | vless | @ConfigsHUB | 19",
                 "🏳️XX | vless | @proxystore11 | 0",
                 "🇸🇪SE | trojan | @proxystore11 | 1",
                 "🇺🇸US | vless | @proxystore11 | 2",
@@ -552,9 +551,9 @@
                 "🏳️XX | vless | @Outlinev2rayNG | 3",
                 "🏳️XX | vless | @Outlinev2rayNG | 5",
                 "🏳️XX | vless | @Outlinev2rayNG | 9",
-                "🇩🇪DE | vless | @Outlinev2rayNG | 10",
                 "🏳️XX | vless | @Outlinev2rayNG | 11",
                 "🇺🇸US | vless | @Outlinev2rayNG | 12",
+                "🇺🇸US | vless | @Outlinev2rayNG | 14",
                 "🇮🇷IR | vless | @Outlinev2rayNG | 15",
                 "🏳️XX | vless | @v2rayng_vpnrog | 1",
                 "🇺🇸US | vless | @v2rayng_vpnrog | 2",
@@ -898,31 +897,31 @@
                 "🏳️XX | vmess | @mftizi | 11",
                 "🏳️XX | vmess | @mftizi | 17",
                 "🏳️XX | vmess | @mftizi | 18",
-                "🇺🇸US | vmess | @DeamNet_Proxy | 10",
+                "🇨🇦CA | vmess | @DeamNet_Proxy | 10",
                 "🇨🇦CA | ss | @DeamNet_Proxy | 11",
-                "🇺🇸US | vmess | @oneclickvpnkeys | 0",
+                "🇨🇦CA | vmess | @oneclickvpnkeys | 0",
                 "🇫🇷FR | vmess | @oneclickvpnkeys | 1",
-                "🇺🇸US | vless | @Outline_Vpn | 4",
+                "🇨🇦CA | vless | @Outline_Vpn | 4",
                 "🏳️XX | vless | @Outline_Vpn | 5",
-                "🇺🇸US | vless | @Outline_Vpn | 6",
-                "🇺🇸US | vless | @Outline_Vpn | 7",
+                "🇨🇦CA | vless | @Outline_Vpn | 6",
+                "🇨🇦CA | vless | @Outline_Vpn | 7",
                 "🇸🇪SE | vless | @Outline_Vpn | 8",
                 "🇮🇷IR | vless | @Outline_Vpn | 9",
-                "🇺🇸US | vless | @Outline_Vpn | 10",
+                "🇨🇦CA | vless | @Outline_Vpn | 10",
                 "🏳️XX | vless | @Outline_Vpn | 11",
                 "🏳️XX | vless | @Outline_Vpn | 12",
                 "🇨🇷CR | vless | @Outline_Vpn | 13",
-                "🇺🇸US | vless | @Outline_Vpn | 14",
-                "🇺🇸US | vless | @Outline_Vpn | 15",
+                "🇨🇦CA | vless | @Outline_Vpn | 14",
+                "🇨🇦CA | vless | @Outline_Vpn | 15",
                 "🇹🇷TR | vless | @Outline_Vpn | 16",
                 "🇫🇮FI | vless | @Outline_Vpn | 17",
-                "🇺🇸US | vless | @Outline_Vpn | 18",
+                "🇨🇦CA | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | vless | @prrofile_purple | 166",
-                "🇺🇸US | vless | @prrofile_purple | 167",
-                "🇺🇸US | vless | @prrofile_purple | 168",
+                "🇨🇦CA | vless | @prrofile_purple | 167",
+                "🇨🇦CA | vless | @prrofile_purple | 168",
                 "🏳️XX | vless | @prrofile_purple | 169",
                 "🏳️XX | vless | @prrofile_purple | 170",
-                "🇺🇸US | vmess | @prrofile_purple | 173",
+                "🇨🇦CA | vmess | @prrofile_purple | 173",
                 "🏳️XX | vless | @prrofile_purple | 174",
                 "🇸🇪SE | vless | @prrofile_purple | 176",
                 "🏳️XX | vless | @prrofile_purple | 177",
@@ -930,12 +929,12 @@
                 "🇸🇪SE | vless | @prrofile_purple | 179",
                 "🇸🇪SE | vless | @prrofile_purple | 180",
                 "🏳️XX | vless | @customv2ray | 3",
-                "🇺🇸US | vless | @customv2ray | 4",
-                "🇺🇸US | vless | @customv2ray | 5",
-                "🇺🇸US | vless | @customv2ray | 6",
+                "🇨🇦CA | vless | @customv2ray | 4",
+                "🇨🇦CA | vless | @customv2ray | 5",
+                "🇨🇦CA | vless | @customv2ray | 6",
                 "🏳️XX | vless | @customv2ray | 7",
-                "🇺🇸US | vless | @customv2ray | 8",
-                "🇺🇸US | vless | @customv2ray | 9",
+                "🇨🇦CA | vless | @customv2ray | 8",
+                "🇨🇦CA | vless | @customv2ray | 9",
                 "🇺🇸US | vless | @customv2ray | 10",
                 "🇺🇸US | vless | @customv2ray | 11",
                 "🇺🇸US | vless | @customv2ray | 12",
@@ -1082,16 +1081,15 @@
                 "🇩🇪DE | ss | @OutlineVpnOfficial | 17",
                 "🇨🇦CA | ss | @OutlineVpnOfficial | 18",
                 "🇺🇸US | ss | @OutlineVpnOfficial | 19",
-                "🇺🇸US | vless | @ConfigsHUB | 5",
-                "🇺🇸US | vless | @ConfigsHUB | 6",
-                "🏳️XX | vless | @ConfigsHUB | 7",
-                "🏳️XX | vless | @ConfigsHUB | 8",
-                "🇸🇪SE | vless | @ConfigsHUB | 12",
-                "🇺🇸US | vmess | @ConfigsHUB | 14",
-                "🏳️XX | vless | @ConfigsHUB | 16",
-                "🏳️XX | vless | @ConfigsHUB | 17",
-                "🇺🇸US | vless | @ConfigsHUB | 18",
-                "🇺🇸US | vless | @ConfigsHUB | 19",
+                "🇩🇪DE | vless | @ConfigsHUB | 5",
+                "🇺🇸US | vless | @ConfigsHUB | 7",
+                "🇺🇸US | vless | @ConfigsHUB | 8",
+                "🏳️XX | vless | @ConfigsHUB | 9",
+                "🏳️XX | vless | @ConfigsHUB | 10",
+                "🇸🇪SE | vless | @ConfigsHUB | 14",
+                "🇺🇸US | vmess | @ConfigsHUB | 16",
+                "🏳️XX | vless | @ConfigsHUB | 18",
+                "🏳️XX | vless | @ConfigsHUB | 19",
                 "🏳️XX | vless | @proxystore11 | 0",
                 "🇸🇪SE | trojan | @proxystore11 | 1",
                 "🇺🇸US | vless | @proxystore11 | 2",
@@ -1113,9 +1111,9 @@
                 "🏳️XX | vless | @Outlinev2rayNG | 3",
                 "🏳️XX | vless | @Outlinev2rayNG | 5",
                 "🏳️XX | vless | @Outlinev2rayNG | 9",
-                "🇩🇪DE | vless | @Outlinev2rayNG | 10",
                 "🏳️XX | vless | @Outlinev2rayNG | 11",
                 "🇺🇸US | vless | @Outlinev2rayNG | 12",
+                "🇺🇸US | vless | @Outlinev2rayNG | 14",
                 "🇮🇷IR | vless | @Outlinev2rayNG | 15",
                 "🏳️XX | vless | @v2rayng_vpnrog | 1",
                 "🇺🇸US | vless | @v2rayng_vpnrog | 2",
@@ -6798,7 +6796,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @DeamNet_Proxy | 10",
+            "tag": "🇨🇦CA | vmess | @DeamNet_Proxy | 10",
             "type": "vmess",
             "server": "172.67.1.143",
             "server_port": 443,
@@ -6842,7 +6840,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | vmess | @oneclickvpnkeys | 0",
+            "tag": "🇨🇦CA | vmess | @oneclickvpnkeys | 0",
             "type": "vmess",
             "server": "172.67.171.43",
             "server_port": 80,
@@ -6883,7 +6881,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 4",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 4",
             "type": "vless",
             "server": "104.16.181.38",
             "server_port": 443,
@@ -6935,7 +6933,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 6",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 6",
             "type": "vless",
             "server": "104.18.84.115",
             "server_port": 443,
@@ -6966,7 +6964,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 7",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 7",
             "type": "vless",
             "server": "172.67.171.43",
             "server_port": 80,
@@ -7022,7 +7020,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 10",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 10",
             "type": "vless",
             "server": "172.67.66.177",
             "server_port": 80,
@@ -7116,7 +7114,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 14",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 14",
             "type": "vless",
             "server": "172.66.44.55",
             "server_port": 443,
@@ -7147,7 +7145,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 15",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 15",
             "type": "vless",
             "server": "188.114.96.3",
             "server_port": 443,
@@ -7221,7 +7219,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @Outline_Vpn | 18",
+            "tag": "🇨🇦CA | vless | @Outline_Vpn | 18",
             "type": "vless",
             "server": "172.66.45.32",
             "server_port": 443,
@@ -7283,7 +7281,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @prrofile_purple | 167",
+            "tag": "🇨🇦CA | vless | @prrofile_purple | 167",
             "type": "vless",
             "server": "172.66.47.126",
             "server_port": 443,
@@ -7314,7 +7312,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @prrofile_purple | 168",
+            "tag": "🇨🇦CA | vless | @prrofile_purple | 168",
             "type": "vless",
             "server": "104.16.205.53",
             "server_port": 443,
@@ -7407,7 +7405,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @prrofile_purple | 173",
+            "tag": "🇨🇦CA | vmess | @prrofile_purple | 173",
             "type": "vmess",
             "server": "188.114.97.3",
             "server_port": 443,
@@ -7591,7 +7589,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @customv2ray | 4",
+            "tag": "🇨🇦CA | vless | @customv2ray | 4",
             "type": "vless",
             "server": "104.16.11.111",
             "server_port": 80,
@@ -7612,7 +7610,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @customv2ray | 5",
+            "tag": "🇨🇦CA | vless | @customv2ray | 5",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 443,
@@ -7643,7 +7641,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @customv2ray | 6",
+            "tag": "🇨🇦CA | vless | @customv2ray | 6",
             "type": "vless",
             "server": "104.18.193.31",
             "server_port": 8080,
@@ -7685,7 +7683,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @customv2ray | 8",
+            "tag": "🇨🇦CA | vless | @customv2ray | 8",
             "type": "vless",
             "server": "104.19.179.196",
             "server_port": 443,
@@ -7716,7 +7714,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @customv2ray | 9",
+            "tag": "🇨🇦CA | vless | @customv2ray | 9",
             "type": "vless",
             "server": "104.17.83.58",
             "server_port": 443,
@@ -11098,7 +11096,36 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | vless | @ConfigsHUB | 5",
+            "tag": "🇩🇪DE | vless | @ConfigsHUB | 5",
+            "type": "vless",
+            "server": "141.95.75.212",
+            "server_port": 443,
+            "uuid": "200e059b-51ec-4825-8e95-5e49db5d22ad",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "analytics.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU",
+                    "short_id": "c741ad33"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | vless | @ConfigsHUB | 7",
             "type": "vless",
             "server": "162.159.152.152",
             "server_port": 443,
@@ -11129,7 +11156,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vless | @ConfigsHUB | 6",
+            "tag": "🇺🇸US | vless | @ConfigsHUB | 8",
             "type": "vless",
             "server": "104.24.20.71",
             "server_port": 443,
@@ -11160,7 +11187,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @ConfigsHUB | 7",
+            "tag": "🏳️XX | vless | @ConfigsHUB | 9",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2095,
@@ -11181,7 +11208,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @ConfigsHUB | 8",
+            "tag": "🏳️XX | vless | @ConfigsHUB | 10",
             "type": "vless",
             "server": "eagle.hafezdivan.online.",
             "server_port": 443,
@@ -11212,7 +11239,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | vless | @ConfigsHUB | 12",
+            "tag": "🇸🇪SE | vless | @ConfigsHUB | 14",
             "type": "vless",
             "server": "185.146.173.68",
             "server_port": 2095,
@@ -11233,7 +11260,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | vmess | @ConfigsHUB | 14",
+            "tag": "🇺🇸US | vmess | @ConfigsHUB | 16",
             "type": "vmess",
             "server": "104.21.4.6",
             "server_port": 443,
@@ -11267,7 +11294,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @ConfigsHUB | 16",
+            "tag": "🏳️XX | vless | @ConfigsHUB | 18",
             "type": "vless",
             "server": "www.shopssl.icu",
             "server_port": 8080,
@@ -11288,7 +11315,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vless | @ConfigsHUB | 17",
+            "tag": "🏳️XX | vless | @ConfigsHUB | 19",
             "type": "vless",
             "server": "Zula.ir",
             "server_port": 2095,
@@ -11305,68 +11332,6 @@
                 "path": "\/Qwerty",
                 "headers": {
                     "Host": "Zula.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "188.114.97.3",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "936a99B4.Vde5-MlX81LANeo.pAgES.dEv",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/kkhhl0gssoz7m6id\/zgu1lm1lcmxpbm56lmxpbms=?ed=2560",
-                "headers": {
-                    "Host": "936a99B4.Vde5-MlX81LANeo.pAgES.dEv"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "108.162.192.79",
-            "server_port": 443,
-            "uuid": "fb710ee0-f2d3-421c-8556-d23e5075f57e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bpb-worker-panel-chf.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed",
-                "headers": {
-                    "Host": "bpb-worker-panel-chf.pages.dev"
                 }
             }
         },
@@ -11903,35 +11868,6 @@
             }
         },
         {
-            "tag": "🇩🇪DE | vless | @Outlinev2rayNG | 10",
-            "type": "vless",
-            "server": "141.95.75.212",
-            "server_port": 443,
-            "uuid": "200e059b-51ec-4825-8e95-5e49db5d22ad",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "analytics.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU",
-                    "short_id": "c741ad33"
-                }
-            }
-        },
-        {
             "tag": "🏳️XX | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "MCI.zafarpapet.ir",
@@ -11990,6 +11926,37 @@
                 "path": "\/oyafdnkpgfcx0bjg",
                 "headers": {
                     "Host": "miumiUMadReKoSE.pAgES.dEv"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | vless | @Outlinev2rayNG | 14",
+            "type": "vless",
+            "server": "108.162.192.79",
+            "server_port": 443,
+            "uuid": "fb710ee0-f2d3-421c-8556-d23e5075f57e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "bpb-worker-panel-chf.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed",
+                "headers": {
+                    "Host": "bpb-worker-panel-chf.pages.dev"
                 }
             }
         },
