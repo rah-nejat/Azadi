@@ -120,11 +120,17 @@
                 "🏳️XX | vmess | @oneclickvpnkeys | 1",
                 "🏳️XX | vmess | @oneclickvpnkeys | 2",
                 "🏳️XX | vmess | @oneclickvpnkeys | 3",
-                "🏳️XX | vmess | @ShadowProxy66 | 22",
-                "🏳️XX | vmess | @ShadowProxy66 | 23",
-                "🏳️XX | vmess | @ShadowProxy66 | 24",
+                "🏳️XX | vmess | @ShadowProxy66 | 20",
+                "🏳️XX | vmess | @ShadowProxy66 | 21",
                 "🏳️XX | vmess | @v2ray1_ng | 3",
                 "🏳️XX | vmess | @DailyV2RY | 122",
+                "🏳️XX | vmess | @ConfigsHUB | 5",
+                "🏳️XX | vmess | @ConfigsHUB | 6",
+                "🏳️XX | vmess | @ConfigsHUB | 7",
+                "🏳️XX | vmess | @ConfigsHUB | 8",
+                "🏳️XX | vmess | @ConfigsHUB | 9",
+                "🏳️XX | vmess | @ConfigsHUB | 10",
+                "🏳️XX | vmess | @ConfigsHUB | 11",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -169,11 +175,17 @@
                 "🏳️XX | vmess | @oneclickvpnkeys | 1",
                 "🏳️XX | vmess | @oneclickvpnkeys | 2",
                 "🏳️XX | vmess | @oneclickvpnkeys | 3",
-                "🏳️XX | vmess | @ShadowProxy66 | 22",
-                "🏳️XX | vmess | @ShadowProxy66 | 23",
-                "🏳️XX | vmess | @ShadowProxy66 | 24",
+                "🏳️XX | vmess | @ShadowProxy66 | 20",
+                "🏳️XX | vmess | @ShadowProxy66 | 21",
                 "🏳️XX | vmess | @v2ray1_ng | 3",
                 "🏳️XX | vmess | @DailyV2RY | 122",
+                "🏳️XX | vmess | @ConfigsHUB | 5",
+                "🏳️XX | vmess | @ConfigsHUB | 6",
+                "🏳️XX | vmess | @ConfigsHUB | 7",
+                "🏳️XX | vmess | @ConfigsHUB | 8",
+                "🏳️XX | vmess | @ConfigsHUB | 9",
+                "🏳️XX | vmess | @ConfigsHUB | 10",
+                "🏳️XX | vmess | @ConfigsHUB | 11",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -517,11 +529,11 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ShadowProxy66 | 22",
+            "tag": "🏳️XX | vmess | @ShadowProxy66 | 20",
             "type": "vmess",
-            "server": "23.166.88.101",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "server": "188.114.97.7",
+            "server_port": 443,
+            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -531,14 +543,31 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "linde06.indiavideo.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "linde06.indiavideo.sbs"
+                }
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ShadowProxy66 | 23",
+            "tag": "🏳️XX | vmess | @ShadowProxy66 | 21",
             "type": "vmess",
-            "server": "23.162.152.6",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "server": "172.67.164.164",
+            "server_port": 443,
+            "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -548,23 +577,23 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @ShadowProxy66 | 24",
-            "type": "vmess",
-            "server": "23.157.88.35",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "afrhms07.xfixedfloat.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "afrhms07.xfixedfloat.cfd"
+                }
             }
         },
         {
@@ -606,6 +635,170 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 5",
+            "type": "vmess",
+            "server": "cfcdn2.sanfencdn9.com",
+            "server_port": 2052,
+            "uuid": "d0a3e08a-d26f-45bd-ba3c-6387f9182633",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/video\/c9efxRCi",
+                "headers": {
+                    "Host": "cfcdn2.sanfencdn9.com"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 6",
+            "type": "vmess",
+            "server": "nb24.ntbq.dynu.net",
+            "server_port": 4443,
+            "uuid": "1cc969d3-1df8-4794-a5cc-9231fe0e4710",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 7",
+            "type": "vmess",
+            "server": "129.146.113.254",
+            "server_port": 43121,
+            "uuid": "d53b39e2-925e-45b6-9389-46b9fa95878b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "129.146.113.254"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 8",
+            "type": "vmess",
+            "server": "183.236.48.169",
+            "server_port": 1002,
+            "uuid": "229ccd44-c56c-3947-88de-849dd70c180d",
+            "security": "auto",
+            "alter_id": 2,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 9",
+            "type": "vmess",
+            "server": "cfcdn3.sanfencdn9.com",
+            "server_port": 80,
+            "uuid": "d0a3e08a-d26f-45bd-ba3c-6387f9182633",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/video\/ibCT6z55",
+                "headers": {
+                    "Host": "cfcdn3.sanfencdn9.com"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 10",
+            "type": "vmess",
+            "server": "172.99.190.109",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 11",
+            "type": "vmess",
+            "server": "104.17.25.1",
+            "server_port": 80,
+            "uuid": "83c19463-f966-4adb-a7d8-b127825ffab2",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.17.25.1"
+                }
             }
         },
         {
