@@ -117,19 +117,22 @@
                 "🏳️XX | vmess | @mftizi | 17",
                 "🏳️XX | vmess | @mftizi | 18",
                 "🏳️XX | vmess | @DeamNet_Proxy | 10",
+                "🏳️XX | vmess | @oneclickvpnkeys | 0",
                 "🏳️XX | vmess | @oneclickvpnkeys | 1",
-                "🏳️XX | vmess | @oneclickvpnkeys | 2",
                 "🏳️XX | vmess | @oneclickvpnkeys | 3",
+                "🏳️XX | vmess | @oneclickvpnkeys | 4",
+                "🏳️XX | vmess | @oneclickvpnkeys | 5",
                 "🏳️XX | vmess | @ShadowProxy66 | 20",
                 "🏳️XX | vmess | @ShadowProxy66 | 21",
                 "🏳️XX | vmess | @v2ray1_ng | 3",
-                "🏳️XX | vmess | @ConfigsHUB | 13",
+                "🏳️XX | vmess | @DailyV2RY | 106",
+                "🏳️XX | vmess | @DailyV2RY | 112",
+                "🏳️XX | vmess | @ConfigsHUB | 8",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
                 "🏳️XX | vmess | @yaney_01 | 4",
                 "🏳️XX | vmess | @yaney_01 | 5",
-                "🏳️XX | vmess | @Hope_Net | 0",
                 "🏳️XX | vmess | @Hope_Net | 1",
                 "🏳️XX | vmess | @Hope_Net | 2",
                 "🏳️XX | vmess | @Hope_Net | 3",
@@ -168,19 +171,22 @@
                 "🏳️XX | vmess | @mftizi | 17",
                 "🏳️XX | vmess | @mftizi | 18",
                 "🏳️XX | vmess | @DeamNet_Proxy | 10",
+                "🏳️XX | vmess | @oneclickvpnkeys | 0",
                 "🏳️XX | vmess | @oneclickvpnkeys | 1",
-                "🏳️XX | vmess | @oneclickvpnkeys | 2",
                 "🏳️XX | vmess | @oneclickvpnkeys | 3",
+                "🏳️XX | vmess | @oneclickvpnkeys | 4",
+                "🏳️XX | vmess | @oneclickvpnkeys | 5",
                 "🏳️XX | vmess | @ShadowProxy66 | 20",
                 "🏳️XX | vmess | @ShadowProxy66 | 21",
                 "🏳️XX | vmess | @v2ray1_ng | 3",
-                "🏳️XX | vmess | @ConfigsHUB | 13",
+                "🏳️XX | vmess | @DailyV2RY | 106",
+                "🏳️XX | vmess | @DailyV2RY | 112",
+                "🏳️XX | vmess | @ConfigsHUB | 8",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
                 "🏳️XX | vmess | @yaney_01 | 4",
                 "🏳️XX | vmess | @yaney_01 | 5",
-                "🏳️XX | vmess | @Hope_Net | 0",
                 "🏳️XX | vmess | @Hope_Net | 1",
                 "🏳️XX | vmess | @Hope_Net | 2",
                 "🏳️XX | vmess | @Hope_Net | 3",
@@ -463,7 +469,65 @@
             }
         },
         {
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 0",
+            "type": "vmess",
+            "server": "max.mankadmu.com",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "max.mankadmu.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "max.mankadmu.com"
+                }
+            }
+        },
+        {
             "tag": "🏳️XX | vmess | @oneclickvpnkeys | 1",
+            "type": "vmess",
+            "server": "167.71.70.204",
+            "server_port": 49117,
+            "uuid": "4fbdcaa7-a12f-441f-ce67-ccf40d1f2bc2",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 3",
             "type": "vmess",
             "server": "cfcdn1.sanfencdn9.com",
             "server_port": 2052,
@@ -487,7 +551,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 2",
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "154.64.232.124",
             "server_port": 33878,
@@ -504,7 +568,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 3",
+            "tag": "🏳️XX | vmess | @oneclickvpnkeys | 5",
             "type": "vmess",
             "server": "23.157.88.35",
             "server_port": 22324,
@@ -613,11 +677,45 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 13",
+            "tag": "🏳️XX | vmess | @DailyV2RY | 106",
             "type": "vmess",
-            "server": "104.19.47.18",
-            "server_port": 8443,
-            "uuid": "39135a39-e6ca-43df-a360-d859eea58d86",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @DailyV2RY | 112",
+            "type": "vmess",
+            "server": "96.30.193.134",
+            "server_port": 8881,
+            "uuid": "db5afae4-ac23-41a6-8378-f307a9a47436",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 8",
+            "type": "vmess",
+            "server": "162.159.129.17",
+            "server_port": 80,
+            "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -628,21 +726,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "hk01.linkitnow.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/T,E,L,E,G,R,A,M,X,V,2,R,A,Y",
                 "headers": {
-                    "Host": "hk01.linkitnow.net"
+                    "Host": ""
                 }
             }
         },
@@ -794,23 +882,6 @@
                 "headers": {
                     "Host": "104.26.8.210"
                 }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @Hope_Net | 0",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
