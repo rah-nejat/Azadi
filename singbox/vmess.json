@@ -128,9 +128,10 @@
                 "🏳️XX | vmess | @ShadowProxy66 | 19",
                 "🏳️XX | vmess | @ShadowProxy66 | 20",
                 "🏳️XX | vmess | @ShadowProxy66 | 21",
-                "🏳️XX | vmess | @v2ray1_ng | 4",
+                "🏳️XX | vmess | @v2ray1_ng | 5",
                 "🏳️XX | vmess | @DailyV2RY | 133",
                 "🏳️XX | vmess | @DailyV2RY | 134",
+                "🏳️XX | vmess | @ConfigsHUB | 7",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -142,6 +143,7 @@
                 "🏳️XX | vmess | @v2Line | 1",
                 "🏳️XX | vmess | @v2Line | 2",
                 "🏳️XX | vmess | @v2Line | 3",
+                "🏳️XX | vmess | @v2Line | 4",
                 "🏳️XX | vmess | @FreakConfig | 7",
                 "🏳️XX | vmess | @kingofilter | 1",
                 "🏳️XX | vmess | @kingofilter | 4",
@@ -178,9 +180,10 @@
                 "🏳️XX | vmess | @ShadowProxy66 | 19",
                 "🏳️XX | vmess | @ShadowProxy66 | 20",
                 "🏳️XX | vmess | @ShadowProxy66 | 21",
-                "🏳️XX | vmess | @v2ray1_ng | 4",
+                "🏳️XX | vmess | @v2ray1_ng | 5",
                 "🏳️XX | vmess | @DailyV2RY | 133",
                 "🏳️XX | vmess | @DailyV2RY | 134",
+                "🏳️XX | vmess | @ConfigsHUB | 7",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -192,6 +195,7 @@
                 "🏳️XX | vmess | @v2Line | 1",
                 "🏳️XX | vmess | @v2Line | 2",
                 "🏳️XX | vmess | @v2Line | 3",
+                "🏳️XX | vmess | @v2Line | 4",
                 "🏳️XX | vmess | @FreakConfig | 7",
                 "🏳️XX | vmess | @kingofilter | 1",
                 "🏳️XX | vmess | @kingofilter | 4",
@@ -757,7 +761,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @v2ray1_ng | 4",
+            "tag": "🏳️XX | vmess | @v2ray1_ng | 5",
             "type": "vmess",
             "server": "188.114.98.40",
             "server_port": 80,
@@ -816,6 +820,30 @@
             "transport": {
                 "type": "ws",
                 "path": "\/vmess",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ConfigsHUB | 7",
+            "type": "vmess",
+            "server": "www.speedtest.net",
+            "server_port": 2052,
+            "uuid": "35c4c09c-85b9-44fb-9d5f-e3cae3011c1f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@irvpnn,@irvpnn,@irvpnn,@irvpnn?ed=1024",
                 "headers": {
                     "Host": ""
                 }
@@ -1042,6 +1070,40 @@
         {
             "tag": "🏳️XX | vmess | @v2Line | 0",
             "type": "vmess",
+            "server": "nodejs.org",
+            "server_port": 443,
+            "uuid": "6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hdfy1c1.cpiforpersia.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/QvtvPdDXXIlSdZMqnuxG",
+                "headers": {
+                    "Host": "hdfy1c1.cpiforpersia.uk"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @v2Line | 1",
+            "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,
             "uuid": "950db6aa-4926-4616-816e-ec0312dcb87b",
@@ -1074,7 +1136,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @v2Line | 1",
+            "tag": "🏳️XX | vmess | @v2Line | 2",
             "type": "vmess",
             "server": "jahfkjha.cfd",
             "server_port": 443,
@@ -1108,7 +1170,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @v2Line | 2",
+            "tag": "🏳️XX | vmess | @v2Line | 3",
             "type": "vmess",
             "server": "zula.ir",
             "server_port": 443,
@@ -1142,7 +1204,7 @@
             }
         },
         {
-            "tag": "🏳️XX | vmess | @v2Line | 3",
+            "tag": "🏳️XX | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "172.67.175.56",
             "server_port": 443,
