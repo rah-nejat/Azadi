@@ -131,7 +131,6 @@
                 "🏳️XX | vmess | @v2ray1_ng | 5",
                 "🏳️XX | vmess | @DailyV2RY | 133",
                 "🏳️XX | vmess | @DailyV2RY | 134",
-                "🏳️XX | vmess | @ConfigsHUB | 7",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -183,7 +182,6 @@
                 "🏳️XX | vmess | @v2ray1_ng | 5",
                 "🏳️XX | vmess | @DailyV2RY | 133",
                 "🏳️XX | vmess | @DailyV2RY | 134",
-                "🏳️XX | vmess | @ConfigsHUB | 7",
                 "🏳️XX | vmess | @yaney_01 | 1",
                 "🏳️XX | vmess | @yaney_01 | 2",
                 "🏳️XX | vmess | @yaney_01 | 3",
@@ -820,30 +818,6 @@
             "transport": {
                 "type": "ws",
                 "path": "\/vmess",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🏳️XX | vmess | @ConfigsHUB | 7",
-            "type": "vmess",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "35c4c09c-85b9-44fb-9d5f-e3cae3011c1f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@irvpnn,@irvpnn,@irvpnn,@irvpnn?ed=1024",
                 "headers": {
                     "Host": ""
                 }
