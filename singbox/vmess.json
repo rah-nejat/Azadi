@@ -153,7 +153,10 @@
                 "🏳️XX | vmess | @kingofilter | 4",
                 "🏳️XX | vmess | @kingofilter | 7",
                 "🏳️XX | vmess | @kingofilter | 8",
-                null
+                "🏳️XX | vmess | @kingofilter | 11",
+                "🏳️XX | vmess | @kingofilter | 15",
+                "🏳️XX | vmess | @kingofilter | 16",
+                "🏳️XX | vmess | @ROMAX_VPN | 1"
             ]
         },
         {
@@ -207,7 +210,10 @@
                 "🏳️XX | vmess | @kingofilter | 4",
                 "🏳️XX | vmess | @kingofilter | 7",
                 "🏳️XX | vmess | @kingofilter | 8",
-                null
+                "🏳️XX | vmess | @kingofilter | 11",
+                "🏳️XX | vmess | @kingofilter | 15",
+                "🏳️XX | vmess | @kingofilter | 16",
+                "🏳️XX | vmess | @ROMAX_VPN | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -1528,11 +1534,11 @@
             }
         },
         {
-            "tag": null,
+            "tag": "🏳️XX | vmess | @kingofilter | 11",
             "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
+            "server": "zula.ir",
+            "server_port": 2096,
+            "uuid": "2f86e97a-1ea0-4221-96cc-12210730e0c9",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1542,6 +1548,115 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kingo.hightechservice.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "kingo.hightechservice.ir"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @kingofilter | 15",
+            "type": "vmess",
+            "server": "zula.ir",
+            "server_port": 2096,
+            "uuid": "0ea36531-40ec-4390-8104-7698eac9eb57",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kingo.hightechservice.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "kingo.hightechservice.ir"
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @kingofilter | 16",
+            "type": "vmess",
+            "server": "198.41.193.181",
+            "server_port": 80,
+            "uuid": "92791642-1471-4b93-980a-81030985f3ce",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vmess",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🏳️XX | vmess | @ROMAX_VPN | 1",
+            "type": "vmess",
+            "server": "nodejs.org",
+            "server_port": 443,
+            "uuid": "6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hdfy1c1.cpiforpersia.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/QvtvPdDXXIlSdZMqnuxG",
+                "headers": {
+                    "Host": "hdfy1c1.cpiforpersia.uk"
+                }
             }
         }
     ],
