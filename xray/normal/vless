@@ -13,8 +13,8 @@ vless://56ac4f3a-8cbf-4748-966e-0e723317e0af@gr.globalunlimitedinternet.xyz:1911
 vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#❔XX | 🔴 | vless | @NIM_VPN_ir | 8
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv73.momdping.com#❔XX | 🔴 | vless | @XsV2ray | 3
 vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?security=none&encryption=none&host=fonts.gstatic.com&headerType=http&type=tcp#❔XX | 🔴 | vless | @XsV2ray | 4
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.52.65:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 12
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.144.90:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 13
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.208.147:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 16
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.185.232:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 17
 vless://f222a575-5a5b-496f-b1b8-7e95aefee02b@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#❔XX | 🔴 | vless | @melov2ray | 35
 vless://f222a575-5a5b-496f-b1b8-7e95aefee02b@speedtest.net:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#❔XX | 🔴 | vless | @melov2ray | 36
 vless://43c06dde-b530-4536-a9d7-ba7bccb6d0dd@www.speedtest.net:80?type=ws&security=none&path=/ali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#❔XX | 🔴 | vless | @V2pedia | 7
