@@ -161,8 +161,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -248,8 +248,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -1525,46 +1525,38 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "95.216.164.138",
-            "server_port": 41980,
-            "uuid": "1723d24c-55f1-454d-8a61-3129fcb2ed26",
+            "server": "172.66.40.99",
+            "server_port": 8880,
+            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
+                "headers": {
+                    "Host": "172.66.40.99"
+                }
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "91.107.245.212",
-            "server_port": 443,
-            "uuid": "7ef32b55-76b5-407e-94ba-c458657bc091",
-            "flow": "xtls-rprx-vision",
+            "server": "46.31.76.33",
+            "server_port": 2002,
+            "uuid": "bae7926f-227c-47e9-b0e3-56bfdbc55545",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "whatismyipaddress.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "H2qqAHMWIcc0OmbKVbIvNF2T0Ej1NPET03gF479o2BU",
-                    "short_id": "5c4c"
-                }
             }
         },
         {
