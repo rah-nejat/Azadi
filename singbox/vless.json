@@ -162,7 +162,7 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -249,7 +249,7 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -1527,6 +1527,37 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ww.arfilter.blog",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "ww.arfilter.blog"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8880,
             "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
@@ -1543,20 +1574,6 @@
                 "headers": {
                     "Host": "172.66.40.99"
                 }
-            }
-        },
-        {
-            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "46.31.76.33",
-            "server_port": 2002,
-            "uuid": "bae7926f-227c-47e9-b0e3-56bfdbc55545",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
