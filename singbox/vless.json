@@ -153,7 +153,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 17",
@@ -161,8 +161,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -240,7 +240,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
+                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 7",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇩🇪DE | 🔴 | vless | @vmess_vless_v2rayng | 17",
@@ -248,8 +248,8 @@
                 "🇫🇷FR | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇷🇺RU | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -1360,7 +1360,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 7",
             "type": "vless",
             "server": "104.18.35.85",
             "server_port": 443,
@@ -1527,37 +1527,60 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "95.216.164.138",
-            "server_port": 41980,
-            "uuid": "1723d24c-55f1-454d-8a61-3129fcb2ed26",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 8880,
-            "uuid": "d447f445-8ac8-46ad-8f93-474a8c57c738",
-            "flow": "",
+            "server": "de1.locations-sub.com",
+            "server_port": 3030,
+            "uuid": "4f614742-6ba2-4aa1-a69f-339aad2406ff",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420",
-                "headers": {
-                    "Host": "172.66.40.99"
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "77.81.65.10",
+            "server_port": 443,
+            "uuid": "3c7a1227-5383-3a19-7084-76624ec8f84f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speed.cloudflare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI",
+                    "short_id": ""
                 }
             }
         },
