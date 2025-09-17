@@ -111,6 +111,7 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 3",
                 "🇱🇻LV | 🟢 | vless | @proxy_kafee | 4"
             ]
         },
@@ -123,6 +124,7 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 3",
                 "🇱🇻LV | 🟢 | vless | @proxy_kafee | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -301,6 +303,35 @@
                     "enabled": true,
                     "public_key": "nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇫🇮FI | 🟢 | vless | @proxy_kafee | 3",
+            "type": "vless",
+            "server": "46.62.152.219",
+            "server_port": 8443,
+            "uuid": "234a4937-5029-4bcd-b32a-1eda5afc14f8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms",
+                    "short_id": "27e6b66aa77662fb"
                 }
             }
         },
