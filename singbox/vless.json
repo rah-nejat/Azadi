@@ -125,8 +125,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇩🇪DE | 🔴 | vless | @rxv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -161,8 +161,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
-                "🇩🇪DE | 🔴 | vless | @rxv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -652,7 +652,28 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @rxv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
+            "type": "vless",
+            "server": "172.67.188.18",
+            "server_port": 80,
+            "uuid": "2cf5523e-c4e2-4e97-be1f-b9b7d356c140",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/aioproxybot\/8.215.59.6-443",
+                "headers": {
+                    "Host": "172.67.188.18"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "188.245.39.111",
             "server_port": 48889,
@@ -663,27 +684,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
-            "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 80,
-            "uuid": "8c17092b-4d89-44e3-9dcb-a00c2bf28827",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "172.66.40.99"
-                }
             }
         },
         {
