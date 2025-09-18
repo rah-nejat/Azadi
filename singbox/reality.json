@@ -111,6 +111,7 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 13",
                 "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4",
                 "🇱🇻LV | 🟢 | vless | @proxy_kafee | 5"
             ]
@@ -124,6 +125,7 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 13",
                 "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4",
                 "🇱🇻LV | 🟢 | vless | @proxy_kafee | 5"
             ],
@@ -303,6 +305,35 @@
                     "enabled": true,
                     "public_key": "nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 13",
+            "type": "vless",
+            "server": "amazon-4.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },
