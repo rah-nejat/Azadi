@@ -111,8 +111,8 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 3",
-                "🇱🇻LV | 🟢 | vless | @proxy_kafee | 4"
+                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4",
+                "🇱🇻LV | 🟢 | vless | @proxy_kafee | 5"
             ]
         },
         {
@@ -124,8 +124,8 @@
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 3",
-                "🇱🇻LV | 🟢 | vless | @proxy_kafee | 4"
+                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4",
+                "🇱🇻LV | 🟢 | vless | @proxy_kafee | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -307,7 +307,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @proxy_kafee | 3",
+            "tag": "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "46.62.152.219",
             "server_port": 8443,
@@ -336,7 +336,7 @@
             }
         },
         {
-            "tag": "🇱🇻LV | 🟢 | vless | @proxy_kafee | 4",
+            "tag": "🇱🇻LV | 🟢 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "94.131.104.178",
             "server_port": 443,
