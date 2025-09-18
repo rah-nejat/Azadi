@@ -116,10 +116,10 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 63",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 64",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 11",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -151,10 +151,10 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 63",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 64",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 11",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -472,7 +472,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 63",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 63",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -493,7 +493,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 64",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 64",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -514,7 +514,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -535,7 +535,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
