@@ -112,7 +112,7 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 23",
-                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4"
+                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 5"
             ]
         },
         {
@@ -125,7 +125,7 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 23",
-                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4"
+                "🇫🇮FI | 🟢 | vless | @proxy_kafee | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -336,7 +336,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @proxy_kafee | 4",
+            "tag": "🇫🇮FI | 🟢 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "46.62.152.219",
             "server_port": 8443,
