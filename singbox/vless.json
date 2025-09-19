@@ -560,32 +560,15 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
-            "server": "172.66.40.99",
-            "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.arfilter.blog",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "www.arfilter.blog"
-                }
             }
         },
         {
@@ -624,7 +607,7 @@
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
-            "uuid": "4cb3b5bb-443b-411a-b5f3-4f644062a4c2",
+            "uuid": "811f9ec0-5b6f-4e36-92a1-88338b2c9dbf",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
