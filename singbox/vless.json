@@ -129,7 +129,7 @@
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
-                "🇨🇦CA | 🔴 | vless | @DarkTeam_VPN | 22",
+                "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇫🇮FI | 🟢 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
@@ -165,7 +165,7 @@
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 15",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
-                "🇨🇦CA | 🔴 | vless | @DarkTeam_VPN | 22",
+                "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇫🇮FI | 🟢 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
@@ -715,7 +715,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @DarkTeam_VPN | 22",
+            "tag": "🇺🇸US | 🔴 | vless | @DarkTeam_VPN | 22",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
