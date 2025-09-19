@@ -128,8 +128,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -163,8 +163,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -716,11 +716,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
             "type": "vless",
-            "server": "141.227.134.153",
+            "server": "54.36.112.160",
             "server_port": 25365,
-            "uuid": "0a708abd-79b3-420d-a564-e8a1ff580f83",
+            "uuid": "930989fd-61dd-4d18-a895-e48892acb32e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -737,11 +737,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
             "type": "vless",
-            "server": "141.227.174.30",
-            "server_port": 32657,
-            "uuid": "24244970-2b14-47e6-b0c1-95cecc9bcc3c",
+            "server": "104.17.147.22",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -749,12 +749,22 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "w.arfilter.blog",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "w.arfilter.blog"
+                }
             }
         },
         {
