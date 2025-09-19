@@ -106,17 +106,17 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 17",
-                "❔XX | 🔴 | vless | @Parsashonam | 18",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 58",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @melov2ray | 54",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -128,8 +128,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -141,17 +141,17 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 17",
-                "❔XX | 🔴 | vless | @Parsashonam | 18",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🔴 | vless | @v2_team | 1",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 58",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @melov2ray | 54",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -163,8 +163,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -192,7 +192,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 17",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -206,7 +206,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -336,7 +336,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
+            "tag": "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
             "type": "vless",
             "server": "uk1.configlinepanel.com",
             "server_port": 8443,
@@ -365,7 +365,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -410,7 +410,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
             "server": "15.188.206.31",
             "server_port": 22224,
@@ -441,7 +441,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
             "server": "15.237.148.28",
             "server_port": 22224,
@@ -472,11 +472,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 58",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 54",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
-            "uuid": "121610b9-74a8-4988-ace2-bafb3013fde1",
+            "uuid": "22253331-3afd-4b87-ec6f-25e995664743",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -518,7 +518,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "32dd4f12-27f2-42da-a430-dde1287fac8c",
+            "uuid": "b1b2586d-358d-45fe-b0b1-01861fe40eea",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -709,11 +709,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
             "type": "vless",
-            "server": "54.36.112.160",
+            "server": "141.227.134.153",
             "server_port": 25365,
-            "uuid": "930989fd-61dd-4d18-a895-e48892acb32e",
+            "uuid": "0a708abd-79b3-420d-a564-e8a1ff580f83",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -730,11 +730,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
             "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 443,
-            "uuid": "telegram-id-Arfilter",
+            "server": "141.227.174.30",
+            "server_port": 32657,
+            "uuid": "24244970-2b14-47e6-b0c1-95cecc9bcc3c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -742,22 +742,12 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "w.arfilter.blog",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "w.arfilter.blog"
-                }
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
