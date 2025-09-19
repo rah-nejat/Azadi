@@ -129,8 +129,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 22",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 23",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -165,8 +165,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 22",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 23",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -732,11 +732,32 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 22",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
+            "server": "54.36.112.160",
+            "server_port": 25365,
+            "uuid": "930989fd-61dd-4d18-a895-e48892acb32e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+            "type": "vless",
+            "server": "104.17.147.22",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -746,7 +767,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "lease-15.access.name.ng",
+                "server_name": "w.arfilter.blog",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -756,38 +777,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "lease-15.access.name.ng"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 23",
-            "type": "vless",
-            "server": "amazon-4.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
+                    "Host": "w.arfilter.blog"
                 }
             }
         },
