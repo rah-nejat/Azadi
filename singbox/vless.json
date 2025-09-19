@@ -669,6 +669,20 @@
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 17",
             "type": "vless",
+            "server": "148.113.180.24",
+            "server_port": 44809,
+            "uuid": "0128b29c-1359-4da4-c181-5125415188c7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "type": "vless",
             "server": "172.67.188.18",
             "server_port": 80,
             "uuid": "2cf5523e-c4e2-4e97-be1f-b9b7d356c140",
@@ -685,20 +699,6 @@
                 "headers": {
                     "Host": "172.67.188.18"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
-            "type": "vless",
-            "server": "188.245.39.111",
-            "server_port": 48889,
-            "uuid": "3b82c3ef-d428-4a62-ae97-f53c305f883d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
