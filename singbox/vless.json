@@ -130,7 +130,6 @@
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
-                "❔XX | 🟢 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -165,7 +164,6 @@
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
-                "❔XX | 🟢 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -716,35 +714,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 4",
-            "type": "vless",
-            "server": "103.9.77.61",
-            "server_port": 46922,
-            "uuid": "ac2474ac-6716-458a-a301-bce29698186a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vinahost.vn",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Mxg3aGXzUTgR2rA-DtugBRm-4RBVLlSNWNMRKALZBDo",
-                    "short_id": "9ed1d241f0"
-                }
             }
         },
         {
