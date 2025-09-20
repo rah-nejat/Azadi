@@ -116,17 +116,17 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
                 "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 51",
-                "❔XX | 🔴 | vless | @melov2ray | 52",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
-                "❔XX | 🔴 | vless | @V2pedia | 10",
-                "❔XX | 🔴 | vless | @ARv2ray | 17",
-                "❔XX | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @lightning6 | 16",
+                "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
@@ -150,17 +150,17 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
                 "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 51",
-                "❔XX | 🔴 | vless | @melov2ray | 52",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
-                "❔XX | 🔴 | vless | @V2pedia | 10",
-                "❔XX | 🔴 | vless | @ARv2ray | 17",
-                "❔XX | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @lightning6 | 16",
+                "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🟢 | vless | @proxy_kafee | 5",
@@ -455,7 +455,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 52",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 52",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -497,7 +497,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -518,7 +518,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -532,7 +532,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -563,7 +563,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
@@ -647,11 +647,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 16",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "5b01edb2-6fc9-48bb-90eb-fcf41a355e33",
+            "uuid": "b848a32e-a77d-4deb-a3f7-f4eb4b3b58ac",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
