@@ -129,7 +129,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
-                "❔XX | 🟢 | vless | @proxy_kafee | 5",
+                "❔XX | 🟢 | vless | @proxy_kafee | 6",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -163,7 +163,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 8",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 9",
-                "❔XX | 🟢 | vless | @proxy_kafee | 5",
+                "❔XX | 🟢 | vless | @proxy_kafee | 6",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -520,20 +520,6 @@
         {
             "tag": "❔XX | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
@@ -546,7 +532,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.arfilter.blog",
+                "server_name": "ww.arfilter.blog",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -558,8 +544,22 @@
                 "type": "ws",
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "www.arfilter.blog"
+                    "Host": "ww.arfilter.blog"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -703,7 +703,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 5",
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 6",
             "type": "vless",
             "server": "46.62.152.219",
             "server_port": 8443,
