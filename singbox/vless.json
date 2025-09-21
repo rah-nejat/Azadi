@@ -124,7 +124,6 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
@@ -158,7 +157,6 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
@@ -612,7 +610,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 17",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 2052,
@@ -630,20 +628,6 @@
                 "headers": {
                     "Host": "185.146.173.39"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
-            "type": "vless",
-            "server": "148.113.180.24",
-            "server_port": 44809,
-            "uuid": "0128b29c-1359-4da4-c181-5125415188c7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
