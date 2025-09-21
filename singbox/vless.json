@@ -106,15 +106,15 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 17",
-                "❔XX | 🔴 | vless | @Parsashonam | 18",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 48",
                 "❔XX | 🔴 | vless | @melov2ray | 49",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
@@ -140,15 +140,15 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 17",
-                "❔XX | 🔴 | vless | @Parsashonam | 18",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 48",
                 "❔XX | 🔴 | vless | @melov2ray | 49",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
@@ -190,7 +190,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 17",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 17",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -204,7 +204,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -298,7 +298,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
+            "tag": "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
             "type": "vless",
             "server": "uk1.configlinepanel.com",
             "server_port": 8443,
@@ -327,7 +327,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -372,7 +372,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
             "server": "13.37.24.11",
             "server_port": 22224,
@@ -403,7 +403,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
             "server": "18.193.171.224",
             "server_port": 22224,
@@ -651,7 +651,7 @@
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "03c1937a-3ffc-481b-bf61-3189fb34ea03",
+            "uuid": "b00717e8-8249-4e18-b4db-b6ab2b0392a1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -665,7 +665,7 @@
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "66cadee1-3b32-45e9-b8af-fa951510b4a7",
+            "uuid": "03c1937a-3ffc-481b-bf61-3189fb34ea03",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
