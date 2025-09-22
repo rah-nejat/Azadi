@@ -114,12 +114,12 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 48",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 49",
-                "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @melov2ray | 45",
+                "❔XX | 🔴 | vless | @melov2ray | 46",
+                "❔XX | 🔴 | vless | @V2pedia | 8",
+                "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
@@ -147,12 +147,12 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 48",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 49",
-                "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @melov2ray | 45",
+                "❔XX | 🔴 | vless | @melov2ray | 46",
+                "❔XX | 🔴 | vless | @V2pedia | 8",
+                "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
@@ -372,6 +372,37 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
+            "server": "13.37.87.56",
+            "server_port": 22224,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig",
+                "headers": {
+                    "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
+            "type": "vless",
             "server": "52.28.47.115",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
@@ -401,42 +432,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-            "type": "vless",
-            "server": "63.179.226.235",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 48",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 45",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "400f06ce-2b69-4444-a398-47b7166ccb54",
+            "uuid": "c6a58e27-6c00-4e94-de47-52fbff53d86f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -453,11 +453,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 49",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 46",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
-            "uuid": "400f06ce-2b69-4444-a398-47b7166ccb54",
+            "uuid": "c6a58e27-6c00-4e94-de47-52fbff53d86f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -474,7 +474,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @V2pedia | 8",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "51.178.223.140",
             "server_port": 19822,
@@ -495,7 +495,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -516,7 +516,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
