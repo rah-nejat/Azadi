@@ -106,20 +106,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 18",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5"
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 18",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
                 "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5"
+                "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -142,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 18",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -236,7 +236,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
+            "tag": "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 5",
             "type": "vless",
             "server": "uk1.configlinepanel.com",
             "server_port": 8443,
