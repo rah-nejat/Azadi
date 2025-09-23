@@ -121,9 +121,9 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
-                "🇸🇪SE | 🔴 | vless | @rxv2ray | 19",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 15",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 13",
@@ -152,9 +152,9 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
-                "🇸🇪SE | 🔴 | vless | @rxv2ray | 19",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 15",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 13",
@@ -325,7 +325,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "13.39.254.180",
+            "server": "15.237.168.148",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -356,7 +356,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "52.57.64.138",
+            "server": "13.39.254.180",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -471,6 +471,20 @@
         {
             "tag": "❔XX | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
@@ -497,20 +511,6 @@
                 "headers": {
                     "Host": "w.arfilter.blog"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -549,7 +549,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -563,7 +563,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 2052,
@@ -584,7 +584,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 15",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
