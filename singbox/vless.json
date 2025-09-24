@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
@@ -139,8 +139,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
@@ -227,6 +227,35 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+            "type": "vless",
+            "server": "prteam.darkping.net",
+            "server_port": 2422,
+            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
             "type": "vless",
             "server": "ger.afterhav.ir",
@@ -252,35 +281,6 @@
                     "enabled": true,
                     "public_key": "i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA",
                     "short_id": "62cce1a746fa"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 5",
-            "type": "vless",
-            "server": "uk1.configlinepanel.com",
-            "server_port": 8443,
-            "uuid": "cd307b67-8180-491c-ad97-5dfd74cb38de",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk",
-                    "short_id": ""
                 }
             }
         },
