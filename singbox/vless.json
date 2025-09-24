@@ -115,8 +115,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 45",
-                "❔XX | 🔴 | vless | @melov2ray | 46",
+                "❔XX | 🔴 | vless | @melov2ray | 38",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -148,8 +147,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 45",
-                "❔XX | 🔴 | vless | @melov2ray | 46",
+                "❔XX | 🔴 | vless | @melov2ray | 38",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -432,32 +430,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 45",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "c6a58e27-6c00-4e94-de47-52fbff53d86f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?ed=1024",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 46",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 38",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
-            "uuid": "c6a58e27-6c00-4e94-de47-52fbff53d86f",
+            "uuid": "f3528ca9-bd6e-4e0e-c790-d85e75d3ba57",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
