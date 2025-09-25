@@ -110,16 +110,16 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
-                "❔XX | 🔴 | vless | @melov2ray | 45",
-                "❔XX | 🔴 | vless | @V2pedia | 8",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @shh_proxy | 10",
+                "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
@@ -142,16 +142,16 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
-                "❔XX | 🔴 | vless | @melov2ray | 45",
-                "❔XX | 🔴 | vless | @V2pedia | 8",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @shh_proxy | 10",
+                "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
@@ -287,7 +287,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -332,7 +332,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
             "server": "13.36.206.216",
             "server_port": 22224,
@@ -363,7 +363,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
             "server": "13.39.151.215",
             "server_port": 22224,
@@ -394,11 +394,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
-            "uuid": "c6a58e27-6c00-4e94-de47-52fbff53d86f",
+            "uuid": "f3528ca9-bd6e-4e0e-c790-d85e75d3ba57",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -415,7 +415,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -502,7 +502,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 10",
+            "tag": "❔XX | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
