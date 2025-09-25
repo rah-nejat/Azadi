@@ -124,9 +124,9 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 17",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 17",
+                "🇨🇿CZ | 🔴 | vless | @DarkTeam_VPN | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 13",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -156,9 +156,9 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 17",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 19",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 17",
+                "🇨🇿CZ | 🔴 | vless | @DarkTeam_VPN | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 13",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -586,7 +586,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "104.26.6.89",
             "server_port": 2095,
@@ -600,7 +600,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 17",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -614,7 +614,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
+            "tag": "🇨🇿CZ | 🔴 | vless | @DarkTeam_VPN | 12",
             "type": "vless",
             "server": "141.227.134.153",
             "server_port": 25365,
