@@ -121,9 +121,9 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -153,9 +153,9 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -544,7 +544,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -558,7 +558,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -572,7 +572,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 8443,
