@@ -124,7 +124,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -157,7 +156,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -555,6 +553,20 @@
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
+            "server": "mci.dl101movis.ir",
+            "server_port": 80,
+            "uuid": "117ca567-3180-4d62-abcc-8fc0104c93ff",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "type": "vless",
             "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
             "server_port": 2096,
             "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
@@ -580,66 +592,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "BtEvEjF8zI.sOlEnTrAa.InFo"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
-            "type": "vless",
-            "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
-            "server_port": 8443,
-            "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "YjF03nNq0B.sOlEnTrAa.InFo",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
-                "headers": {
-                    "Host": "YjF03nNq0B.sOlEnTrAa.InFo"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 10",
-            "type": "vless",
-            "server": "netherlanda.motorbazan.com",
-            "server_port": 8443,
-            "uuid": "cf556419-247c-4d04-969e-8742b836f364",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk",
-                    "short_id": ""
                 }
             }
         },
