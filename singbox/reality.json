@@ -108,7 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 4"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 10"
             ]
         },
         {
@@ -117,7 +118,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 4"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 4",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 10"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -223,6 +225,35 @@
                     "enabled": true,
                     "public_key": "i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA",
                     "short_id": "62cce1a746fa"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 10",
+            "type": "vless",
+            "server": "netherlanda.motorbazan.com",
+            "server_port": 8443,
+            "uuid": "cf556419-247c-4d04-969e-8742b836f364",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk",
+                    "short_id": ""
                 }
             }
         }
