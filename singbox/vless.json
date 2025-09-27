@@ -124,6 +124,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -156,6 +157,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -592,6 +594,35 @@
                 "path": "\/",
                 "headers": {
                     "Host": "BtEvEjF8zI.sOlEnTrAa.InFo"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 10",
+            "type": "vless",
+            "server": "netherlanda.motorbazan.com",
+            "server_port": 8443,
+            "uuid": "cf556419-247c-4d04-969e-8742b836f364",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "stackoverflow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk",
+                    "short_id": ""
                 }
             }
         },
