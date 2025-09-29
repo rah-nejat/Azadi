@@ -106,11 +106,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
                 "❔XX | 🔴 | vless | @melov2ray | 24",
@@ -139,11 +139,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
                 "❔XX | 🔴 | vless | @melov2ray | 24",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -217,7 +217,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
             "type": "vless",
             "server": "prteam.darkping.net",
             "server_port": 2422,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -291,7 +291,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
             "server": "52.58.34.74",
             "server_port": 22224,
@@ -552,7 +552,7 @@
             "type": "vless",
             "server": "FreakConfig.snapfood.org",
             "server_port": 443,
-            "uuid": "FreakConfig",
+            "uuid": "FreakConfig2",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -579,15 +579,30 @@
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
-            "server": "mci.dl101movis.ir",
-            "server_port": 80,
-            "uuid": "117ca567-3180-4d62-abcc-8fc0104c93ff",
-            "flow": "",
+            "server": "FreakConfig.snapfood.org",
+            "server_port": 443,
+            "uuid": "FreakConfig",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs",
+                    "short_id": "6993f143e90756"
+                }
             }
         },
         {
