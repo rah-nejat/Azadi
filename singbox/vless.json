@@ -119,10 +119,10 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "🇳🇱NL | 🔴 | vless | @rxv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -152,10 +152,10 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "🇳🇱NL | 🔴 | vless | @rxv2ray | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
@@ -528,7 +528,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -556,7 +556,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @rxv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "FreakConfig.snapfood.org",
             "server_port": 443,
@@ -585,7 +585,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "mci.dl101movis.ir",
             "server_port": 80,
