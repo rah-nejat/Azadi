@@ -123,7 +123,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
@@ -157,7 +156,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
@@ -590,27 +588,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 4",
-            "type": "vless",
-            "server": "62.60.192.209",
-            "server_port": 80,
-            "uuid": "f5f2458c-5fcb-4820-82c2-2997492c54d5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "62.60.192.209"
-                }
             }
         },
         {
