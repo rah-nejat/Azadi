@@ -106,17 +106,17 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 23",
+                "❔XX | 🔴 | vless | @melov2ray | 23",
                 "❔XX | 🔴 | vless | @melov2ray | 24",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
@@ -139,17 +139,17 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 23",
+                "❔XX | 🔴 | vless | @melov2ray | 23",
                 "❔XX | 🔴 | vless | @melov2ray | 24",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+                "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -291,7 +291,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
             "server": "52.58.34.74",
             "server_port": 22224,
@@ -353,7 +353,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 23",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 23",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -437,7 +437,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
