@@ -107,18 +107,18 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
-                "❔XX | 🔴 | vless | @melov2ray | 24",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 24",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
-                "❔XX | 🔴 | vless | @shh_proxy | 12",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
@@ -140,18 +140,18 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
-                "❔XX | 🔴 | vless | @melov2ray | 24",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 24",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
-                "❔XX | 🔴 | vless | @shh_proxy | 12",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
@@ -217,7 +217,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
             "type": "vless",
             "server": "prteam.darkping.net",
             "server_port": 2422,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -374,7 +374,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 24",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 24",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -395,7 +395,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -499,7 +499,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 12",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 80,
