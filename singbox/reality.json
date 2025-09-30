@@ -107,8 +107,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇳🇱NL | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19"
             ]
         },
@@ -117,8 +117,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇳🇱NL | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -171,7 +171,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
             "type": "vless",
             "server": "prteam.darkping.net",
             "server_port": 2422,
@@ -200,7 +200,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "tag": "🇳🇱NL | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "FreakConfig.snapfood.org",
             "server_port": 443,
