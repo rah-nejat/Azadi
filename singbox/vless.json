@@ -110,12 +110,12 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 24",
+                "❔XX | 🔴 | vless | @melov2ray | 24",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
@@ -123,6 +123,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
@@ -143,12 +144,12 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 24",
+                "❔XX | 🔴 | vless | @melov2ray | 24",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
@@ -156,6 +157,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
@@ -291,9 +293,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "52.58.34.74",
+            "server": "35.180.155.217",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -322,9 +324,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "3.127.1.21",
+            "server": "52.58.34.74",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -374,7 +376,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 24",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 24",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -416,7 +418,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 10",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -602,6 +604,27 @@
                     "enabled": true,
                     "public_key": "vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs",
                     "short_id": "6993f143e90756"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+            "type": "vless",
+            "server": "62.60.192.209",
+            "server_port": 80,
+            "uuid": "f5f2458c-5fcb-4820-82c2-2997492c54d5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "62.60.192.209"
                 }
             }
         },
