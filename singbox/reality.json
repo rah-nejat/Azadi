@@ -106,20 +106,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
                 "🇨🇦CA | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "🇳🇱NL | 🔴 | vless | @rxv2ray | 19"
+                "❔XX | 🔴 | vless | @rxv2ray | 19"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
                 "🇨🇦CA | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "🇳🇱NL | 🔴 | vless | @rxv2ray | 19"
+                "❔XX | 🔴 | vless | @rxv2ray | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -142,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -229,7 +229,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "FreakConfig.snapfood.org",
             "server_port": 443,
