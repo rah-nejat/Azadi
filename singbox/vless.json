@@ -120,12 +120,12 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+                "🇳🇱NL | 🔴 | vless | @rxv2ray | 19",
+                "🇮🇷IR | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
-                "❔XX | 🔴 | vless | @lightning6 | 19",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
@@ -154,12 +154,12 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 19",
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+                "🇳🇱NL | 🔴 | vless | @rxv2ray | 19",
+                "🇮🇷IR | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
-                "❔XX | 🔴 | vless | @lightning6 | 19",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
@@ -536,7 +536,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -579,7 +579,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "🇳🇱NL | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "FreakConfig.snapfood.org",
             "server_port": 443,
@@ -608,7 +608,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+            "tag": "🇮🇷IR | 🔴 | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "62.60.192.209",
             "server_port": 80,
@@ -643,7 +643,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 19",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
