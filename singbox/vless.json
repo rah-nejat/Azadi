@@ -123,7 +123,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 6",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
@@ -157,7 +156,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 6",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
@@ -572,37 +570,6 @@
                     "enabled": true,
                     "public_key": "vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs",
                     "short_id": "6993f143e90756"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 6",
-            "type": "vless",
-            "server": "65.109.217.125",
-            "server_port": 443,
-            "uuid": "d09c7283-6a69-4c8e-b633-e3927166e07f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fl.v2bazzar.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "fl.v2bazzar.ir"
                 }
             }
         },
