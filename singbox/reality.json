@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @rxv2ray | 19"
+                "🇳🇱NL | 🔴 | vless | @rxv2ray | 19"
             ]
         },
         {
@@ -117,7 +117,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @rxv2ray | 19"
+                "🇳🇱NL | 🔴 | vless | @rxv2ray | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -198,7 +198,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "🇳🇱NL | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "FreakConfig.snapfood.org",
             "server_port": 443,
