@@ -129,12 +129,12 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
-                "🇦🇪AE | 🔴 | vless | @proxy_kafee | 2",
-                "🇸🇪SE | 🔴 | vless | @v2logy | 9",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
+                "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 3"
             ]
         },
         {
@@ -164,12 +164,12 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
-                "🇦🇪AE | 🔴 | vless | @proxy_kafee | 2",
-                "🇸🇪SE | 🔴 | vless | @v2logy | 9",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
+                "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -690,7 +690,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8443,
@@ -721,7 +721,7 @@
             }
         },
         {
-            "tag": "🇦🇪AE | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "93.127.180.124",
             "server_port": 85,
@@ -735,7 +735,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @v2logy | 9",
+            "tag": "❔XX | 🔴 | vless | @v2logy | 9",
             "type": "vless",
             "server": "185.146.173.237",
             "server_port": 80,
@@ -787,7 +787,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 2",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
@@ -801,7 +801,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 3",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
