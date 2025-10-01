@@ -123,7 +123,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 4",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
@@ -157,7 +157,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 4",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
@@ -576,7 +576,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 4",
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "65.109.217.125",
             "server_port": 443,
