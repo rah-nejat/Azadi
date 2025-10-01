@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2"
             ]
         },
@@ -118,7 +118,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -200,11 +200,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 18",
             "type": "vless",
-            "server": "FreakConfig.snapfood.org",
+            "server": "deu316.unlocknet.org",
             "server_port": 443,
-            "uuid": "FreakConfig2",
+            "uuid": "77b3bda7-4ee3-4c99-bad1-a935f7e027c8",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -214,17 +214,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "www.bing.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs",
-                    "short_id": "6993f143e90756"
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
+                    "short_id": ""
                 }
             }
         },
