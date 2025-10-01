@@ -110,8 +110,8 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 16",
+                "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
                 "❔XX | 🔴 | vless | @melov2ray | 24",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
@@ -128,8 +128,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
+                "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
-                "❔XX | 🔴 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -144,8 +144,8 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 16",
+                "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @melov2ray | 23",
                 "❔XX | 🔴 | vless | @melov2ray | 24",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
@@ -162,8 +162,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
+                "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
-                "❔XX | 🔴 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -293,9 +293,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "3.70.122.10",
+            "server": "52.47.180.25",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -324,9 +324,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "63.177.14.170",
+            "server": "3.64.110.236",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -677,6 +677,35 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 2",
+            "type": "vless",
+            "server": "62.60.233.30",
+            "server_port": 443,
+            "uuid": "8377aac9-f3b3-42df-a5ea-9254f37e7b34",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tr.eu-ffast.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+                    "short_id": "50"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "172.66.40.99",
@@ -705,20 +734,6 @@
                 "headers": {
                     "Host": "D0dTpVg4Z3.sOlEnTrAa.InFo"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 4",
-            "type": "vless",
-            "server": "93.127.180.124",
-            "server_port": 85,
-            "uuid": "fdc4e100-9979-47f2-b683-421fb19f7227",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
