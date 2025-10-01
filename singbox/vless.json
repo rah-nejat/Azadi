@@ -121,12 +121,12 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 7",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -154,12 +154,12 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 7",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -531,7 +531,36 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 18",
+            "type": "vless",
+            "server": "deu316.unlocknet.org",
+            "server_port": 443,
+            "uuid": "77b3bda7-4ee3-4c99-bad1-a935f7e027c8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.bing.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "m33a.vip784.com",
             "server_port": 33801,
@@ -542,35 +571,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
-            "type": "vless",
-            "server": "FreakConfig.snapfood.org",
-            "server_port": 443,
-            "uuid": "FreakConfig2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs",
-                    "short_id": "6993f143e90756"
-                }
             }
         },
         {
@@ -602,11 +602,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
             "type": "vless",
-            "server": "141.227.170.209",
-            "server_port": 34219,
-            "uuid": "9e55dc25-81b3-455c-898c-1fcdd90e55f0",
+            "server": "135.125.88.66",
+            "server_port": 37612,
+            "uuid": "bbb7af93-94f1-4ad7-8a4d-2b674bea8922",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -623,11 +623,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 11",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 7",
             "type": "vless",
-            "server": "141.227.180.211",
-            "server_port": 25365,
-            "uuid": "1375d9a1-dece-4bbb-8131-29e06afd8ca4",
+            "server": "141.227.174.221",
+            "server_port": 18409,
+            "uuid": "5342a980-50a4-4daa-9c45-e83f2ebab024",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
