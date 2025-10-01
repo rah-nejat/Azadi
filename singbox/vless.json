@@ -124,7 +124,6 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🟢 | vless | @free_v2rayyy | 4",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
@@ -159,7 +158,6 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🟢 | vless | @free_v2rayyy | 4",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 10",
@@ -443,20 +441,6 @@
         {
             "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 19",
-            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
@@ -483,6 +467,20 @@
                 "headers": {
                     "Host": "ei.arfilter.blog"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 19",
+            "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -605,27 +603,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "fl.v2bazzar.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 5",
-            "type": "vless",
-            "server": "62.60.192.209",
-            "server_port": 80,
-            "uuid": "f5f2458c-5fcb-4820-82c2-2997492c54d5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "62.60.192.209"
                 }
             }
         },
