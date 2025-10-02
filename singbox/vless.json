@@ -127,8 +127,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 7",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
-                "❔XX | 🟢 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -160,8 +160,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 7",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
-                "❔XX | 🟢 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -637,6 +637,37 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
+            "type": "vless",
+            "server": "172.66.40.99",
+            "server_port": 8443,
+            "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "D0dTpVg4Z3.sOlEnTrAa.InFo",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "D0dTpVg4Z3.sOlEnTrAa.InFo"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "amazon-funder.info",
@@ -664,35 +695,6 @@
                 "path": "\/majara",
                 "headers": {
                     "Host": "datpy.amazon-funder.info"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 3",
-            "type": "vless",
-            "server": "62.60.233.30",
-            "server_port": 443,
-            "uuid": "8377aac9-f3b3-42df-a5ea-9254f37e7b34",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tr.eu-ffast.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
-                    "short_id": "50"
                 }
             }
         },
