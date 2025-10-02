@@ -108,8 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
-                "❔XX | 🟢 | vless | @proxy_kafee | 3"
+                "❔XX | 🟢 | vless | @rxv2ray | 18"
             ]
         },
         {
@@ -118,8 +117,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
-                "❔XX | 🟢 | vless | @proxy_kafee | 3"
+                "❔XX | 🟢 | vless | @rxv2ray | 18"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -225,35 +223,6 @@
                     "enabled": true,
                     "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 3",
-            "type": "vless",
-            "server": "62.60.233.30",
-            "server_port": 443,
-            "uuid": "8377aac9-f3b3-42df-a5ea-9254f37e7b34",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tr.eu-ffast.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
-                    "short_id": "50"
                 }
             }
         }
