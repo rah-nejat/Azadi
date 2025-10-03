@@ -132,7 +132,7 @@
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 3"
             ]
         },
@@ -166,7 +166,7 @@
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -765,7 +765,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 2",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
