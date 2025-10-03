@@ -127,8 +127,8 @@
                 "❔XX | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -161,8 +161,8 @@
                 "❔XX | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -640,11 +640,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
             "type": "vless",
-            "server": "141.227.136.183",
-            "server_port": 15819,
-            "uuid": "1f90ea31-15a1-4896-bfff-c83f74ce0f7e",
+            "server": "135.125.88.66",
+            "server_port": 37612,
+            "uuid": "bbb7af93-94f1-4ad7-8a4d-2b674bea8922",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -661,11 +661,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
             "type": "vless",
-            "server": "57.129.92.155",
-            "server_port": 36626,
-            "uuid": "4981b98f-4943-4083-83aa-00b028f57a18",
+            "server": "141.227.174.221",
+            "server_port": 18409,
+            "uuid": "5342a980-50a4-4daa-9c45-e83f2ebab024",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
