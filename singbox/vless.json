@@ -123,6 +123,7 @@
                 "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 2",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 3",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
@@ -156,6 +157,7 @@
                 "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 2",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 3",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
@@ -567,11 +569,25 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 3",
+            "type": "vless",
+            "server": "de.camdvt.com",
+            "server_port": 2052,
+            "uuid": "063ce04e-6852-4d79-9bbb-0bd2fcad08bc",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "974cc3c1-c2bf-47e3-b78e-d39560712cd4",
+            "uuid": "e6dd5a23-6e0e-4ad5-a06e-bff0f55ba217",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -585,7 +601,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "86092f0c-04a2-42da-935b-2207ee1f1ce3",
+            "uuid": "974cc3c1-c2bf-47e3-b78e-d39560712cd4",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
