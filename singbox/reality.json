@@ -106,8 +106,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
-                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🔴 | vless | @melov2ray | 17",
                 "❔XX | 🟢 | vless | @rxv2ray | 18"
             ]
         },
@@ -115,8 +116,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
-                "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🔴 | vless | @melov2ray | 17",
                 "❔XX | 🟢 | vless | @rxv2ray | 18"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -140,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -169,7 +171,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @NIM_VPN_ir | 3",
+            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
             "type": "vless",
             "server": "prteam.darkping.net",
             "server_port": 2422,
@@ -193,6 +195,35 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 17",
+            "type": "vless",
+            "server": "91.107.186.177",
+            "server_port": 8880,
+            "uuid": "ed54c3c7-0181-41e6-8101-ea9d5a3abf82",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "capcut.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "z0rowMnJhwgfz7e6Uv9QUgsy1YWRrU8tOe2X6KBcLi4",
                     "short_id": ""
                 }
             }
