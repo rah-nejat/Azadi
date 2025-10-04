@@ -115,15 +115,15 @@
                 "❔XX | 🔴 | vless | @melov2ray | 16",
                 "❔XX | 🔴 | vless | @melov2ray | 17",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
+                "❔XX | 🔴 | vless | @V2pedia | 12",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "🇸🇪SE | 🔴 | vless | @rxv2ray | 18",
-                "🇩🇪DE | 🟢 | vless | @rxv2ray | 19",
-                "🇦🇪AE | 🔴 | vless | @free_v2rayyy | 4",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
@@ -149,15 +149,15 @@
                 "❔XX | 🔴 | vless | @melov2ray | 16",
                 "❔XX | 🔴 | vless | @melov2ray | 17",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
+                "❔XX | 🔴 | vless | @V2pedia | 12",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "🇸🇪SE | 🔴 | vless | @rxv2ray | 18",
-                "🇩🇪DE | 🟢 | vless | @rxv2ray | 19",
-                "🇦🇪AE | 🔴 | vless | @free_v2rayyy | 4",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 5",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
@@ -426,7 +426,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -530,7 +530,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -558,7 +558,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @rxv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -572,7 +572,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "deu316.unlocknet.org",
             "server_port": 443,
@@ -601,7 +601,7 @@
             }
         },
         {
-            "tag": "🇦🇪AE | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 4",
             "type": "vless",
             "server": "dubi.fast-turbooserver.com",
             "server_port": 8443,
