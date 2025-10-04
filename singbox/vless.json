@@ -124,7 +124,7 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 3",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 4",
+                "🇮🇷IR | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
@@ -158,7 +158,7 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 3",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 4",
+                "🇮🇷IR | 🔴 | vless | @free_v2rayyy | 4",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 16",
@@ -598,7 +598,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "🇮🇷IR | 🔴 | vless | @free_v2rayyy | 4",
             "type": "vless",
             "server": "de.camdvt.com",
             "server_port": 2052,
