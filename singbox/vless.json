@@ -515,15 +515,32 @@
         {
             "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 8880,
-            "uuid": "2e56a2e4-d8ac-4990-843c-d813e889fcbd",
+            "server": "alfred.dnss-mobile.ir",
+            "server_port": 443,
+            "uuid": "c2a1fe98-5a25-4173-be3e-9fe9c7591484",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "alfred.dnss-mobile.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/alfred",
+                "headers": {
+                    "Host": "alfred.dnss-mobile.ir"
+                }
             }
         },
         {
@@ -531,7 +548,7 @@
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
-            "uuid": "a85962e7-4c37-477a-a16a-892bbeea60ac",
+            "uuid": "2e56a2e4-d8ac-4990-843c-d813e889fcbd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
