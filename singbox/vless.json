@@ -121,11 +121,11 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "🇸🇪SE | 🔴 | vless | @rxv2ray | 19",
-                "🇦🇪AE | 🔴 | vless | @free_v2rayyy | 4",
-                "🇬🇧GB | 🔴 | vless | @free_v2rayyy | 5",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 6",
+                "❔XX | 🔴 | vless | @lightning6 | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 13",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
@@ -154,11 +154,11 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 19",
-                "🇸🇪SE | 🔴 | vless | @rxv2ray | 19",
-                "🇦🇪AE | 🔴 | vless | @free_v2rayyy | 4",
-                "🇬🇧GB | 🔴 | vless | @free_v2rayyy | 5",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 6",
+                "❔XX | 🔴 | vless | @lightning6 | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 13",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
@@ -539,7 +539,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -553,7 +553,7 @@
             }
         },
         {
-            "tag": "🇦🇪AE | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "dubi.fast-turbooserver.com",
             "server_port": 8443,
@@ -574,7 +574,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @free_v2rayyy | 5",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 6",
             "type": "vless",
             "server": "m21a.vip784.com",
             "server_port": 33801,
@@ -588,7 +588,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -602,7 +602,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 19",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 19",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
