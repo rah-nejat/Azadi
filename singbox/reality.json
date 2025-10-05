@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @melov2ray | 17"
+                "🇩🇪DE | 🔴 | vless | @melov2ray | 17"
             ]
         },
         {
@@ -117,7 +117,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @melov2ray | 17"
+                "🇩🇪DE | 🔴 | vless | @melov2ray | 17"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -198,7 +198,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @melov2ray | 17",
             "type": "vless",
             "server": "91.107.186.177",
             "server_port": 8880,
