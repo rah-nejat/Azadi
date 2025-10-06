@@ -114,8 +114,8 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 16",
                 "❔XX | 🔴 | vless | @melov2ray | 17",
-                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
+                "❔XX | 🔴 | vless | @V2pedia | 12",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 9",
@@ -148,8 +148,8 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 16",
                 "❔XX | 🔴 | vless | @melov2ray | 17",
-                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
+                "❔XX | 🔴 | vless | @V2pedia | 12",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 9",
@@ -405,7 +405,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -426,7 +426,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 11",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
