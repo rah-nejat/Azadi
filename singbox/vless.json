@@ -578,15 +578,22 @@
         {
             "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 8",
             "type": "vless",
-            "server": "m21a.vip784.com",
-            "server_port": 33801,
-            "uuid": "750c5087-ca8d-4878-a30a-15bc8bbadfac",
+            "server": "dubi.fast-turbooserver.com",
+            "server_port": 8443,
+            "uuid": "turboo-server",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "dubi.fast-turbooserver.com"
+                }
             }
         },
         {
