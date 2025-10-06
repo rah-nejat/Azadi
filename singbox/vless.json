@@ -119,8 +119,8 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 7",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 8",
@@ -153,8 +153,8 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 7",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 8",
@@ -513,42 +513,25 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
-            "server": "alfred.dnss-mobile.ir",
-            "server_port": 443,
-            "uuid": "c2a1fe98-5a25-4173-be3e-9fe9c7591484",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "f13e82ba-618f-4b5e-badf-c87d79217639",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "alfred.dnss-mobile.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/alfred",
-                "headers": {
-                    "Host": "alfred.dnss-mobile.ir"
-                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
-            "server": "104.17.148.22",
+            "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "2e56a2e4-d8ac-4990-843c-d813e889fcbd",
+            "uuid": "f13e82ba-618f-4b5e-badf-c87d79217639",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -595,15 +578,22 @@
         {
             "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 8",
             "type": "vless",
-            "server": "m21a.vip784.com",
-            "server_port": 33801,
-            "uuid": "750c5087-ca8d-4878-a30a-15bc8bbadfac",
+            "server": "dubi.fast-turbooserver.com",
+            "server_port": 8443,
+            "uuid": "turboo-server",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "dubi.fast-turbooserver.com"
+                }
             }
         },
         {
