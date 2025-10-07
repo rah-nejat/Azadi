@@ -106,6 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🔴 | vless | @Parsashonam | 8",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -139,6 +140,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🔴 | vless | @Parsashonam | 8",
                 "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -186,6 +188,20 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 8",
+            "type": "vless",
+            "server": "185.146.173.39",
+            "server_port": 8880,
+            "uuid": "Parsashonam-311",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
         },
         {
             "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
