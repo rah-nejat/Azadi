@@ -106,18 +106,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @melov2ray | 17"
+                "❔XX | 🔴 | vless | @melov2ray | 17",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @melov2ray | 17"
+                "❔XX | 🔴 | vless | @melov2ray | 17",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -140,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -222,6 +224,35 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "z0rowMnJhwgfz7e6Uv9QUgsy1YWRrU8tOe2X6KBcLi4",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
+            "type": "vless",
+            "server": "82.24.64.135",
+            "server_port": 31179,
+            "uuid": "81748ff9-d467-4d1c-a2bf-17e890e694fe",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "aws.amazon.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2jmEGBx_0GVsnnxqT3_wcXNkcDfhCMERAH5yfHkHnSw",
                     "short_id": ""
                 }
             }
