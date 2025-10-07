@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -139,12 +139,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -291,7 +291,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
             "server": "15.188.204.33",
             "server_port": 22224,
@@ -322,7 +322,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
             "server": "35.181.184.52",
             "server_port": 22224,
@@ -526,22 +526,15 @@
         {
             "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 6",
             "type": "vless",
-            "server": "dubi.fast-turbooserver.com",
-            "server_port": 8443,
-            "uuid": "turboo-server",
+            "server": "m21a.vip784.com",
+            "server_port": 33801,
+            "uuid": "750c5087-ca8d-4878-a30a-15bc8bbadfac",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "dubi.fast-turbooserver.com"
-                }
             }
         },
         {
