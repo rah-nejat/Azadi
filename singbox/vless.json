@@ -122,8 +122,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 6",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 7",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 8",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
@@ -156,8 +156,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 6",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 7",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 8",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
@@ -557,7 +557,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 7",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 6",
             "type": "vless",
             "server": "m21a.vip784.com",
             "server_port": 33801,
@@ -571,7 +571,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 8",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 7",
             "type": "vless",
             "server": "dubi.fast-turbooserver.com",
             "server_port": 8443,
