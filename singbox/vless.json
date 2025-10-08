@@ -111,8 +111,8 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 16",
+                "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -145,8 +145,8 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 16",
+                "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
@@ -307,9 +307,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "3.66.62.31",
+            "server": "15.236.175.142",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -338,9 +338,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.123.255.178",
+            "server": "63.179.185.202",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -559,21 +559,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 6",
             "type": "vless",
-            "server": "m21a.vip784.com",
-            "server_port": 33801,
-            "uuid": "750c5087-ca8d-4878-a30a-15bc8bbadfac",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 7",
-            "type": "vless",
-            "server": "dubi.fast-turbooserver.com",
+            "server": "95.111.204.150",
             "server_port": 8443,
             "uuid": "turboo-server",
             "flow": "",
@@ -585,10 +571,24 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/Turboo-Server",
                 "headers": {
-                    "Host": "dubi.fast-turbooserver.com"
+                    "Host": "95.111.204.150"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 7",
+            "type": "vless",
+            "server": "m21a.vip784.com",
+            "server_port": 33801,
+            "uuid": "750c5087-ca8d-4878-a30a-15bc8bbadfac",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
