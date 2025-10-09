@@ -118,14 +118,14 @@
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 17",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 6",
-                "❔XX | 🔴 | vless | @lightning6 | 18",
+                "🇫🇷FR | 🔴 | vless | @rxv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
+                "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 5",
+                "🇫🇮FI | 🔴 | vless | @free_v2rayyy | 6",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
@@ -153,14 +153,14 @@
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 17",
                 "❔XX | 🔴 | vless | @ARv2ray | 18",
-                "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 17",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 5",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 6",
-                "❔XX | 🔴 | vless | @lightning6 | 18",
+                "🇫🇷FR | 🔴 | vless | @rxv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
+                "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 5",
+                "🇫🇮FI | 🔴 | vless | @free_v2rayyy | 6",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
@@ -496,11 +496,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 11",
+            "tag": "❔XX | 🔴 | vless | @shh_proxy | 10",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
-            "uuid": "365b5d91-3712-471e-9357-f9e950e4569a",
+            "uuid": "21e4f058-6d25-4f5b-a49f-1d6470c8e4bb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -545,7 +545,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @rxv2ray | 17",
             "type": "vless",
             "server": "195.42.233.83",
             "server_port": 443,
@@ -576,7 +576,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2083,
@@ -607,7 +607,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 5",
+            "tag": "🇸🇪SE | 🔴 | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "95.111.204.150",
             "server_port": 8443,
@@ -628,7 +628,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 6",
+            "tag": "🇫🇮FI | 🔴 | vless | @free_v2rayyy | 6",
             "type": "vless",
             "server": "melodybuy.shop",
             "server_port": 47470,
@@ -642,7 +642,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
