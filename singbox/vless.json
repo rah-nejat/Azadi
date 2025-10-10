@@ -122,7 +122,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 1",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 3",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
@@ -155,7 +155,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 1",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 3",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
@@ -562,31 +562,23 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 1",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 3",
             "type": "vless",
-            "server": "87.120.186.221",
-            "server_port": 443,
-            "uuid": "ebf98749-646b-4795-9cec-edb394a33474",
-            "flow": "xtls-rprx-vision",
+            "server": "37.156.45.229",
+            "server_port": 7035,
+            "uuid": "f391c9f6-87af-47c9-b838-39c50c0992ca",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "de1.nolimited.space",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "05_Xn4A6wgLu2bXs-ZDZKIXsHuAjEgjNUu3H7cKVjCw",
-                    "short_id": ""
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "37.156.45.229"
                 }
             }
         },
