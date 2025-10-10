@@ -106,11 +106,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 3",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @EliV2ray | 3",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
+                "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
@@ -141,11 +141,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 3",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @EliV2ray | 3",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
+                "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
@@ -192,7 +192,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 3",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 3",
             "type": "vless",
             "server": "104.18.25.112",
             "server_port": 2052,
@@ -213,7 +213,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -227,7 +227,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -285,7 +285,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
+            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -332,7 +332,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "13.37.43.85",
+            "server": "3.123.135.131",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -363,7 +363,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "52.47.54.131",
+            "server": "13.39.59.110",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
