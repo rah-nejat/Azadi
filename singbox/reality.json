@@ -106,16 +106,18 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 1"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -138,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -191,6 +193,35 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 1",
+            "type": "vless",
+            "server": "87.120.186.221",
+            "server_port": 443,
+            "uuid": "ebf98749-646b-4795-9cec-edb394a33474",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "de1.nolimited.space",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "05_Xn4A6wgLu2bXs-ZDZKIXsHuAjEgjNUu3H7cKVjCw",
                     "short_id": ""
                 }
             }
