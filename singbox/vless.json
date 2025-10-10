@@ -106,11 +106,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 5",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @EliV2ray | 5",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
+                "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
@@ -122,7 +122,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 1",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
@@ -139,11 +139,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 5",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @EliV2ray | 5",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
+                "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
@@ -155,7 +155,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 1",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 5",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 5",
             "type": "vless",
             "server": "104.18.25.112",
             "server_port": 2052,
@@ -209,7 +209,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 9",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -223,7 +223,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "91.99.16.244",
             "server_port": 443,
@@ -281,7 +281,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
+            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -562,23 +562,31 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 3",
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 1",
             "type": "vless",
-            "server": "37.156.45.229",
-            "server_port": 7035,
-            "uuid": "f391c9f6-87af-47c9-b838-39c50c0992ca",
-            "flow": "",
+            "server": "87.120.186.221",
+            "server_port": 443,
+            "uuid": "ebf98749-646b-4795-9cec-edb394a33474",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "37.156.45.229"
+            "tls": {
+                "enabled": true,
+                "server_name": "de1.nolimited.space",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "05_Xn4A6wgLu2bXs-ZDZKIXsHuAjEgjNUu3H7cKVjCw",
+                    "short_id": ""
                 }
             }
         },
