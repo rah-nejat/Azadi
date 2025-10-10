@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 5"
+                "❔XX | 🟢 | vless | @free_v2rayyy | 4"
             ]
         },
         {
@@ -117,7 +117,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @free_v2rayyy | 5"
+                "❔XX | 🟢 | vless | @free_v2rayyy | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -198,7 +198,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 5",
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 4",
             "type": "vless",
             "server": "de77.NaNvaiIiSaEEdd.iR",
             "server_port": 1615,
