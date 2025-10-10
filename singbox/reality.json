@@ -107,7 +107,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 5"
             ]
         },
         {
@@ -115,7 +116,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -191,6 +193,35 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 5",
+            "type": "vless",
+            "server": "de77.NaNvaiIiSaEEdd.iR",
+            "server_port": 1615,
+            "uuid": "f0e9e15a-73be-4e1a-99cd-01bb501de7c8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8",
                     "short_id": ""
                 }
             }
