@@ -115,11 +115,11 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 12",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 8",
+                "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @ARv2ray | 17",
+                "❔XX | 🔴 | vless | @ARv2ray | 18",
+                "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 3",
@@ -148,11 +148,11 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 12",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 8",
+                "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @ARv2ray | 17",
+                "❔XX | 🔴 | vless | @ARv2ray | 18",
+                "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 3",
@@ -409,7 +409,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -430,7 +430,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -451,7 +451,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -482,7 +482,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -513,7 +513,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 10",
+            "tag": "❔XX | 🔴 | vless | @shh_proxy | 10",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
