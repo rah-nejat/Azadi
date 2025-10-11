@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 8",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 0",
                 "❔XX | 🟢 | vless | @free_v2rayyy | 1"
             ]
         },
@@ -117,6 +118,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 8",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @free_v2rayyy | 0",
                 "❔XX | 🟢 | vless | @free_v2rayyy | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -193,6 +195,35 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @free_v2rayyy | 0",
+            "type": "vless",
+            "server": "de.srv.oplcdn.link",
+            "server_port": 8443,
+            "uuid": "a3185438-23cb-4fe3-95da-3e5f3fc43525",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ign.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
                     "short_id": ""
                 }
             }
