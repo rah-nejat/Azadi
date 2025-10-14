@@ -115,10 +115,10 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @ARv2ray | 17",
+                "❔XX | 🔴 | vless | @ARv2ray | 18",
+                "❔XX | 🔴 | vless | @shh_proxy | 12",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 14",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 2",
@@ -147,10 +147,10 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @ARv2ray | 17",
+                "❔XX | 🔴 | vless | @ARv2ray | 18",
+                "❔XX | 🔴 | vless | @shh_proxy | 12",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 14",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 2",
@@ -414,7 +414,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -445,7 +445,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -476,7 +476,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 12",
+            "tag": "❔XX | 🔴 | vless | @shh_proxy | 12",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -497,7 +497,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
