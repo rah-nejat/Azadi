@@ -112,8 +112,8 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
@@ -147,8 +147,8 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
@@ -330,9 +330,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "52.47.42.167",
+            "server": "13.38.252.132",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -361,9 +361,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "63.178.101.45",
+            "server": "15.188.177.243",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -649,7 +649,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "639be4f9-50e8-45e5-be5a-e815a15dc460",
+            "uuid": "2f0c6503-6e61-41df-8fde-9c419954a6d0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -663,7 +663,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "8e39654a-58ed-45e8-9f68-e7c73639f213",
+            "uuid": "639be4f9-50e8-45e5-be5a-e815a15dc460",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
