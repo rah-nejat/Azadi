@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🔴 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @EliV2ray | 8",
-                "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -140,8 +140,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🔴 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @EliV2ray | 8",
-                "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -190,11 +190,11 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 7",
             "type": "vless",
             "server": "crocodilesrver.ir",
             "server_port": 8443,
-            "uuid": "join--ELiV2RAY",
+            "uuid": "jjoin-ELiV2RAY",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -219,11 +219,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
             "server": "crocodilesrver.ir",
             "server_port": 8443,
-            "uuid": "join-ELiV2RAY",
+            "uuid": "join--ELiV2RAY",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
