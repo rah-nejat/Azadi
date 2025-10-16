@@ -113,7 +113,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -128,7 +128,8 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 23",
-                "🇪🇸ES | 🔴 | vless | @proxy_kafee | 4",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
+                "🇦🇹AT | 🟢 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -146,7 +147,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -161,7 +162,8 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 23",
-                "🇪🇸ES | 🔴 | vless | @proxy_kafee | 4",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
+                "🇦🇹AT | 🟢 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -382,7 +384,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -705,12 +707,33 @@
             }
         },
         {
-            "tag": "🇪🇸ES | 🔴 | vless | @proxy_kafee | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
-            "server": "185.251.81.253",
-            "server_port": 2096,
-            "uuid": "2456f90c-5183-476d-b069-16ae74ce120f",
+            "server": "de.mobile-nik.ir",
+            "server_port": 8080,
+            "uuid": "b7c4ebd1-32b4-4312-ce2b-b5426d65eb06",
             "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG?ed=2056",
+                "headers": {
+                    "Host": "de.mobile-nik.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇹AT | 🟢 | vless | @proxy_kafee | 2",
+            "type": "vless",
+            "server": "213.176.94.129",
+            "server_port": 443,
+            "uuid": "81e9e522-2efd-4709-996d-74e46f4edaf8",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -719,19 +742,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "fast01.0860852.xyz",
+                "server_name": "www.amazon.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram🇨🇳",
-                "headers": {
-                    "Host": "fast01.0860852.xyz"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY",
+                    "short_id": "53ba1e37"
                 }
             }
         },
