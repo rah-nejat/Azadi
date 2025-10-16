@@ -449,6 +449,20 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
+            "server": "test.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-Arfilter",
@@ -461,7 +475,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "eh.arfilter.blog",
+                "server_name": "ei.arfilter.blog",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -473,22 +487,8 @@
                 "type": "ws",
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "eh.arfilter.blog"
+                    "Host": "ei.arfilter.blog"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-            "type": "vless",
-            "server": "test.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -648,7 +648,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "2f0c6503-6e61-41df-8fde-9c419954a6d0",
+            "uuid": "8b73471d-8b29-4082-8e9a-66031b66c699",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -662,7 +662,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "639be4f9-50e8-45e5-be5a-e815a15dc460",
+            "uuid": "2f0c6503-6e61-41df-8fde-9c419954a6d0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
