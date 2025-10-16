@@ -121,11 +121,11 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 15",
                 "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 17",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 17",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
@@ -155,11 +155,11 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 15",
                 "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 17",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 18",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 17",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
@@ -541,7 +541,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 15",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8443,
@@ -644,7 +644,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 17",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -658,7 +658,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 18",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
