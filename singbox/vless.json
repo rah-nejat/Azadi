@@ -128,7 +128,6 @@
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
-                "🇦🇹AT | 🟢 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -161,7 +160,6 @@
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 1",
-                "🇦🇹AT | 🟢 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -698,35 +696,6 @@
                 "path": "\/HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG?ed=2056",
                 "headers": {
                     "Host": "de.mobile-nik.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇦🇹AT | 🟢 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "213.176.94.129",
-            "server_port": 443,
-            "uuid": "81e9e522-2efd-4709-996d-74e46f4edaf8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.amazon.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY",
-                    "short_id": "53ba1e37"
                 }
             }
         },
