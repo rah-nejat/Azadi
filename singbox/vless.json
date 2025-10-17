@@ -107,7 +107,6 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 7",
-                "❔XX | 🔴 | vless | @EliV2ray | 8",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -139,7 +138,6 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 7",
-                "❔XX | 🔴 | vless | @EliV2ray | 8",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -191,35 +189,6 @@
             "server": "crocodilesrver.ir",
             "server_port": 8443,
             "uuid": "jjoin-ELiV2RAY",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8",
-                    "short_id": "930fb8b1d8aac565"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
-            "type": "vless",
-            "server": "crocodilesrver.ir",
-            "server_port": 8443,
-            "uuid": "join--ELiV2RAY",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
