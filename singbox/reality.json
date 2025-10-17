@@ -105,13 +105,20 @@
             "tag": "proxy",
             "type": "selector",
             "outbounds": [
-                "URL-TEST"
+                "URL-TEST",
+                "❔XX | 🔴 | vless | @EliV2ray | 7",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
-            "outbounds": [],
+            "outbounds": [
+                "❔XX | 🔴 | vless | @EliV2ray | 7",
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4"
+            ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
             "tolerance": 50
@@ -131,6 +138,100 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 7",
+            "type": "vless",
+            "server": "crocodilesrver.ir",
+            "server_port": 8443,
+            "uuid": "jjoin-ELiV2RAY",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8",
+                    "short_id": "930fb8b1d8aac565"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+            "type": "vless",
+            "server": "prteam.darkping.net",
+            "server_port": 2422,
+            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+            "type": "vless",
+            "server": "91.98.140.5",
+            "server_port": 443,
+            "uuid": "01f69be1-c7ea-48df-b36b-147d9fdaa091",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "miro.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wdfqRiy3Etjhq9fSLzNNQ7txP9sDp5Ft_dOXNk5LNhM",
+                    "short_id": "59c6"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
         }
     ],
     "route": {
