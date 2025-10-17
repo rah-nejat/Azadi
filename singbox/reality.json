@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 7",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4"
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 5"
             ]
         },
         {
@@ -118,8 +118,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 7",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4"
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -200,7 +200,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
             "type": "vless",
             "server": "91.98.140.5",
             "server_port": 443,
@@ -236,7 +236,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "91.98.140.5",
             "server_port": 443,
