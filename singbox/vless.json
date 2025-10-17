@@ -112,7 +112,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -120,8 +120,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 5",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
@@ -143,7 +143,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 12",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
@@ -151,8 +151,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
                 "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 5",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 22",
@@ -349,7 +349,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 7",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -506,7 +506,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
             "type": "vless",
             "server": "91.98.140.5",
             "server_port": 443,
@@ -542,7 +542,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 5",
             "type": "vless",
             "server": "91.98.140.5",
             "server_port": 443,
