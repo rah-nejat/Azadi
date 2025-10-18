@@ -117,11 +117,11 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 25",
@@ -148,11 +148,11 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
-                "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 25",
@@ -457,7 +457,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -510,7 +510,7 @@
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "7c896a1d-08b5-4d25-80af-70fc6b32ce59",
+            "uuid": "12eb3d43-b2d5-4f5a-b4eb-753aae2ff8c0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -520,39 +520,17 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
             "type": "vless",
-            "server": "91.98.140.5",
-            "server_port": 443,
-            "uuid": "01f69be1-c7ea-48df-b36b-147d9fdaa091",
-            "flow": "xtls-rprx-vision",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "7c896a1d-08b5-4d25-80af-70fc6b32ce59",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "miro.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "wdfqRiy3Etjhq9fSLzNNQ7txP9sDp5Ft_dOXNk5LNhM",
-                    "short_id": "59c6"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
