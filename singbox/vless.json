@@ -126,7 +126,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 25",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 26",
-                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 3",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -157,7 +157,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 25",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 26",
-                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 3",
+                "🇩🇪DE | 🔴 | vless | @proxy_kafee | 4",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -604,7 +604,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "de.mobile-nik.ir",
             "server_port": 8080,
