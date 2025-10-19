@@ -127,7 +127,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 24",
-                "🇳🇱NL | 🔴 | vless | @proxy_kafee | 3",
+                "🇨🇭CH | 🟢 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -159,7 +159,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 23",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 24",
-                "🇳🇱NL | 🔴 | vless | @proxy_kafee | 3",
+                "🇨🇭CH | 🟢 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -620,12 +620,12 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇨🇭CH | 🟢 | vless | @proxy_kafee | 1",
             "type": "vless",
-            "server": "45.131.210.217",
-            "server_port": 443,
-            "uuid": "5dc3fdac-9384-4d14-8c15-e3250a0fde0a",
-            "flow": "",
+            "server": "5.182.36.251",
+            "server_port": 16331,
+            "uuid": "d7dbeb1e-268c-465c-8f59-489f14703efd",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -634,19 +634,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ym.ddff.me",
+                "server_name": "yahoo.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "ym.ddff.me"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk",
+                    "short_id": "910aab"
                 }
             }
         },
