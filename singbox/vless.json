@@ -122,8 +122,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 3",
-                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 4",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 24",
@@ -155,8 +155,8 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 3",
-                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 4",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 24",
@@ -538,7 +538,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 3",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
@@ -552,7 +552,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
