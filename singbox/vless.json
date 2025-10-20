@@ -117,8 +117,8 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 7",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
@@ -149,8 +149,8 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
-                "🇨🇦CA | 🔴 | vless | @shh_proxy | 7",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 4",
@@ -452,7 +452,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "test.fast.hosting-ip.com",
             "server_port": 80,
@@ -466,7 +466,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 7",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
