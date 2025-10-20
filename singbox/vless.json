@@ -128,6 +128,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 24",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 25",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -160,6 +161,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 24",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 25",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -631,6 +633,37 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "104.18.12.229",
+            "server_port": 8443,
+            "uuid": "86c50e3a-5b87-49dd-bd20-03c7f2735e40",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "azadnet-4nb.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "azadnet-4nb.pages.dev"
+                }
             }
         },
         {
