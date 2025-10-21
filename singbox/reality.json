@@ -107,7 +107,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 8",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
         {
@@ -115,7 +116,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 8",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -192,6 +194,35 @@
                     "enabled": true,
                     "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "176.98.178.5",
+            "server_port": 443,
+            "uuid": "37e7881f-ff59-4858-83cd-c6b4b03cba4a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "eh.vk.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_jpR0GmavJ8-b6UCyMnf1u4WLf4KYvvAkcISmL45TiY",
+                    "short_id": "f1f9"
                 }
             }
         }
