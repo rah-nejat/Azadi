@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 8",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 8",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 7",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
@@ -137,12 +137,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 8",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 8",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🔴 | vless | @XsV2ray | 3",
+                "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 7",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
@@ -184,7 +184,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 8",
             "type": "vless",
             "server": "116.203.201.167",
             "server_port": 443,
@@ -242,7 +242,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 3",
+            "tag": "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -287,7 +287,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
             "server": "15.188.131.252",
             "server_port": 22224,
@@ -318,7 +318,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
             "server": "3.127.115.87",
             "server_port": 22224,
