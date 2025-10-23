@@ -120,6 +120,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 13",
+                "❔XX | 🔴 | vless | @rxv2ray | 14",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 6",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 7",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
@@ -152,6 +153,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 13",
+                "❔XX | 🔴 | vless | @rxv2ray | 14",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 6",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 7",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
@@ -505,6 +507,27 @@
         },
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 13",
+            "type": "vless",
+            "server": "khabar.motionbetter.ir",
+            "server_port": 80,
+            "uuid": "5b9fb1fe-f919-426b-763c-55a5d9139e0e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "khabar.motionbetter.ir"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 14",
             "type": "vless",
             "server": "88.216.69.54",
             "server_port": 2096,
