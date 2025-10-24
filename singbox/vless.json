@@ -527,9 +527,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 14",
             "type": "vless",
-            "server": "88.216.69.54",
-            "server_port": 2096,
-            "uuid": "12345678-1234-1234-1234-123456789123",
+            "server": "khabar.motionbetter.ir",
+            "server_port": 80,
+            "uuid": "5b9fb1fe-f919-426b-763c-55a5d9139e0e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -537,21 +537,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "sni.aizrf.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/snippets",
+                "path": "\/",
                 "headers": {
-                    "Host": "sni.aizrf.com"
+                    "Host": "khabar.motionbetter.ir"
                 }
             }
         },
