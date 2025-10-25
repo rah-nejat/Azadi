@@ -121,7 +121,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 14",
-                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 8",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
@@ -153,7 +153,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 13",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 14",
-                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 8",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
@@ -546,7 +546,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
@@ -578,7 +578,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "46c0e0db-1496-42eb-8be9-d48d826a48bf",
+            "uuid": "3a06bcfe-6058-4248-9c4c-7c62c12b0357",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -592,7 +592,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "5770b9e6-d3c6-422b-861b-c1e630d89200",
+            "uuid": "46c0e0db-1496-42eb-8be9-d48d826a48bf",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
