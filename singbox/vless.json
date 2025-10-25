@@ -112,8 +112,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 16",
                 "❔XX | 🔴 | vless | @VlessConfig | 17",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 9",
@@ -144,8 +144,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 16",
                 "❔XX | 🔴 | vless | @VlessConfig | 17",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 9",
@@ -351,7 +351,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -372,7 +372,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 11",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
