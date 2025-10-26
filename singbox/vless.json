@@ -120,8 +120,8 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 27",
@@ -151,8 +151,8 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 27",
@@ -523,11 +523,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "6503a2fc-d096-4acc-a91b-a68661428904",
+            "uuid": "cac98aff-aeaa-416c-b648-325f83f7e69c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -537,11 +537,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "1727dd86-5024-4914-ba1a-99baa9dfefb0",
+            "uuid": "6503a2fc-d096-4acc-a91b-a68661428904",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
