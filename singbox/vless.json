@@ -125,7 +125,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 27",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 28",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -155,7 +155,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇧🇪BE | 🔴 | vless | @DarkTeam_VPN | 27",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 28",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -615,11 +615,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2082,
-            "uuid": "59019308-2af1-475f-e12e-9d11e6040e3d",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "082a0b6a-10dd-4ba4-ae98-c9f74c81cbde",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
