@@ -121,10 +121,10 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 7",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 24",
@@ -157,10 +157,10 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 7",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
+                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 24",
@@ -562,37 +562,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 13",
-            "type": "vless",
-            "server": "104.21.10.181",
-            "server_port": 443,
-            "uuid": "3beeaf86-5522-4278-a1e9-b24a776552cd",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "gamang.gpj1.dpdns.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Free-VPN-Geo-Project\/181.41.194.176-15565",
-                "headers": {
-                    "Host": "gamang.gpj1.dpdns.org"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
             "type": "vless",
             "server": "104.21.10.181",
@@ -624,11 +593,42 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+            "type": "vless",
+            "server": "104.21.10.181",
+            "server_port": 443,
+            "uuid": "3beeaf86-5522-4278-a1e9-b24a776552cd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "gamang.gpj1.dpdns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Free-VPN-Geo-Project\/181.41.194.176-15565",
+                "headers": {
+                    "Host": "gamang.gpj1.dpdns.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "0001003f-c07f-43ec-a959-1ca9b7373f9b",
+            "uuid": "d29e3d13-507c-40bf-80a5-4e809aaadd24",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -638,11 +638,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "d29e3d13-507c-40bf-80a5-4e809aaadd24",
+            "uuid": "6f647235-46fb-4479-873e-dd3185357ac9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
