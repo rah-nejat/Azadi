@@ -118,7 +118,7 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
@@ -154,7 +154,7 @@
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
@@ -513,11 +513,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
-            "uuid": "0f02ba17-0125-4356-98a8-710d9be08bce",
+            "uuid": "0d960308-500d-4bfb-a4d8-a5992a7577d0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -656,7 +656,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "9ea02eab-3ed1-4017-863c-572b88d3aa77",
+            "uuid": "284105c3-1f7c-48b9-a5cc-345b534ade5c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -670,7 +670,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "73bed74f-7ed0-4e40-ab97-66920f95c266",
+            "uuid": "9ea02eab-3ed1-4017-863c-572b88d3aa77",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
