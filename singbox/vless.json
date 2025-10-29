@@ -130,7 +130,7 @@
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 24",
                 "🇮🇹IT | 🔴 | vless | @DarkTeam_VPN | 25",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -166,7 +166,7 @@
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 24",
                 "🇮🇹IT | 🔴 | vless | @DarkTeam_VPN | 25",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -736,7 +736,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
