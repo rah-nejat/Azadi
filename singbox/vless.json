@@ -123,7 +123,6 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
@@ -159,7 +158,6 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
@@ -624,25 +622,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
-            "type": "vless",
-            "server": "speedtestcustom.com",
-            "server_port": 80,
-            "uuid": "0001003f-c07f-43ec-a959-1ca9b7373f9b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 10",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "d29e3d13-507c-40bf-80a5-4e809aaadd24",
+            "uuid": "0001003f-c07f-43ec-a959-1ca9b7373f9b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
