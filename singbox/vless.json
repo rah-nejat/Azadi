@@ -114,8 +114,8 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 12",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -149,8 +149,8 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
-                "🇩🇪DE | 🔴 | vless | @V2pedia | 12",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
@@ -407,11 +407,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
+            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
-            "uuid": "8d603d8e-8407-49e9-9f2a-98e3ab26c970",
+            "uuid": "88626b64-9227-4d9e-84de-8da7476c3331",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -428,11 +428,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 12",
+            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
-            "uuid": "8d603d8e-8407-49e9-9f2a-98e3ab26c970",
+            "uuid": "1946c383-d861-4d3a-8d4d-d286da58ac2d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
