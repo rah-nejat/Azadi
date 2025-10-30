@@ -124,7 +124,7 @@
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
+                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 24",
@@ -160,7 +160,7 @@
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @free_v2rayyy | 8",
-                "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
+                "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 24",
@@ -638,7 +638,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @free_v2rayyy | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @free_v2rayyy | 9",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
