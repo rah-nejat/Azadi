@@ -113,6 +113,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
@@ -148,6 +149,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 8",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 9",
@@ -382,6 +384,37 @@
                 "path": "\/telegram-channel-vlessconfig",
                 "headers": {
                     "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "ff91ef8a-521b-4728-8498-153fcb569dec",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram.VPNCUSTOMIZE.dns.txt.ssl.u1r.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/--Telegram---VPNUSTOMIZE--",
+                "headers": {
+                    "Host": "telegram.VPNCUSTOMIZE.dns.txt.ssl.u1r.ir"
                 }
             }
         },
