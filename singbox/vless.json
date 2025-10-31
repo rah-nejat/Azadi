@@ -409,6 +409,13 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/--Telegram---VPNCUSTOMIZE--",
+                "headers": {
+                    "Host": "telegram.VPNCUSTOMIZE.dns.txt.ssl.u1r.ir"
+                }
             }
         },
         {
