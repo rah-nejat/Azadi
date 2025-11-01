@@ -113,7 +113,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
@@ -134,7 +134,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 3",
-                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -148,7 +148,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
@@ -169,7 +169,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 3",
-                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -386,7 +386,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 80,
@@ -797,7 +797,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
