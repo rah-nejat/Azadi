@@ -347,7 +347,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.36.74.68",
+            "server": "15.236.49.130",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -378,7 +378,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.72.188.109",
+            "server": "13.36.74.68",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
