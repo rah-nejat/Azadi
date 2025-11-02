@@ -681,9 +681,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
-            "server": "178.160.211.182",
-            "server_port": 20155,
-            "uuid": "dc28e2d3-7c69-47c6-b5b0-f76914454294",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "591551c8-1fd8-4831-90ef-efae58a8643f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -695,9 +695,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @proxy_kafee | 5",
             "type": "vless",
-            "server": "HqV2Ray.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "3604197f-3bca-44cb-f834-7c5d3efe4835",
+            "server": "178.160.211.182",
+            "server_port": 20155,
+            "uuid": "dc28e2d3-7c69-47c6-b5b0-f76914454294",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
