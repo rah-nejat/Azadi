@@ -108,7 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2"
             ]
         },
         {
@@ -117,7 +118,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -223,6 +225,35 @@
                     "enabled": true,
                     "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
+            "type": "vless",
+            "server": "77.83.245.50",
+            "server_port": 45365,
+            "uuid": "a4833963-f4b7-48e4-9572-5c83261eea82",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yandex.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "M2uESRDALzI6uyXoBSjp2pb7fC47a5wBB85y9FhEMWA",
+                    "short_id": "212c006f8004d93f"
                 }
             }
         }
