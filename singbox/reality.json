@@ -109,7 +109,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇹🇷TR | 🔴 | vless | @proxy_kafee | 2"
+                "❔XX | 🔴 | vless | @proxy_kafee | 2"
             ]
         },
         {
@@ -119,7 +119,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇹🇷TR | 🔴 | vless | @proxy_kafee | 2"
+                "❔XX | 🔴 | vless | @proxy_kafee | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -229,7 +229,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "77.83.245.50",
             "server_port": 45365,
