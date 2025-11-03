@@ -128,8 +128,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 29",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 30",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
-                "❔XX | 🔴 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -163,8 +163,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 29",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 30",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @proxy_kafee | 3",
-                "❔XX | 🔴 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -679,25 +679,40 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
-            "server": "am288.amin-1.ir",
-            "server_port": 2082,
-            "uuid": "3b0c38e2-0bfd-44ce-9e91-89d996202d5d",
-            "flow": "",
+            "server": "77.83.245.50",
+            "server_port": 45365,
+            "uuid": "a4833963-f4b7-48e4-9572-5c83261eea82",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yandex.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "M2uESRDALzI6uyXoBSjp2pb7fC47a5wBB85y9FhEMWA",
+                    "short_id": "212c006f8004d93f"
+                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 4",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "591551c8-1fd8-4831-90ef-efae58a8643f",
+            "server": "am288.amin-1.ir",
+            "server_port": 2082,
+            "uuid": "3b0c38e2-0bfd-44ce-9e91-89d996202d5d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
