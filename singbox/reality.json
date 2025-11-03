@@ -106,20 +106,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇹🇷TR | 🔴 | vless | @proxy_kafee | 2"
+                "❔XX | 🔴 | vless | @proxy_kafee | 2"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "🇹🇷TR | 🔴 | vless | @proxy_kafee | 2"
+                "❔XX | 🔴 | vless | @proxy_kafee | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -142,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "116.203.201.167",
             "server_port": 443,
@@ -171,7 +171,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "116.203.201.167",
             "server_port": 443,
@@ -229,7 +229,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "77.83.245.50",
             "server_port": 45365,
