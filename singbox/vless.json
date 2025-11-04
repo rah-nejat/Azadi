@@ -123,7 +123,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 8",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
@@ -156,7 +156,7 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 8",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
@@ -591,11 +591,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 8",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 9",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "2152aae8-e2e2-49bb-9814-cd9e1d5165e6",
+            "uuid": "7175640b-b87e-4445-8c87-9b13c0aff73f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
