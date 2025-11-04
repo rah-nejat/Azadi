@@ -122,7 +122,6 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
@@ -155,7 +154,6 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
@@ -568,20 +566,6 @@
             "server": "www.speedtest.net",
             "server_port": 8880,
             "uuid": "f13e82ba-618f-4b5e-badf-c87d79217639",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
-            "type": "vless",
-            "server": "91.99.166.94",
-            "server_port": 666,
-            "uuid": "1bdfdfd8-f7e7-4e15-b49d-7e17a36c8646",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
