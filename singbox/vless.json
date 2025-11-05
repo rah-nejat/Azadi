@@ -124,8 +124,6 @@
                 "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 20",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -155,8 +153,6 @@
                 "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 20",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -585,34 +581,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "06c31c1a-cfae-48fe-a4db-3bbe16663003",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
-            "type": "vless",
-            "server": "m13a.vip784.com",
-            "server_port": 33801,
-            "uuid": "d36f457f-17a9-4891-a113-322ec6792917",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 20",
-            "type": "vless",
-            "server": "m15a.vip784.com",
-            "server_port": 33801,
-            "uuid": "d36f457f-17a9-4891-a113-322ec6792917",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
