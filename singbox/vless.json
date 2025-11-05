@@ -339,7 +339,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "3.120.76.197",
+            "server": "13.36.180.135",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -370,7 +370,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "3.77.170.86",
+            "server": "3.120.76.197",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -556,7 +556,7 @@
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
-            "uuid": "7175640b-b87e-4445-8c87-9b13c0aff73f",
+            "uuid": "2152aae8-e2e2-49bb-9814-cd9e1d5165e6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
