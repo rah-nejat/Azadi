@@ -106,10 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 0",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @EliV2ray | 0",
+                "❔XX | 🔴 | vless | @EliV2ray | 1",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -122,12 +122,12 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 9",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -138,10 +138,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 0",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @EliV2ray | 0",
+                "❔XX | 🔴 | vless | @EliV2ray | 1",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -154,12 +154,12 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @free_v2rayyy | 9",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -186,7 +186,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 0",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 0",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -200,7 +200,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 1",
             "type": "vless",
             "server": "104.21.31.4",
             "server_port": 8880,
@@ -221,7 +221,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "116.203.201.167",
             "server_port": 443,
@@ -250,7 +250,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "116.203.201.167",
             "server_port": 443,
@@ -568,7 +568,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 9",
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 10",
             "type": "vless",
             "server": "speedtestcustom.com",
             "server_port": 80,
@@ -624,7 +624,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -638,7 +638,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
