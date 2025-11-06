@@ -124,6 +124,7 @@
                 "❔XX | 🔴 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -154,6 +155,7 @@
                 "❔XX | 🔴 | vless | @free_v2rayyy | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -583,6 +585,20 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "a062adc5-d860-4d28-91ad-2f9c16818784",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
+            "type": "vless",
+            "server": "m15a.vip784.com",
+            "server_port": 33801,
+            "uuid": "d36f457f-17a9-4891-a113-322ec6792917",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
