@@ -107,6 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 0",
+                "❔XX | 🔴 | vless | @EliV2ray | 1",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
@@ -121,6 +122,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
@@ -137,6 +139,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 0",
+                "❔XX | 🔴 | vless | @EliV2ray | 1",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
@@ -151,6 +154,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @free_v2rayyy | 9",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
@@ -183,6 +187,20 @@
         },
         {
             "tag": "❔XX | 🔴 | vless | @EliV2ray | 0",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "93ab9149-0761-4dd6-aa0b-d2cdd824d5e9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 1",
             "type": "vless",
             "server": "104.21.31.4",
             "server_port": 8880,
@@ -541,6 +559,20 @@
             "server": "www.speedtest.net",
             "server_port": 8880,
             "uuid": "f13e82ba-618f-4b5e-badf-c87d79217639",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @free_v2rayyy | 9",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "24d4736d-aa0f-415c-a9a2-60764a0039ae",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
