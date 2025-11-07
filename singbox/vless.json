@@ -602,7 +602,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "55595f94-f9a2-4d02-8d1b-5be859d509a9",
+            "uuid": "c5542a76-2734-4a12-8781-7e39d35cbe43",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -616,7 +616,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "821795aa-2b02-4f0a-b1f7-ea6792e2289c",
+            "uuid": "55595f94-f9a2-4d02-8d1b-5be859d509a9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
