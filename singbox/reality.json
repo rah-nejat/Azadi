@@ -105,20 +105,13 @@
             "tag": "proxy",
             "type": "selector",
             "outbounds": [
-                "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "URL-TEST"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
-            "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
-            ],
+            "outbounds": [],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
             "tolerance": 50
@@ -138,93 +131,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
-            "type": "vless",
-            "server": "116.203.201.167",
-            "server_port": 443,
-            "uuid": "Parsashonam-314",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ",
-                    "short_id": "0a8b4a1ad485"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
-            "type": "vless",
-            "server": "116.203.201.167",
-            "server_port": 443,
-            "uuid": "Parsashonam-313",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ",
-                    "short_id": "0a8b4a1ad485"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-            "type": "vless",
-            "server": "prteam.darkping.net",
-            "server_port": 2422,
-            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
-                    "short_id": ""
-                }
-            }
         }
     ],
     "route": {
