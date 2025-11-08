@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
             ]
@@ -115,7 +115,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
             ],
@@ -140,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "116.203.201.167",
             "server_port": 443,
