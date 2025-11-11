@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
+                "🇺🇸US | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
@@ -118,7 +118,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
+                "🇺🇸US | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -200,7 +200,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 18",
+            "tag": "🇺🇸US | 🟢 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "5.181.171.2",
             "server_port": 443,
