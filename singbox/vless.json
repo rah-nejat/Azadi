@@ -114,14 +114,14 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
@@ -145,14 +145,14 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
+                "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 19",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 19",
@@ -377,7 +377,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -398,7 +398,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 11",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -530,11 +530,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 18",
             "type": "vless",
-            "server": "5.181.171.2",
+            "server": "de.nitroo-tech.ru",
             "server_port": 443,
-            "uuid": "a87bf8a2-17a4-3054-b51e-876b5f1d0f24",
+            "uuid": "cd79807f-bcef-46b8-93b6-229676a0c1a0",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -544,7 +544,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "speed.cloudflare.com",
+                "server_name": "google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -553,8 +553,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y",
-                    "short_id": ""
+                    "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
+                    "short_id": "89dbda1a1c9369"
                 }
             }
         },
