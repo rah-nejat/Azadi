@@ -114,8 +114,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -145,8 +145,8 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -317,7 +317,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "63.179.217.150",
+            "server": "13.38.160.159",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -348,7 +348,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "63.178.130.192",
+            "server": "63.179.217.150",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -377,7 +377,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -398,7 +398,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -563,7 +563,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "45c43c10-c347-4808-98d8-288b7c1c19fd",
+            "uuid": "ed6643b6-a87e-49da-8d25-a39ce300f387",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -577,7 +577,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "5b20601e-f2a4-494c-a029-a12e9c081a82",
+            "uuid": "45c43c10-c347-4808-98d8-288b7c1c19fd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
