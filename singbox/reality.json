@@ -109,6 +109,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2"
             ]
         },
@@ -119,6 +120,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🟢 | vless | @proxy_kafee | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -225,6 +227,35 @@
                     "enabled": true,
                     "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
                     "short_id": "89dbda1a1c9369"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
+            "type": "vless",
+            "server": "italy.pocomacho.ru",
+            "server_port": 443,
+            "uuid": "678bbdc1-7307-4cf2-bec1-bcdbd8efdbe5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "w8fmqaWzMuOLi9qoV5ueSdrVel8xgr2R2Z1ayUE48EI",
+                    "short_id": "40b4681581dae8"
                 }
             }
         },
