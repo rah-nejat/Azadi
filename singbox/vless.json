@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 9",
                 "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
@@ -136,8 +136,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "🇺🇸US | 🔴 | vless | @EliV2ray | 9",
                 "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
@@ -182,11 +182,11 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "feed9b8c-837c-4aca-9d1b-49d1d9db2d51",
+            "uuid": "fc421763-1eb3-4cbd-bf04-2590fc7ce650",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -196,11 +196,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "34a72c0c-9351-44e6-ac7b-41b69e4e4352",
+            "uuid": "feed9b8c-837c-4aca-9d1b-49d1d9db2d51",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
