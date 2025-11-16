@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 11",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
@@ -136,8 +136,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 11",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @XsV2ray | 3",
@@ -182,7 +182,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -196,7 +196,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 11",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
