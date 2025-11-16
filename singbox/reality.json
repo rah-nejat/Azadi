@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
             ]
         },
@@ -114,7 +114,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -138,11 +138,11 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 15",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
-            "uuid": "Parsashonam-316",
+            "uuid": "Parsashonam-317",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
