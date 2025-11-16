@@ -114,11 +114,11 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 0",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
@@ -131,7 +131,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -146,11 +146,11 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 12",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
-                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 0",
+                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 10",
                 "🇩🇪DE | 🔴 | vless | @V2pedia | 11",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
@@ -163,7 +163,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -379,7 +379,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
             "type": "vless",
             "server": "188.114.98.224",
             "server_port": 443,
@@ -445,7 +445,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -476,7 +476,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -740,7 +740,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
