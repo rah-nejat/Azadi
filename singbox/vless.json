@@ -125,8 +125,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇭🇰HK | 🔴 | vless | @proxy_kafee | 1",
-                "🇮🇹IT | 🟢 | vless | @proxy_kafee | 2",
+                "🇭🇰HK | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -156,8 +155,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 16",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 17",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇭🇰HK | 🔴 | vless | @proxy_kafee | 1",
-                "🇮🇹IT | 🟢 | vless | @proxy_kafee | 2",
+                "🇭🇰HK | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
@@ -596,7 +594,7 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🇭🇰HK | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "27.50.48.8",
             "server_port": 443,
@@ -623,35 +621,6 @@
                 "path": "\/snippets\/ip=tp50000.kr.proxyip.fgfw.eu.org:50000",
                 "headers": {
                     "Host": "vless.hubp.de"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇹IT | 🟢 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "italy.pocomacho.ru",
-            "server_port": 443,
-            "uuid": "678bbdc1-7307-4cf2-bec1-bcdbd8efdbe5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "w8fmqaWzMuOLi9qoV5ueSdrVel8xgr2R2Z1ayUE48EI",
-                    "short_id": "40b4681581dae8"
                 }
             }
         },
