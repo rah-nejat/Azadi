@@ -122,15 +122,15 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 13",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 14",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 12",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 13",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
                 "🇨🇾CY | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -153,15 +153,15 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 13",
-                "🇺🇸US | 🔴 | vless | @lightning6 | 14",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 12",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 13",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
                 "🇨🇾CY | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -554,11 +554,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 12",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "991f7d75-4499-4c8b-9cc8-1e3cb3499f61",
+            "uuid": "86ae2e85-949e-45d1-a162-cded972fc252",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -568,11 +568,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 13",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "a2844ab0-3dcd-4f01-a557-aed8bd5e58d1",
+            "uuid": "991f7d75-4499-4c8b-9cc8-1e3cb3499f61",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -707,7 +707,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
