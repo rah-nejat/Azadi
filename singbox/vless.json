@@ -125,12 +125,13 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇨🇾CY | 🔴 | vless | @proxy_kafee | 0",
+                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
+                "🇨🇾CY | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -156,12 +157,13 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇨🇾CY | 🔴 | vless | @proxy_kafee | 0",
+                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
+                "🇨🇾CY | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -596,7 +598,38 @@
             }
         },
         {
-            "tag": "🇨🇾CY | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "159.246.55.253",
+            "server_port": 2096,
+            "uuid": "f61a4285-7264-4d07-9408-7b9ba1922c26",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "gaosir.unfeeling.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "gaosir.unfeeling.sbs"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇾CY | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "77.37.33.39",
             "server_port": 443,
@@ -707,7 +740,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
