@@ -121,7 +121,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
@@ -153,7 +153,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
@@ -542,7 +542,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
