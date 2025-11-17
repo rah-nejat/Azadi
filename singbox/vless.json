@@ -130,7 +130,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -161,7 +161,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
                 "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -707,7 +707,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
