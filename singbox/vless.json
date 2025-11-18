@@ -118,12 +118,12 @@
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
-                "❔XX | 🔴 | vless | @ARv2ray | 16",
-                "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 8",
                 "❔XX | 🔴 | vless | @lightning6 | 9",
-                "❔XX | 🔴 | vless | @lightning6 | 10",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -149,12 +149,12 @@
                 "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
-                "❔XX | 🔴 | vless | @ARv2ray | 16",
-                "❔XX | 🔴 | vless | @shh_proxy | 11",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 8",
                 "❔XX | 🔴 | vless | @lightning6 | 9",
-                "❔XX | 🔴 | vless | @lightning6 | 10",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -474,7 +474,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -505,7 +505,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -554,11 +554,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 9",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 8",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "47ca2fe1-561c-4913-8e22-e06c8bd1d37e",
+            "uuid": "1cc17f5c-81d2-41e9-a8d3-295fc3f8350d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -568,11 +568,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 10",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "1260fbdc-57b6-4e2c-a76f-c6f748d26917",
+            "uuid": "47ca2fe1-561c-4913-8e22-e06c8bd1d37e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
