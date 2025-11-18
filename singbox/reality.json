@@ -105,13 +105,18 @@
             "tag": "proxy",
             "type": "selector",
             "outbounds": [
-                "URL-TEST"
+                "URL-TEST",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @melov2ray | 1"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
-            "outbounds": [],
+            "outbounds": [
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @melov2ray | 1"
+            ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
             "tolerance": 50
@@ -131,6 +136,64 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+            "type": "vless",
+            "server": "91.99.179.233",
+            "server_port": 443,
+            "uuid": "Parsashonam-319",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ",
+                    "short_id": "0a8b4a1ad485"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
+            "type": "vless",
+            "server": "65.109.178.29",
+            "server_port": 443,
+            "uuid": "0a67c1bc-4d33-4713-c711-6bd1ad07e633",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "microsoft.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
+                    "short_id": ""
+                }
+            }
         }
     ],
     "route": {
