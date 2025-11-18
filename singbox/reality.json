@@ -106,16 +106,16 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @melov2ray | 0"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🟢 | vless | @NIM_VPN_ir | 3"
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @melov2ray | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -138,11 +138,11 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
-            "uuid": "Parsashonam-318",
+            "uuid": "Parsashonam-319",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -167,11 +167,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 0",
             "type": "vless",
-            "server": "prteam.darkping.net",
-            "server_port": 2422,
-            "uuid": "55ec6907-f07b-486a-cc00-995f20e6ff35",
+            "server": "65.109.178.29",
+            "server_port": 443,
+            "uuid": "0a67c1bc-4d33-4713-c711-6bd1ad07e633",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -181,16 +181,16 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "microsoft.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA",
+                    "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
                     "short_id": ""
                 }
             }
