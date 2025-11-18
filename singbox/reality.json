@@ -106,16 +106,16 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 10",
-                "🇫🇮FI | 🔴 | vless | @melov2ray | 1"
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @melov2ray | 1"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 10",
-                "🇫🇮FI | 🔴 | vless | @melov2ray | 1"
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @melov2ray | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -138,7 +138,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -167,7 +167,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "65.109.178.29",
             "server_port": 443,
