@@ -113,8 +113,8 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 16",
-                "❔XX | 🔴 | vless | @VlessConfig | 17",
+                "❔XX | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
@@ -125,9 +125,9 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 8",
-                "❔XX | 🔴 | vless | @lightning6 | 9",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
+                "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
+                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -147,8 +147,8 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 16",
-                "❔XX | 🔴 | vless | @VlessConfig | 17",
+                "❔XX | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 0",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
@@ -159,9 +159,9 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 8",
-                "❔XX | 🔴 | vless | @lightning6 | 9",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
+                "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
+                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -320,9 +320,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "15.237.236.17",
+            "server": "13.39.43.248",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -351,9 +351,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "15.236.170.231",
+            "server": "15.236.213.210",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -602,7 +602,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -616,7 +616,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+            "tag": "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
             "type": "vless",
             "server": "m15a.vip784.com",
             "server_port": 33801,
@@ -630,7 +630,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
+            "tag": "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "159.246.55.253",
             "server_port": 2096,
