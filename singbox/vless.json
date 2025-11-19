@@ -124,8 +124,8 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 6",
                 "❔XX | 🔴 | vless | @lightning6 | 7",
-                "❔XX | 🔴 | vless | @lightning6 | 8",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 22",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 23",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
@@ -159,8 +159,8 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 6",
                 "❔XX | 🔴 | vless | @lightning6 | 7",
-                "❔XX | 🔴 | vless | @lightning6 | 8",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 22",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 23",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
@@ -590,11 +590,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 7",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 6",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "84002b8d-9005-4311-9b1c-988c6c2d2ce5",
+            "uuid": "f60586b4-c907-4b18-ae0a-e013d297043e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -604,11 +604,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 8",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 7",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "1cc17f5c-81d2-41e9-a8d3-295fc3f8350d",
+            "uuid": "84002b8d-9005-4311-9b1c-988c6c2d2ce5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
