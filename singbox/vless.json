@@ -110,7 +110,6 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -146,7 +145,6 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @v2_team | 0",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -262,20 +260,6 @@
                     "public_key": "LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ",
                     "short_id": "0a8b4a1ad485"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @v2_team | 0",
-            "type": "vless",
-            "server": "45.154.206.188",
-            "server_port": 443,
-            "uuid": "9d7ba328-0f7b-4b42-90f2-50cc295c1465",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
