@@ -124,10 +124,10 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 5",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 6",
-                "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
-                "🇺🇸US | 🟢 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @lightning6 | 6",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -157,10 +157,10 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 5",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 6",
-                "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
-                "🇺🇸US | 🟢 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @lightning6 | 6",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -586,7 +586,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 6",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 6",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -600,7 +600,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
             "type": "vless",
             "server": "m15a.vip784.com",
             "server_port": 33801,
@@ -614,7 +614,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "159.246.55.253",
             "server_port": 2096,
@@ -645,7 +645,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "159.246.55.253",
             "server_port": 2096,
