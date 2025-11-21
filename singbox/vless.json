@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 8",
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -141,8 +141,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 8",
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
-                "❔XX | 🔴 | vless | @Parsashonam | 9",
-                "❔XX | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -216,7 +216,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8080,
@@ -230,7 +230,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
