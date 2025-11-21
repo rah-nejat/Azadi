@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -141,6 +142,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 10",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -207,6 +209,20 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "fdd55ce0-1ac2-46e2-af77-e6b4cea79b01",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
+            "type": "vless",
+            "server": "185.146.173.39",
+            "server_port": 8080,
+            "uuid": "Parsashonam-319",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
