@@ -114,11 +114,11 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
-                "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 0",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 12",
-                "❔XX | 🔴 | vless | @V2pedia | 13",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 0",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 12",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -148,11 +148,11 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
-                "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 0",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 12",
-                "❔XX | 🔴 | vless | @V2pedia | 13",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 0",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 12",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -351,7 +351,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
             "server": "63.180.216.119",
             "server_port": 22224,
@@ -382,7 +382,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VPNCUSTOMIZE | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 0",
             "type": "vless",
             "server": "188.114.98.224",
             "server_port": 443,
@@ -406,7 +406,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "65.109.178.29",
             "server_port": 443,
@@ -435,7 +435,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 12",
+            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -456,7 +456,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 13",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
