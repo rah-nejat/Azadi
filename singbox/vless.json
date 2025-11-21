@@ -106,10 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
+                "❔XX | 🔴 | vless | @EliV2ray | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
@@ -120,7 +120,7 @@
                 "❔XX | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
-                "❔XX | 🔴 | vless | @shh_proxy | 12",
+                "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 4",
@@ -139,10 +139,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
+                "❔XX | 🔴 | vless | @EliV2ray | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 10",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
@@ -153,7 +153,7 @@
                 "❔XX | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
-                "❔XX | 🔴 | vless | @shh_proxy | 12",
+                "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 4",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -202,7 +202,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 10",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -216,7 +216,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 10",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -245,7 +245,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
             "type": "vless",
             "server": "tunell-star.dsadsadads.ir",
             "server_port": 2070,
@@ -523,11 +523,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 12",
+            "tag": "❔XX | 🔴 | vless | @shh_proxy | 11",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
-            "uuid": "5adfc317-2483-45ad-bd84-d2779540ffa3",
+            "uuid": "659b70d6-efbe-47ce-a596-5b173943f077",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
