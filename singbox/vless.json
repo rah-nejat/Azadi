@@ -126,13 +126,13 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 3",
+                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -159,13 +159,13 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
-                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
-                "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 3",
+                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -614,7 +614,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "norman.ns.cloudflare.com",
             "server_port": 443,
@@ -721,7 +721,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 2",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 2",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
@@ -735,7 +735,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 3",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 3",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
@@ -749,7 +749,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
