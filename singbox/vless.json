@@ -122,7 +122,7 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
@@ -156,7 +156,7 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
@@ -543,11 +543,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
-            "server": "104.18.82.55",
+            "server": "77.37.33.39",
             "server_port": 443,
-            "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
+            "uuid": "5ec3a039-ea63-4bf9-a848-a65c9bfa66f5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -557,7 +557,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vless.hubp.de",
+                "server_name": "gb-8981.shenzogmbh.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -567,9 +567,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Join---T-T",
+                "path": "\/api\/v1",
                 "headers": {
-                    "Host": "vless.hubp.de"
+                    "Host": "gb-8981.shenzogmbh.com"
                 }
             }
         },
