@@ -124,9 +124,9 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 14",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+                "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -158,9 +158,9 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 14",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+                "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -595,7 +595,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 14",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -609,7 +609,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -623,7 +623,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+            "tag": "🇫🇮FI | 🔴 | vless | @DarkTeam_VPN | 21",
             "type": "vless",
             "server": "m15a.vip784.com",
             "server_port": 33801,
