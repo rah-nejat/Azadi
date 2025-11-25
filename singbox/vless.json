@@ -106,11 +106,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @EliV2ray | 8",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 16",
@@ -126,7 +126,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -140,11 +141,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @EliV2ray | 8",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 16",
@@ -160,7 +161,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -190,7 +192,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -204,7 +206,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -218,7 +220,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8080,
@@ -232,7 +234,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -261,7 +263,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
             "type": "vless",
             "server": "tunell-star.dsadsadads.ir",
             "server_port": 2070,
@@ -623,17 +625,61 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
             "type": "vless",
-            "server": "m15a.vip784.com",
-            "server_port": 33801,
-            "uuid": "d36f457f-17a9-4891-a113-322ec6792917",
-            "flow": "",
+            "server": "77.110.102.49",
+            "server_port": 443,
+            "uuid": "677615f7-87d5-5019-a44d-4fc3ff8d59d7",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vk.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3Th99jFJ-lq7U2RwTAIwuuQhw26ytMZiyPivpYScg3w",
+                    "short_id": "de285cb4"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
+            "type": "vless",
+            "server": "45.84.0.57",
+            "server_port": 443,
+            "uuid": "677615f7-87d5-5019-a44d-4fc3ff8d59d7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vk.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU",
+                    "short_id": "a29977bd"
+                }
             }
         },
         {
