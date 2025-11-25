@@ -106,15 +106,15 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @EliV2ray | 8",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 16",
-                "❔XX | 🔴 | vless | @VlessConfig | 17",
+                "❔XX | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
@@ -141,15 +141,15 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @EliV2ray | 8",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 16",
-                "❔XX | 🔴 | vless | @VlessConfig | 17",
+                "❔XX | 🔴 | vless | @VlessConfig | 14",
+                "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 13",
                 "❔XX | 🔴 | vless | @V2pedia | 14",
@@ -192,7 +192,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -206,7 +206,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -220,7 +220,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8080,
@@ -234,7 +234,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -263,7 +263,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
             "type": "vless",
             "server": "tunell-star.dsadsadads.ir",
             "server_port": 2070,
@@ -322,9 +322,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "51.44.49.52",
+            "server": "63.178.126.212",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -353,9 +353,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "52.57.38.0",
+            "server": "54.93.174.92",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
