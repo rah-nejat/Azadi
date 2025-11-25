@@ -106,16 +106,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @melov2ray | 1"
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 18"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @melov2ray | 1"
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 18"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -138,7 +142,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -192,6 +196,64 @@
                     "enabled": true,
                     "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
+            "type": "vless",
+            "server": "77.110.102.49",
+            "server_port": 443,
+            "uuid": "677615f7-87d5-5019-a44d-4fc3ff8d59d7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vk.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3Th99jFJ-lq7U2RwTAIwuuQhw26ytMZiyPivpYScg3w",
+                    "short_id": "de285cb4"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
+            "type": "vless",
+            "server": "45.84.0.57",
+            "server_port": 443,
+            "uuid": "677615f7-87d5-5019-a44d-4fc3ff8d59d7",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vk.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU",
+                    "short_id": "a29977bd"
                 }
             }
         }
