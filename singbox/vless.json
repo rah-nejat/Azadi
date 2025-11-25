@@ -128,8 +128,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -163,8 +163,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -601,7 +601,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "ed6700ce-0c01-4177-b9f8-ffeae0a0616c",
+            "uuid": "1e5d6139-4dac-403c-95e6-aed89e7500af",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -615,7 +615,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "826eea1e-dc04-451e-aca4-ad017129adee",
+            "uuid": "ed6700ce-0c01-4177-b9f8-ffeae0a0616c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -683,12 +683,12 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "norman.ns.cloudflare.com",
+            "server": "nld26.luckernld.org",
             "server_port": 443,
-            "uuid": "2bd6f1bd-378e-40ad-8981-229800f1340e",
-            "flow": "",
+            "uuid": "40d7798a-6c76-4298-a9d4-9e6181cd2dd7",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -697,24 +697,22 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "638990351320529492.prius-amshz.info",
+                "server_name": "www.cybo.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ljrnxaws",
-                "headers": {
-                    "Host": "638990351320529492.prius-amshz.info"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
+                    "short_id": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "norman.ns.cloudflare.com",
             "server_port": 443,
