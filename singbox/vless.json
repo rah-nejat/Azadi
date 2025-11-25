@@ -106,11 +106,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @EliV2ray | 8",
-                "❔XX | 🔴 | vless | @EliV2ray | 9",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
@@ -139,11 +139,11 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @EliV2ray | 8",
-                "❔XX | 🔴 | vless | @EliV2ray | 9",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -202,7 +202,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -216,7 +216,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8080,
@@ -230,7 +230,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -259,7 +259,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
             "type": "vless",
             "server": "tunell-star.dsadsadads.ir",
             "server_port": 2070,
@@ -576,7 +576,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "405a3fc8-4226-4fc2-814a-81d5d7e8f515",
+            "uuid": "8910dcfe-46e2-4608-a4c1-4de74f14a9c2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -590,7 +590,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "f6c41c1b-0540-4e72-acca-89d479d22a60",
+            "uuid": "405a3fc8-4226-4fc2-814a-81d5d7e8f515",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
