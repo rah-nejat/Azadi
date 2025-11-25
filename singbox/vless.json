@@ -126,8 +126,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -159,8 +159,8 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 21",
+                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -614,7 +614,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "norman.ns.cloudflare.com",
             "server_port": 443,
@@ -645,11 +645,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
-            "server": "wangcai17.cloudflare.182682.xyz",
+            "server": "norman.ns.cloudflare.com",
             "server_port": 443,
-            "uuid": "9d847ad3-1896-48f9-b89c-13fe345e2bff",
+            "uuid": "2bd6f1bd-378e-40ad-8981-229800f1340e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -659,12 +659,19 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "cho.chonon.sbs",
+                "server_name": "638990351320529492.prius-amshz.info",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ljrnxaws",
+                "headers": {
+                    "Host": "638990351320529492.prius-amshz.info"
                 }
             }
         },
