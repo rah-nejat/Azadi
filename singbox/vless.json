@@ -110,25 +110,23 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 13",
-                "❔XX | 🔴 | vless | @V2pedia | 14",
-                "❔XX | 🔴 | vless | @ARv2ray | 15",
-                "❔XX | 🔴 | vless | @ARv2ray | 16",
-                "❔XX | 🔴 | vless | @shh_proxy | 10",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 13",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 14",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 10",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -145,25 +143,23 @@
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+                "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 13",
-                "❔XX | 🔴 | vless | @V2pedia | 14",
-                "❔XX | 🔴 | vless | @ARv2ray | 15",
-                "❔XX | 🔴 | vless | @ARv2ray | 16",
-                "❔XX | 🔴 | vless | @shh_proxy | 10",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 13",
+                "🇩🇪DE | 🔴 | vless | @V2pedia | 14",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 10",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
+                "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -263,7 +259,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 1",
+            "tag": "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
             "type": "vless",
             "server": "tunell-star.dsadsadads.ir",
             "server_port": 2070,
@@ -413,7 +409,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 13",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -434,7 +430,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @V2pedia | 14",
             "type": "vless",
             "server": "91.107.170.215",
             "server_port": 80,
@@ -455,7 +451,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 15",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -486,7 +482,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -517,7 +513,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @shh_proxy | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 10",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
@@ -538,7 +534,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -552,7 +548,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -640,7 +636,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -651,64 +647,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
-            "type": "vless",
-            "server": "77.110.102.49",
-            "server_port": 443,
-            "uuid": "677615f7-87d5-5019-a44d-4fc3ff8d59d7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vk.cc",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "3Th99jFJ-lq7U2RwTAIwuuQhw26ytMZiyPivpYScg3w",
-                    "short_id": "de285cb4"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
-            "type": "vless",
-            "server": "45.84.0.57",
-            "server_port": 443,
-            "uuid": "677615f7-87d5-5019-a44d-4fc3ff8d59d7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vk.cc",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU",
-                    "short_id": "a29977bd"
-                }
             }
         },
         {
