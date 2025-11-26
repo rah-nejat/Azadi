@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
@@ -120,7 +120,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 17",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 18",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
@@ -204,7 +204,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @rxv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "91.98.151.30",
             "server_port": 443,
