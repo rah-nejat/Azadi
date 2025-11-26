@@ -121,12 +121,12 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @lightning6 | 16",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -154,12 +154,12 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @lightning6 | 16",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
@@ -190,15 +190,32 @@
         {
             "tag": "❔XX | 🔴 | vless | @EliV2ray | 8",
             "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "dcdb9145-9d9f-4cf5-9e4a-b0855b2d849f",
+            "server": "cosmin.ns.cloudflare.com",
+            "server_port": 443,
+            "uuid": "53f0bca8-f170-4ef7-8031-c7d441189dbf",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "638988506136311592.corolla-amshw.info",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/cahttingws?Join-ELiV2-RAY---Join-ELiV2-RAY---Join-ELiV2-RAY",
+                "headers": {
+                    "Host": "638988506136311592.corolla-amshw.info"
+                }
             }
         },
         {
@@ -206,7 +223,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "0c125f75-60d8-463d-bd1c-0ffe0bf69c8b",
+            "uuid": "dcdb9145-9d9f-4cf5-9e4a-b0855b2d849f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -534,7 +551,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -622,7 +639,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -636,7 +653,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 16",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
