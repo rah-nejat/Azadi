@@ -108,8 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19"
+                "❔XX | 🟢 | vless | @rxv2ray | 19"
             ]
         },
         {
@@ -118,8 +117,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19"
+                "❔XX | 🟢 | vless | @rxv2ray | 19"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -200,7 +198,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 18",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "de.nitroo-tech.ru",
             "server_port": 443,
@@ -225,35 +223,6 @@
                     "enabled": true,
                     "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
                     "short_id": "89dbda1a1c9369"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
-            "type": "vless",
-            "server": "91.98.151.30",
-            "server_port": 443,
-            "uuid": "ac638e13-c96d-484d-8aa8-55da290db25a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw",
-                    "short_id": ""
                 }
             }
         }
