@@ -123,10 +123,12 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -154,10 +156,12 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 17",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 2",
@@ -575,7 +579,28 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 18",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "type": "vless",
+            "server": "91.107.139.47",
+            "server_port": 8443,
+            "uuid": "9c04a62d-a4ec-4542-a6c9-eb5555555960",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram_?ed=2560",
+                "headers": {
+                    "Host": "91.107.139.47"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "de.nitroo-tech.ru",
             "server_port": 443,
@@ -600,35 +625,6 @@
                     "enabled": true,
                     "public_key": "y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I",
                     "short_id": "89dbda1a1c9369"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
-            "type": "vless",
-            "server": "91.98.151.30",
-            "server_port": 443,
-            "uuid": "ac638e13-c96d-484d-8aa8-55da290db25a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw",
-                    "short_id": ""
                 }
             }
         },
@@ -658,6 +654,41 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+            "type": "vless",
+            "server": "151.101.3.8",
+            "server_port": 80,
+            "uuid": "7024fc2a-0202-4803-8d0e-0bbd0d14c29a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
+            "type": "vless",
+            "server": "194.182.79.240",
+            "server_port": 22727,
+            "uuid": "1aaaa494-9333-4d90-a65a-82213901ead8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
