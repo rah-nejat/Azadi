@@ -125,8 +125,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
+                "❔XX | 🔴 | vless | @lightning6 | 12",
+                "❔XX | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
@@ -159,8 +159,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🟢 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
+                "❔XX | 🔴 | vless | @lightning6 | 12",
+                "❔XX | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
@@ -631,11 +631,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 12",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "17063e6c-816b-4a18-8e7d-0a2d66f485c8",
+            "uuid": "f9490aff-da1b-4b8a-afd0-e1f8ff03d6b6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -645,11 +645,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 13",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "d187c515-6658-4e90-b243-b2d2d2d61bae",
+            "uuid": "0ee7c1b6-2c11-4ca0-ab7d-64fe3a2d1a71",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
