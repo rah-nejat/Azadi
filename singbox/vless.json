@@ -339,7 +339,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "54.93.35.33",
+            "server": "13.37.149.144",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -370,7 +370,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "63.184.0.115",
+            "server": "54.93.35.33",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -635,7 +635,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "665b99b8-2dc3-4abc-a805-3fbde1554889",
+            "uuid": "8add5d70-180e-4223-ac61-f3dc5711c773",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -649,7 +649,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "87077ed3-cbcd-41e0-a2dc-48f41add5e8e",
+            "uuid": "665b99b8-2dc3-4abc-a805-3fbde1554889",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
