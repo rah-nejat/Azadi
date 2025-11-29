@@ -108,13 +108,13 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @Parsashonam | 15",
+                "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 16",
+                "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
@@ -139,13 +139,13 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
-                "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @Parsashonam | 15",
+                "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 12",
-                "❔XX | 🔴 | vless | @VlessConfig | 13",
+                "❔XX | 🔴 | vless | @VlessConfig | 16",
+                "❔XX | 🔴 | vless | @VlessConfig | 17",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
@@ -229,7 +229,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 15",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8080,
@@ -243,7 +243,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 16",
             "type": "vless",
             "server": "91.99.179.233",
             "server_port": 443,
@@ -331,9 +331,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "15.236.65.163",
+            "server": "15.188.58.229",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -362,9 +362,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.68.23.117",
+            "server": "63.180.136.14",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
