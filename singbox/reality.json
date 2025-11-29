@@ -108,7 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0"
+                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ]
         },
         {
@@ -117,7 +118,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0"
+                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -199,6 +201,35 @@
         },
         {
             "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "144.126.196.165",
+            "server_port": 28899,
+            "uuid": "f61d9aee-63b8-439e-bebf-afaa53c015fd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "s0.awsstatic.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "nld26.luckernld.org",
             "server_port": 443,
