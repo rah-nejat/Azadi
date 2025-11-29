@@ -122,10 +122,10 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 12",
-                "❔XX | 🔴 | vless | @lightning6 | 13",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 19",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 12",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -153,10 +153,10 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
-                "❔XX | 🔴 | vless | @lightning6 | 12",
-                "❔XX | 🔴 | vless | @lightning6 | 13",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 19",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 12",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -561,7 +561,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -575,7 +575,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "🇩🇪DE | 🔴 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "91.107.139.47",
             "server_port": 8443,
@@ -596,7 +596,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 12",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -610,7 +610,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 13",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 13",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
