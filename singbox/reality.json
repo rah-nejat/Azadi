@@ -106,18 +106,18 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 1"
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 1"
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -140,7 +140,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 13",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
             "server": "188.245.217.190",
             "server_port": 443,
@@ -198,11 +198,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "144.126.196.165",
-            "server_port": 28899,
-            "uuid": "f61d9aee-63b8-439e-bebf-afaa53c015fd",
+            "server": "nld26.luckernld.org",
+            "server_port": 443,
+            "uuid": "40d7798a-6c76-4298-a9d4-9e6181cd2dd7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -212,16 +212,16 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "s0.awsstatic.com",
+                "server_name": "www.cybo.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY",
+                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
                     "short_id": ""
                 }
             }
