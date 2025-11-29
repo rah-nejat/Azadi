@@ -129,8 +129,7 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 2"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 1"
             ]
         },
         {
@@ -160,8 +159,7 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 2"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -586,7 +584,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "9360485d-4151-4e0a-8fef-51b2cd41d0a6",
+            "uuid": "f43268b4-7e4c-4657-af05-4f3d37f34092",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -600,7 +598,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "3a599664-61fc-4ca1-8cbc-f500da2bcdc5",
+            "uuid": "bb85e18e-04c3-42dc-83e7-a1ccf01ef0af",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -725,20 +723,6 @@
             "server": "v2test.bing-net.com",
             "server_port": 9820,
             "uuid": "268e0e0b-fba4-4cba-873e-19d263e8c93a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 2",
-            "type": "vless",
-            "server": "v2test.bing-net.com",
-            "server_port": 9820,
-            "uuid": "13a1c108-a919-44fb-a3bf-a9550db565cd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
