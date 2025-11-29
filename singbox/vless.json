@@ -129,8 +129,8 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 3"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 1",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2"
             ]
         },
         {
@@ -160,8 +160,8 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 2",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 3"
+                "❔XX | 🔴 | vless | @Watashi_VPN | 1",
+                "❔XX | 🔴 | vless | @Watashi_VPN | 2"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -720,11 +720,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 2",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 1",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
-            "uuid": "13a1c108-a919-44fb-a3bf-a9550db565cd",
+            "uuid": "268e0e0b-fba4-4cba-873e-19d263e8c93a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -734,11 +734,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 3",
+            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 2",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
-            "uuid": "fd8be8ca-e1e8-477f-9a97-d8d8e63455ed",
+            "uuid": "13a1c108-a919-44fb-a3bf-a9550db565cd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
