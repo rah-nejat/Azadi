@@ -107,7 +107,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @melov2ray | 1"
+                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
         {
@@ -115,7 +116,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @melov2ray | 1"
+                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -192,6 +194,35 @@
                     "enabled": true,
                     "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "zeusolympus.fonixapp.org",
+            "server_port": 52467,
+            "uuid": "b0c77b3c-7735-427f-8695-6ef4760a3bfa",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "deepl.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Y4gxi2ba79pcpcTCp5FDaRzC14ArArsrl__RHNC7_Cg",
+                    "short_id": "cff4cd"
                 }
             }
         }
