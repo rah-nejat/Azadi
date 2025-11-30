@@ -107,8 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0"
+                "❔XX | 🔴 | vless | @melov2ray | 1"
             ]
         },
         {
@@ -116,8 +115,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0"
+                "❔XX | 🔴 | vless | @melov2ray | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -193,35 +191,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "nld26.luckernld.org",
-            "server_port": 443,
-            "uuid": "40d7798a-6c76-4298-a9d4-9e6181cd2dd7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cybo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
                     "short_id": ""
                 }
             }
