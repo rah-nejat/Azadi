@@ -12,7 +12,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?encryption=none&s
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv73.momdping.com#❔XX | 🔴 | vless | @XsV2ray | 3
 vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?security=none&encryption=none&host=fonts.gstatic.com&headerType=http&type=tcp#❔XX | 🔴 | vless | @XsV2ray | 4
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.31.243:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#❔XX | 🔴 | vless | @VlessConfig | 14
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.23.141:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 15
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.23.141:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#❔XX | 🔴 | vless | @VlessConfig | 15
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#❔XX | 🔴 | vless | @melov2ray | 1
 vless://505357b2-ee7d-4f0d-838f-b5d7348d9430@91.107.170.215:80?type=ws&security=none&path=/ali#❔XX | 🔴 | vless | @V2pedia | 8
 vless://505357b2-ee7d-4f0d-838f-b5d7348d9430@91.107.170.215:80?type=ws&security=none&path=/ali#❔XX | 🔴 | vless | @V2pedia | 9
