@@ -124,11 +124,11 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 10",
-                "❔XX | 🔴 | vless | @lightning6 | 11",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 11",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1"
+                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1"
             ]
         },
         {
@@ -153,11 +153,11 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 10",
-                "❔XX | 🔴 | vless | @lightning6 | 11",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 11",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1"
+                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -602,7 +602,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 11",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -697,7 +697,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
