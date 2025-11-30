@@ -124,11 +124,10 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 8",
-                "❔XX | 🔴 | vless | @lightning6 | 9",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1"
+                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1"
             ]
         },
         {
@@ -153,11 +152,10 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 8",
-                "❔XX | 🔴 | vless | @lightning6 | 9",
-                "❔XX | 🟢 | vless | @proxy_kafee | 0",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1"
+                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -619,7 +617,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 9",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -630,35 +628,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "zeusolympus.fonixapp.org",
-            "server_port": 52467,
-            "uuid": "b0c77b3c-7735-427f-8695-6ef4760a3bfa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "deepl.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Y4gxi2ba79pcpcTCp5FDaRzC14ArArsrl__RHNC7_Cg",
-                    "short_id": "cff4cd"
-                }
             }
         },
         {
@@ -714,7 +683,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
