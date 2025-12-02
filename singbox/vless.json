@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
-                "❔XX | 🔴 | vless | @EliV2ray | 11",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -137,8 +137,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
-                "❔XX | 🔴 | vless | @EliV2ray | 11",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -184,7 +184,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 10",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
             "server": "172.67.149.104",
             "server_port": 443,
@@ -215,11 +215,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 11",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 10",
             "type": "vless",
-            "server": "cosmin.ns.cloudflare.com",
+            "server": "172.67.149.104",
             "server_port": 443,
-            "uuid": "53f0bca8-f170-4ef7-8031-c7d441189dbf",
+            "uuid": "3c36eadb-747a-4166-8db0-23fec9883ea2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -229,7 +229,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "638988506136311592.corolla-amshw.info",
+                "server_name": "HarmonY-448.pages.DEV",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -239,9 +239,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/cahttingws?Join-ELiV2-RAY---Join-ELiV2-RAY---Join-ELiV2-RAY",
+                "path": "\/Join-ELiV2-RAY---Join-ELiV2-RAY---Join-ELiV2-RAY",
                 "headers": {
-                    "Host": "638988506136311592.corolla-amshw.info"
+                    "Host": "HarmonY-448.pages.DEV"
                 }
             }
         },
