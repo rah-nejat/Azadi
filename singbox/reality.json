@@ -108,7 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 19"
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
         {
@@ -117,7 +118,8 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 19"
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -223,6 +225,35 @@
                     "enabled": true,
                     "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "158.62.198.132",
+            "server_port": 443,
+            "uuid": "fd7d3e61-288e-4d0f-b5dc-591dcdbc119f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BaTi5Wrua_Oo_CMJ-uQ6UWtDId9z9IhzoOvRe2qvBhQ",
+                    "short_id": "63d80d5199a2bc"
                 }
             }
         }
