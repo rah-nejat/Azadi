@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇬🇧GB | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
@@ -118,7 +118,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇬🇧GB | 🟢 | vless | @rxv2ray | 19",
+                "❔XX | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -200,7 +200,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "eng30.digitunnel.org",
             "server_port": 443,
