@@ -118,12 +118,12 @@
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
-                "❔XX | 🔴 | vless | @ARv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇭🇰HK | 🔴 | vless | @rxv2ray | 18",
+                "🇬🇧GB | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 11",
                 "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -149,12 +149,12 @@
                 "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
-                "❔XX | 🔴 | vless | @ARv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇭🇰HK | 🔴 | vless | @rxv2ray | 18",
+                "🇬🇧GB | 🟢 | vless | @rxv2ray | 19",
                 "❔XX | 🔴 | vless | @lightning6 | 11",
                 "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -498,7 +498,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ARv2ray | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -550,7 +550,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -564,7 +564,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -578,7 +578,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
+            "tag": "🇭🇰HK | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
             "server": "27.50.48.8",
             "server_port": 443,
@@ -609,7 +609,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 19",
+            "tag": "🇬🇧GB | 🟢 | vless | @rxv2ray | 19",
             "type": "vless",
             "server": "eng30.digitunnel.org",
             "server_port": 443,
