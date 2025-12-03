@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
-                "❔XX | 🔴 | vless | @EliV2ray | 11",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -123,8 +123,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @lightning6 | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 11",
-                "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1",
@@ -138,8 +138,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
-                "❔XX | 🔴 | vless | @EliV2ray | 11",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -155,8 +155,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @lightning6 | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 11",
-                "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1",
@@ -186,38 +186,21 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 10",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 9",
             "type": "vless",
-            "server": "172.67.149.104",
-            "server_port": 443,
-            "uuid": "3c36eadb-747a-4166-8db0-23fec9883ea2",
+            "server": "179.61.132.170",
+            "server_port": 4655,
+            "uuid": "35bf2ca8-69dd-488a-b13d-1ad84d92a1c3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "HarmonY-448.pages.DEV",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Join-ELiV2-RAY---Join-ELiV2-RAY---Join-ELiV2-RAY",
-                "headers": {
-                    "Host": "HarmonY-448.pages.DEV"
-                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 11",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 10",
             "type": "vless",
             "server": "172.67.149.104",
             "server_port": 443,
@@ -611,11 +594,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 11",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 10",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "a0c4af6d-c1d9-454a-9d3f-bb85a471cd6c",
+            "uuid": "5b1a29d7-363b-409e-a8c1-2c126521847a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -625,7 +608,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 12",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 11",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
