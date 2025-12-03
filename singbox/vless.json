@@ -123,7 +123,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 11",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -155,7 +155,7 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 19",
+                "❔XX | 🔴 | vless | @rxv2ray | 18",
                 "❔XX | 🔴 | vless | @lightning6 | 10",
                 "❔XX | 🔴 | vless | @lightning6 | 11",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -592,12 +592,12 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 19",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 18",
             "type": "vless",
-            "server": "27.50.48.8",
-            "server_port": 443,
-            "uuid": "602b380a-9fdf-4425-bc07-aae9a95cfc4b",
-            "flow": "",
+            "server": "arashnet4.golebahari.sbs",
+            "server_port": 22443,
+            "uuid": "129638fe-f846-4cdb-b466-52f314acdb64",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -606,20 +606,25 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vless.hubp.de",
+                "server_name": "cloudflare.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw",
+                    "short_id": "8704d9898f"
                 }
             },
             "transport": {
-                "type": "ws",
-                "path": "\/snippets\/ip=tp50000.kr.proxyip.fgfw.eu.org:50000",
-                "headers": {
-                    "Host": "vless.hubp.de"
-                }
+                "type": "grpc",
+                "service_name": "ArezooAref",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
