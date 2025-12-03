@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -130,7 +131,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ]
         },
         {
@@ -139,6 +140,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 9",
                 "❔XX | 🔴 | vless | @EliV2ray | 10",
+                "❔XX | 🔴 | vless | @Parsashonam | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
@@ -161,7 +163,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
-                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0"
+                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -225,6 +227,35 @@
                 "path": "\/Join-ELiV2-RAY---Join-ELiV2-RAY---Join-ELiV2-RAY",
                 "headers": {
                     "Host": "HarmonY-448.pages.DEV"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 12",
+            "type": "vless",
+            "server": "188.245.217.190",
+            "server_port": 443,
+            "uuid": "Parsashonam-321",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ",
+                    "short_id": "0a8b4a1ad485"
                 }
             }
         },
@@ -731,7 +762,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
