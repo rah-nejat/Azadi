@@ -109,7 +109,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @rxv2ray | 17"
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 17"
             ]
         },
         {
@@ -119,7 +119,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @rxv2ray | 17"
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 17"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -229,7 +229,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @rxv2ray | 17",
             "type": "vless",
             "server": "arashnet4.golebahari.sbs",
             "server_port": 22443,
