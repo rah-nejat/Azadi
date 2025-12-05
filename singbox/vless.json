@@ -124,7 +124,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -157,7 +156,6 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @rxv2ray | 17",
                 "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -592,42 +590,6 @@
         },
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 16",
-            "type": "vless",
-            "server": "arashnet4.golebahari.sbs",
-            "server_port": 22443,
-            "uuid": "129638fe-f846-4cdb-b466-52f314acdb64",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw",
-                    "short_id": "8704d9898f"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ArezooAref",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 17",
             "type": "vless",
             "server": "arashnet4.golebahari.sbs",
             "server_port": 22443,
