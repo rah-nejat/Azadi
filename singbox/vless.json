@@ -116,8 +116,8 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
                 "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🔴 | vless | @V2pedia | 7",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -150,8 +150,8 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 12",
                 "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🔴 | vless | @V2pedia | 7",
                 "❔XX | 🔴 | vless | @V2pedia | 8",
-                "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -440,7 +440,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -461,11 +461,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
             "type": "vless",
-            "server": "91.107.170.215",
+            "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "505357b2-ee7d-4f0d-838f-b5d7348d9430",
+            "uuid": "a583997d-96c7-4f75-b12b-c2e9526c56f1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -477,7 +477,7 @@
                 "type": "ws",
                 "path": "\/ali",
                 "headers": {
-                    "Host": "91.107.170.215"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
