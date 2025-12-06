@@ -123,10 +123,10 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 14",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -155,10 +155,10 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+                "🇩🇪DE | 🔴 | vless | @rxv2ray | 16",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 14",
+                "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -597,7 +597,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 16",
+            "tag": "🇩🇪DE | 🔴 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "arashnet4.golebahari.sbs",
             "server_port": 22443,
@@ -633,7 +633,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 14",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -647,7 +647,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -661,7 +661,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 0",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 8443,
