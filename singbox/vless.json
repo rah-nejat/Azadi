@@ -113,11 +113,11 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 16",
-                "❔XX | 🔴 | vless | @VlessConfig | 17",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 6",
-                "❔XX | 🔴 | vless | @V2pedia | 7",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 6",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 7",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -145,11 +145,11 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 16",
-                "❔XX | 🔴 | vless | @VlessConfig | 17",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 6",
-                "❔XX | 🔴 | vless | @V2pedia | 7",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 6",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 7",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
@@ -353,9 +353,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "35.181.195.31",
+            "server": "13.37.103.10",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -384,9 +384,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "13.39.61.165",
+            "server": "18.197.203.30",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -415,7 +415,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "65.109.178.29",
             "server_port": 443,
@@ -444,7 +444,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -465,7 +465,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -637,7 +637,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "c7789513-4569-430a-a1a4-ca78ba9db7cc",
+            "uuid": "4eff7fcc-b564-4a5b-9e72-ca8d975b9d0b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -651,7 +651,7 @@
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "09da0fde-e742-404c-8158-453c4328a7b3",
+            "uuid": "d8b3ff8d-9c80-41b4-8544-9a89c6a1635b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
