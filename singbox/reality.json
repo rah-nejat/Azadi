@@ -109,7 +109,7 @@
                 "❔XX | 🟢 | vless | @EliV2ray | 6",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
-                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
@@ -121,7 +121,7 @@
                 "❔XX | 🟢 | vless | @EliV2ray | 6",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
-                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
@@ -233,7 +233,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
+            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "65.109.178.29",
             "server_port": 443,
