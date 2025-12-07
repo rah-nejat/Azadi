@@ -124,8 +124,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
+                "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
@@ -158,8 +158,8 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
+                "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
@@ -632,7 +632,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -646,7 +646,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 16",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
