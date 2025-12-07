@@ -110,7 +110,6 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ]
         },
@@ -122,7 +121,6 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -257,35 +255,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "de.griffon-guard.com",
-            "server_port": 8443,
-            "uuid": "6a753f74-b279-44d7-a442-b5cbc425569f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg",
                     "short_id": ""
                 }
             }
