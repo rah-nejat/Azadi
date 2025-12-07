@@ -123,7 +123,8 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 15",
+                "❔XX | 🟢 | vless | @rxv2ray | 15",
+                "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -157,7 +158,8 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 15",
+                "❔XX | 🟢 | vless | @rxv2ray | 15",
+                "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @lightning6 | 16",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -601,7 +603,36 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 15",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 15",
+            "type": "vless",
+            "server": "s1.idmspeed.xyz",
+            "server_port": 8080,
+            "uuid": "9f681d44-f96e-4226-8d7b-479fb79a461f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nU0D1mmeVkYrX2bGYDymy8csENqnMfmDlKOW-FlhjXE",
+                    "short_id": "3f610404bf2474dc"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "27.50.48.8",
             "server_port": 443,
