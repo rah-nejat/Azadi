@@ -116,8 +116,8 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
@@ -134,9 +134,9 @@
                 "❔XX | 🔴 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1",
-                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0",
-                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 1"
+                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1",
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 1"
             ]
         },
         {
@@ -153,8 +153,8 @@
                 "❔XX | 🔴 | vless | @VlessConfig | 14",
                 "❔XX | 🔴 | vless | @VlessConfig | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🔴 | vless | @V2pedia | 8",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
+                "❔XX | 🔴 | vless | @V2pedia | 10",
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 10",
@@ -171,9 +171,9 @@
                 "❔XX | 🔴 | vless | @proxy_kafee | 4",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
-                "❔XX | 🔴 | vless | @Watashi_VPN | 1",
-                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0",
-                "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 1"
+                "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1",
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
+                "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -454,7 +454,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 8",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -475,7 +475,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @V2pedia | 9",
+            "tag": "❔XX | 🔴 | vless | @V2pedia | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -861,7 +861,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Watashi_VPN | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @Watashi_VPN | 1",
             "type": "vless",
             "server": "v2test.bing-net.com",
             "server_port": 9820,
@@ -875,7 +875,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 0",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
@@ -899,7 +899,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @azadi_az_inja_migzare | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @azadi_az_inja_migzare | 1",
             "type": "vless",
             "server": "statue.lnmarketplace.net",
             "server_port": 443,
