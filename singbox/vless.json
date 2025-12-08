@@ -124,8 +124,8 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 15",
-                "❔XX | 🔴 | vless | @rxv2ray | 16",
+                "❔XX | 🔴 | vless | @rxv2ray | 15",
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -160,8 +160,8 @@
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🟢 | vless | @rxv2ray | 15",
-                "❔XX | 🔴 | vless | @rxv2ray | 16",
+                "❔XX | 🔴 | vless | @rxv2ray | 15",
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
@@ -626,7 +626,38 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 15",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 15",
+            "type": "vless",
+            "server": "172.66.47.156",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "s1.idmspeed.xyz",
             "server_port": 8080,
@@ -651,37 +682,6 @@
                     "enabled": true,
                     "public_key": "nU0D1mmeVkYrX2bGYDymy8csENqnMfmDlKOW-FlhjXE",
                     "short_id": "3f610404bf2474dc"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 16",
-            "type": "vless",
-            "server": "27.50.48.8",
-            "server_port": 443,
-            "uuid": "602b380a-9fdf-4425-bc07-aae9a95cfc4b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vless.hubp.de",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/snippets\/ip=tp50000.kr.proxyip.fgfw.eu.org:50000",
-                "headers": {
-                    "Host": "vless.hubp.de"
                 }
             }
         },
