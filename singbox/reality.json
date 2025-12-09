@@ -110,8 +110,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 16",
-                "❔XX | 🟢 | vless | @proxy_kafee | 4"
+                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16"
             ]
         },
         {
@@ -122,8 +121,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 16",
-                "❔XX | 🟢 | vless | @proxy_kafee | 4"
+                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -262,7 +260,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 16",
+            "tag": "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "s1.idmspeed.xyz",
             "server_port": 8080,
@@ -287,35 +285,6 @@
                     "enabled": true,
                     "public_key": "nU0D1mmeVkYrX2bGYDymy8csENqnMfmDlKOW-FlhjXE",
                     "short_id": "3f610404bf2474dc"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 4",
-            "type": "vless",
-            "server": "node8.svoy.run",
-            "server_port": 443,
-            "uuid": "7e281f58-63b0-4e9a-a3fe-537e33e374b9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.cloudflare.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ",
-                    "short_id": "a150dff4"
                 }
             }
         }
