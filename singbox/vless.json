@@ -124,12 +124,12 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "❔XX | 🟢 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 4",
+                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
+                "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
+                "🇩🇪DE | 🔴 | vless | @lightning6 | 15",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 0",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
@@ -159,12 +159,12 @@
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
                 "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "❔XX | 🟢 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
-                "❔XX | 🟢 | vless | @proxy_kafee | 4",
+                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
+                "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
+                "🇩🇪DE | 🔴 | vless | @lightning6 | 15",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 0",
+                "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
@@ -627,7 +627,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 16",
+            "tag": "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "s1.idmspeed.xyz",
             "server_port": 8080,
@@ -656,7 +656,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "tag": "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
@@ -670,7 +670,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
             "server": "146.75.119.82",
             "server_port": 80,
@@ -684,7 +684,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 0",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 26975,
@@ -698,7 +698,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 1",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 8443,
@@ -719,12 +719,12 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 4",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
-            "server": "node8.svoy.run",
+            "server": "172.64.33.91",
             "server_port": 443,
-            "uuid": "7e281f58-63b0-4e9a-a3fe-537e33e374b9",
-            "flow": "xtls-rprx-vision",
+            "uuid": "270b7522-bda3-4381-bffb-6156076e271e",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -733,17 +733,19 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.cloudflare.com",
+                "server_name": "639004042094803957.legacy-amsit.info",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ",
-                    "short_id": "a150dff4"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/amglzgws",
+                "headers": {
+                    "Host": "639004042094803957.legacy-amsit.info"
                 }
             }
         },
