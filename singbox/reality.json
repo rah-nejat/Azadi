@@ -111,8 +111,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🟢 | vless | @rxv2ray | 16",
-                "❔XX | 🟢 | vless | @proxy_kafee | 3",
-                "❔XX | 🔴 | vless | @proxy_kafee | 4"
+                "❔XX | 🟢 | vless | @proxy_kafee | 3"
             ]
         },
         {
@@ -124,8 +123,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🟢 | vless | @rxv2ray | 16",
-                "❔XX | 🟢 | vless | @proxy_kafee | 3",
-                "❔XX | 🔴 | vless | @proxy_kafee | 4"
+                "❔XX | 🟢 | vless | @proxy_kafee | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -318,35 +316,6 @@
                     "enabled": true,
                     "public_key": "0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ",
                     "short_id": "a150dff4"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 4",
-            "type": "vless",
-            "server": "de.griffon-guard.com",
-            "server_port": 8443,
-            "uuid": "6a753f74-b279-44d7-a442-b5cbc425569f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg",
-                    "short_id": ""
                 }
             }
         }
