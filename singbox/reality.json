@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vless | @EliV2ray | 5",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @Parsashonam | 15",
+                "🇺🇸US | 🟢 | vless | @EliV2ray | 5",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
-                "🇬🇧GB | 🟢 | vless | @proxy_kafee | 3",
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
+                "❔XX | 🟢 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @proxy_kafee | 4"
             ]
         },
@@ -119,12 +119,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vless | @EliV2ray | 5",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @Parsashonam | 15",
+                "🇺🇸US | 🟢 | vless | @EliV2ray | 5",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
+                "🇩🇪DE | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
-                "🇬🇧GB | 🟢 | vless | @proxy_kafee | 3",
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
+                "❔XX | 🟢 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @proxy_kafee | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -148,7 +148,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vless | @EliV2ray | 5",
+            "tag": "🇺🇸US | 🟢 | vless | @EliV2ray | 5",
             "type": "vless",
             "server": "47.252.75.203",
             "server_port": 443,
@@ -177,7 +177,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "188.245.217.190",
             "server_port": 443,
@@ -206,7 +206,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @Parsashonam | 15",
             "type": "vless",
             "server": "188.245.217.190",
             "server_port": 443,
@@ -264,7 +264,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "s1.idmspeed.xyz",
             "server_port": 8080,
@@ -293,7 +293,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @proxy_kafee | 3",
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "node8.svoy.run",
             "server_port": 443,
