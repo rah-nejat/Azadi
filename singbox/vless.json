@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vless | @EliV2ray | 5",
-                "❔XX | 🔴 | vless | @EliV2ray | 6",
+                "❔XX | 🔴 | vless | @EliV2ray | 5",
+                "❔XX | 🟢 | vless | @EliV2ray | 6",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -141,8 +141,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vless | @EliV2ray | 5",
-                "❔XX | 🔴 | vless | @EliV2ray | 6",
+                "❔XX | 🔴 | vless | @EliV2ray | 5",
+                "❔XX | 🟢 | vless | @EliV2ray | 6",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -192,7 +192,21 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vless | @EliV2ray | 5",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 5",
+            "type": "vless",
+            "server": "abmive.abmivenaser-18.ir",
+            "server_port": 1520,
+            "uuid": "64df372d-e203-4343-b936-87ea908cefc4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "47.252.75.203",
             "server_port": 443,
@@ -217,27 +231,6 @@
                     "enabled": true,
                     "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 6",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "channel-eliv2-ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
