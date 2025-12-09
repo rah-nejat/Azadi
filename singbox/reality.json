@@ -110,7 +110,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
                 "❔XX | 🟢 | vless | @proxy_kafee | 3"
             ]
         },
@@ -122,7 +122,7 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
                 "❔XX | 🟢 | vless | @proxy_kafee | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -262,7 +262,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @rxv2ray | 16",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "s1.idmspeed.xyz",
             "server_port": 8080,
