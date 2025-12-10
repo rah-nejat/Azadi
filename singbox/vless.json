@@ -113,8 +113,8 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @VlessConfig | 12",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
@@ -147,8 +147,8 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @VlessConfig | 12",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 9",
                 "❔XX | 🔴 | vless | @V2pedia | 10",
@@ -350,9 +350,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "15.188.34.139",
+            "server": "18.153.186.240",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -381,9 +381,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "63.180.136.145",
+            "server": "63.180.131.159",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -656,9 +656,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
             "type": "vless",
-            "server": "146.75.119.82",
+            "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "666e1c11-2cfa-43d3-bd39-4c8e47ea3b42",
+            "uuid": "9ddf54a6-7f12-4a42-88f2-03257c760d8f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -670,9 +670,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @lightning6 | 16",
             "type": "vless",
-            "server": "151.101.205.194",
+            "server": "146.75.119.82",
             "server_port": 80,
-            "uuid": "324d89d9-52ca-4b56-8d37-1bcf09f49989",
+            "uuid": "666e1c11-2cfa-43d3-bd39-4c8e47ea3b42",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
