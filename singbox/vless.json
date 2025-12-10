@@ -130,7 +130,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
@@ -165,7 +165,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 15",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
@@ -740,7 +740,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "172.64.33.91",
             "server_port": 443,
