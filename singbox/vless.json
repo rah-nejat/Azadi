@@ -127,8 +127,9 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 15",
                 "❔XX | 🟢 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+                "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -161,8 +162,9 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 15",
                 "❔XX | 🟢 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+                "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -679,6 +681,20 @@
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
+            "uuid": "3a0780ea-2071-4437-bb3e-effab78e20ed",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "type": "vless",
+            "server": "151.101.205.194",
+            "server_port": 80,
             "uuid": "c1d763b2-ec55-4e32-83d8-43ebbae8bf82",
             "flow": "",
             "packet_encoding": "xudp",
@@ -689,7 +705,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 0",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 26975,
@@ -703,7 +719,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 8443,
