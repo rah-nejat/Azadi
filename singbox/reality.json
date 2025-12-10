@@ -109,8 +109,7 @@
                 "❔XX | 🟢 | vless | @EliV2ray | 5",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 16",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
@@ -121,8 +120,7 @@
                 "❔XX | 🟢 | vless | @EliV2ray | 5",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
-                "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 16",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -233,7 +231,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @melov2ray | 1",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 1",
             "type": "vless",
             "server": "65.109.178.29",
             "server_port": 443,
@@ -258,35 +256,6 @@
                     "enabled": true,
                     "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 16",
-            "type": "vless",
-            "server": "s1.idmspeed.xyz",
-            "server_port": 8080,
-            "uuid": "9f681d44-f96e-4226-8d7b-479fb79a461f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nU0D1mmeVkYrX2bGYDymy8csENqnMfmDlKOW-FlhjXE",
-                    "short_id": "3f610404bf2474dc"
                 }
             }
         },
