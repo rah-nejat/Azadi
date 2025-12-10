@@ -110,7 +110,8 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 16"
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ]
         },
         {
@@ -121,7 +122,8 @@
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
-                "❔XX | 🟢 | vless | @rxv2ray | 16"
+                "❔XX | 🟢 | vless | @rxv2ray | 16",
+                "❔XX | 🟢 | vless | @proxy_kafee | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -285,6 +287,35 @@
                     "enabled": true,
                     "public_key": "nU0D1mmeVkYrX2bGYDymy8csENqnMfmDlKOW-FlhjXE",
                     "short_id": "3f610404bf2474dc"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "89.23.123.17",
+            "server_port": 4443,
+            "uuid": "3121850a-24aa-41f9-936d-dbdf10a3b31f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "github.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE",
+                    "short_id": "aa7e96542880027a"
                 }
             }
         }
