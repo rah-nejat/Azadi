@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @EliV2ray | 5",
-                "❔XX | 🟢 | vless | @EliV2ray | 6",
+                "❔XX | 🟢 | vless | @EliV2ray | 5",
+                "❔XX | 🔴 | vless | @EliV2ray | 6",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -141,8 +141,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @EliV2ray | 5",
-                "❔XX | 🟢 | vless | @EliV2ray | 6",
+                "❔XX | 🟢 | vless | @EliV2ray | 5",
+                "❔XX | 🔴 | vless | @EliV2ray | 6",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -192,7 +192,36 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 5",
+            "tag": "❔XX | 🟢 | vless | @EliV2ray | 5",
+            "type": "vless",
+            "server": "at.ultima.foundation",
+            "server_port": 22231,
+            "uuid": "2dfa740c-8069-4993-8b96-c3e5dc540593",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "at.ultima.foundation",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng",
+                    "short_id": "a9725715bf4c62ff"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "abmive.abmivenaser-18.ir",
             "server_port": 1520,
@@ -203,35 +232,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @EliV2ray | 6",
-            "type": "vless",
-            "server": "47.252.75.203",
-            "server_port": 443,
-            "uuid": "3e7f67de-648e-4871-b51a-a225214d41ee",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.primevideo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw",
-                    "short_id": ""
-                }
             }
         },
         {
