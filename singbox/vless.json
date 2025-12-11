@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @EliV2ray | 5",
                 "❔XX | 🔴 | vless | @EliV2ray | 6",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -142,8 +142,8 @@
             "outbounds": [
                 "❔XX | 🟢 | vless | @EliV2ray | 5",
                 "❔XX | 🔴 | vless | @EliV2ray | 6",
+                "❔XX | 🔴 | vless | @Parsashonam | 13",
                 "❔XX | 🔴 | vless | @Parsashonam | 14",
-                "❔XX | 🔴 | vless | @Parsashonam | 15",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -233,40 +233,25 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 13",
             "type": "vless",
-            "server": "188.245.217.190",
-            "server_port": 443,
+            "server": "185.146.173.39",
+            "server_port": 8080,
             "uuid": "Parsashonam-321",
-            "flow": "xtls-rprx-vision",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ",
-                    "short_id": "0a8b4a1ad485"
-                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 15",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "188.245.217.190",
             "server_port": 443,
-            "uuid": "Parsashonam-320",
+            "uuid": "Parsashonam-321",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
