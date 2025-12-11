@@ -127,8 +127,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -161,8 +161,8 @@
                 "❔XX | 🔴 | vless | @rxv2ray | 16",
                 "❔XX | 🔴 | vless | @lightning6 | 12",
                 "❔XX | 🔴 | vless | @lightning6 | 13",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
-                "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
+                "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
@@ -669,7 +669,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 1",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 26975,
@@ -683,7 +683,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 2",
+            "tag": "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
             "type": "vless",
             "server": "51.75.83.16",
             "server_port": 8443,
