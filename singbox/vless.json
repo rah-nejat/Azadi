@@ -121,12 +121,12 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "❔XX | 🔴 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
+                "🇭🇰HK | 🔴 | vless | @rxv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 16",
+                "🇳🇱NL | 🔴 | vless | @lightning6 | 13",
+                "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
@@ -155,12 +155,12 @@
                 "❔XX | 🔴 | vless | @ARv2ray | 15",
                 "❔XX | 🔴 | vless | @ARv2ray | 16",
                 "❔XX | 🔴 | vless | @shh_proxy | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 18",
-                "❔XX | 🔴 | vless | @rxv2ray | 15",
-                "❔XX | 🔴 | vless | @rxv2ray | 16",
-                "❔XX | 🔴 | vless | @lightning6 | 14",
-                "❔XX | 🔴 | vless | @lightning6 | 15",
+                "🇭🇰HK | 🔴 | vless | @rxv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 16",
+                "🇳🇱NL | 🔴 | vless | @lightning6 | 13",
+                "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
@@ -551,7 +551,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -579,7 +579,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 15",
+            "tag": "🇭🇰HK | 🔴 | vless | @rxv2ray | 15",
             "type": "vless",
             "server": "27.50.48.8",
             "server_port": 443,
@@ -610,7 +610,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "172.66.47.156",
             "server_port": 443,
@@ -641,11 +641,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 14",
+            "tag": "🇳🇱NL | 🔴 | vless | @lightning6 | 13",
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "6ab8ab39-09a0-43ca-8a15-31edbcd430c2",
+            "uuid": "533db0cb-58bf-43e7-aa97-e4a8769fc868",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -655,11 +655,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lightning6 | 15",
+            "tag": "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "0cbebbaa-74bf-4f45-8dc7-30008749d473",
+            "uuid": "6ab8ab39-09a0-43ca-8a15-31edbcd430c2",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
