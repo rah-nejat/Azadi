@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @EliV2ray | 6",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @melov2ray | 1"
             ]
         },
@@ -116,7 +116,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @EliV2ray | 6",
-                "❔XX | 🔴 | vless | @Parsashonam | 14",
+                "❔XX | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @melov2ray | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -169,7 +169,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 17",
             "type": "vless",
             "server": "188.245.217.190",
             "server_port": 443,
