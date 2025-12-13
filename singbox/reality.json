@@ -108,7 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @Parsashonam | 17",
-                "❔XX | 🔴 | vless | @melov2ray | 1"
+                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ]
         },
         {
@@ -117,7 +118,8 @@
             "outbounds": [
                 "❔XX | 🟢 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @Parsashonam | 17",
-                "❔XX | 🔴 | vless | @melov2ray | 1"
+                "❔XX | 🔴 | vless | @melov2ray | 1",
+                "❔XX | 🟢 | vless | @proxy_kafee | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -223,6 +225,35 @@
                     "enabled": true,
                     "public_key": "dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
+            "type": "vless",
+            "server": "swiss.intfreed.ru",
+            "server_port": 443,
+            "uuid": "bf92bdef-ab8d-4481-8798-2d39023357b2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "swiss.video.intfreed.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw",
+                    "short_id": "7755e972daf8eec8"
                 }
             }
         }
