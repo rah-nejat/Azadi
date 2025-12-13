@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @EliV2ray | 5",
-                "❔XX | 🟢 | vless | @EliV2ray | 6",
+                "❔XX | 🔴 | vless | @EliV2ray | 6",
+                "❔XX | 🟢 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -139,8 +139,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @EliV2ray | 5",
-                "❔XX | 🟢 | vless | @EliV2ray | 6",
+                "❔XX | 🔴 | vless | @EliV2ray | 6",
+                "❔XX | 🟢 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -188,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @EliV2ray | 5",
+            "tag": "❔XX | 🔴 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "eliv2-ray.eledigi.ir",
             "server_port": 1520,
@@ -202,7 +202,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @EliV2ray | 6",
+            "tag": "❔XX | 🟢 | vless | @EliV2ray | 7",
             "type": "vless",
             "server": "at.ultima.foundation",
             "server_port": 22231,
