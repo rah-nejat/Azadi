@@ -113,8 +113,8 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @VlessConfig | 12",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @V2pedia | 12",
@@ -129,7 +129,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
-                "❔XX | 🟢 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1"
@@ -146,8 +146,8 @@
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
-                "❔XX | 🔴 | vless | @VlessConfig | 14",
-                "❔XX | 🔴 | vless | @VlessConfig | 15",
+                "❔XX | 🔴 | vless | @VlessConfig | 12",
+                "❔XX | 🔴 | vless | @VlessConfig | 13",
                 "❔XX | 🔴 | vless | @melov2ray | 1",
                 "❔XX | 🔴 | vless | @V2pedia | 11",
                 "❔XX | 🔴 | vless | @V2pedia | 12",
@@ -162,7 +162,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 3",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 4",
-                "❔XX | 🟢 | vless | @proxy_kafee | 1",
+                "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1"
@@ -333,9 +333,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 14",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "52.57.200.67",
+            "server": "35.181.248.18",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -364,9 +364,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VlessConfig | 15",
+            "tag": "❔XX | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "35.181.161.100",
+            "server": "13.38.239.157",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -702,12 +702,12 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "swiss.intfreed.ru",
-            "server_port": 443,
-            "uuid": "bf92bdef-ab8d-4481-8798-2d39023357b2",
-            "flow": "xtls-rprx-vision",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -716,17 +716,19 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "swiss.video.intfreed.ru",
+                "server_name": "smart.zarnovia.info",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw",
-                    "short_id": "7755e972daf8eec8"
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "smart.zarnovia.info"
                 }
             }
         },
