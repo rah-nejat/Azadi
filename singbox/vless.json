@@ -436,7 +436,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "55905cc3-e9d8-4458-8ab6-3df29b5bba5c",
+            "uuid": "a583997d-96c7-4f75-b12b-c2e9526c56f1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
