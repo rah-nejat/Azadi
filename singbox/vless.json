@@ -129,7 +129,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 5",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
@@ -163,7 +163,7 @@
                 "❔XX | 🔴 | vless | @lightning6 | 14",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 5",
                 "❔XX | 🔴 | vless | @DarkTeam_VPN | 6",
-                "❔XX | 🔴 | vless | @proxy_kafee | 0",
+                "❔XX | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @Watashi_VPN | 1",
@@ -645,7 +645,7 @@
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "a2daa2e8-1e03-4428-a4ed-eac12a9bea12",
+            "uuid": "4b44d34b-f23b-49a5-b4d0-a5581de42199",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -659,7 +659,7 @@
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "dbdfb19f-0e37-4a94-b213-8c058bec2c01",
+            "uuid": "a2daa2e8-1e03-4428-a4ed-eac12a9bea12",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -704,7 +704,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2096,
