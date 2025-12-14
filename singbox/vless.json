@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🟢 | vless | @EliV2ray | 5",
                 "❔XX | 🔴 | vless | @EliV2ray | 6",
-                "❔XX | 🟢 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -140,8 +140,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🟢 | vless | @EliV2ray | 5",
                 "❔XX | 🔴 | vless | @EliV2ray | 6",
-                "❔XX | 🟢 | vless | @EliV2ray | 7",
                 "❔XX | 🔴 | vless | @Parsashonam | 16",
                 "❔XX | 🔴 | vless | @Parsashonam | 17",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
@@ -190,6 +190,20 @@
             "type": "dns"
         },
         {
+            "tag": "❔XX | 🟢 | vless | @EliV2ray | 5",
+            "type": "vless",
+            "server": "137.74.53.176",
+            "server_port": 35789,
+            "uuid": "be72cd92-92d2-4543-9bef-1673fcd03b45",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @EliV2ray | 6",
             "type": "vless",
             "server": "eliv2-ray.eledigi.ir",
@@ -201,35 +215,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @EliV2ray | 7",
-            "type": "vless",
-            "server": "at.ultima.foundation",
-            "server_port": 22231,
-            "uuid": "2dfa740c-8069-4993-8b96-c3e5dc540593",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "at.ultima.foundation",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng",
-                    "short_id": "a9725715bf4c62ff"
-                }
             }
         },
         {
