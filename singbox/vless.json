@@ -597,9 +597,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @rxv2ray | 15",
             "type": "vless",
-            "server": "27.50.48.8",
+            "server": "cc.cybsecguru.com",
             "server_port": 443,
-            "uuid": "602b380a-9fdf-4425-bc07-aae9a95cfc4b",
+            "uuid": "b4bd0613-ff7c-4f2f-954d-185915e6ddad",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -609,7 +609,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vless.hubp.de",
+                "server_name": "jnir-cdn.jnir.my",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -619,9 +619,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/snippets\/ip=tp50000.kr.proxyip.fgfw.eu.org:50000",
+                "path": "\/@JavidnamanIran\/Javid-SHAH-KingRezaPahlavi\/?ed=2560",
                 "headers": {
-                    "Host": "vless.hubp.de"
+                    "Host": "jnir-cdn.jnir.my"
                 }
             }
         },
