@@ -121,9 +121,9 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 15",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 5",
@@ -154,9 +154,9 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+                "🇨🇦CA | 🔴 | vless | @rxv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 15",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 5",
@@ -534,7 +534,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -579,7 +579,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
+            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 15",
             "type": "vless",
             "server": "cc.cybsecguru.com",
             "server_port": 443,
@@ -614,7 +614,7 @@
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "d6cd1949-d533-4f30-8e58-93b12f044381",
+            "uuid": "2452faab-0dc6-470f-9518-28c963550451",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -628,7 +628,7 @@
             "type": "vless",
             "server": "151.101.205.194",
             "server_port": 80,
-            "uuid": "d7276e87-fb23-48b1-a68e-fc57a13417fc",
+            "uuid": "d6cd1949-d533-4f30-8e58-93b12f044381",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
