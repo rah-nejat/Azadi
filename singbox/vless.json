@@ -122,7 +122,7 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @rxv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 15",
@@ -155,7 +155,7 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @rxv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 14",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 15",
@@ -548,7 +548,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @rxv2ray | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
             "type": "vless",
             "server": "cc.cybsecguru.com",
             "server_port": 443,
