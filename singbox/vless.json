@@ -122,7 +122,6 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 16",
@@ -155,7 +154,6 @@
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 15",
                 "🇳🇱NL | 🔴 | vless | @lightning6 | 16",
@@ -545,37 +543,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @rxv2ray | 14",
-            "type": "vless",
-            "server": "cc.cybsecguru.com",
-            "server_port": 443,
-            "uuid": "b4bd0613-ff7c-4f2f-954d-185915e6ddad",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "jnir-cdn.jnir.my",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@JavidnamanIran\/Javid-SHAH-KingRezaPahlavi\/?ed=2560",
-                "headers": {
-                    "Host": "jnir-cdn.jnir.my"
-                }
             }
         },
         {
