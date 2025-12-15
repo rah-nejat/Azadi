@@ -108,8 +108,7 @@
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 4",
                 "❔XX | 🟢 | vless | @EliV2ray | 5",
-                "❔XX | 🔴 | vless | @Parsashonam | 16",
-                "❔XX | 🔴 | vless | @Parsashonam | 17",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -142,8 +141,7 @@
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 4",
                 "❔XX | 🟢 | vless | @EliV2ray | 5",
-                "❔XX | 🔴 | vless | @Parsashonam | 16",
-                "❔XX | 🔴 | vless | @Parsashonam | 17",
+                "❔XX | 🔴 | vless | @Parsashonam | 14",
                 "❔XX | 🔴 | vless | @NIM_VPN_ir | 1",
                 "❔XX | 🔴 | vless | @XsV2ray | 3",
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
@@ -218,25 +216,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 16",
-            "type": "vless",
-            "server": "185.146.173.39",
-            "server_port": 8080,
-            "uuid": "Parsashonam-321",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 17",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 14",
             "type": "vless",
             "server": "188.245.217.190",
             "server_port": 443,
-            "uuid": "Parsashonam-321",
+            "uuid": "Parsashonam-322",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -322,7 +306,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "3.65.168.1",
+            "server": "13.36.150.189",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -353,7 +337,7 @@
         {
             "tag": "❔XX | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.71.208.119",
+            "server": "3.65.168.1",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
