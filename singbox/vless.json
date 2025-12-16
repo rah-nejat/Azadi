@@ -119,7 +119,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
@@ -150,7 +150,7 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+                "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 15",
@@ -495,11 +495,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
             "type": "vless",
             "server": "172.66.156.81",
             "server_port": 80,
-            "uuid": "3f4d2d8c-6487-4748-a7e7-15215d4894de",
+            "uuid": "d512bf22-e4f5-46d6-b531-b398e25eef7e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
